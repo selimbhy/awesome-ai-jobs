@@ -1644,6 +1644,16 @@ Finding the right role is hard. We do the heavy lifting by scraping the best rem
 
 ---
 
+## ⭐ Bookmark & Support
+
+If you find this curated list helpful, please consider **Starring (⭐)** the repository at the top right of this page! 
+
+- 👀 **Watch** the repository to get notified of new job drops.
+- 🔖 **Bookmark** this page in your browser and check back daily—we update this list every 24 hours.
+- 📣 **Share** it with friends who are looking for high-paying remote engineering roles.
+
+---
+
 <div align="center">
-  <i>This repository is updated automatically every day. Star ⭐ and Watch 👀 the repo so you never miss a high-paying opportunity!</i>
+  <i>This repository is updated automatically every day.</i>
 </div>
