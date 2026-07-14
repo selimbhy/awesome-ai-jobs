@@ -16,6 +16,8 @@ When you apply via the links below, you are routed directly to the priority appl
 - **🌍 100% Remote:** Work from anywhere on your own schedule.
 - **⚡ Fast-Tracked:** Direct referral links to bypass the standard noisy application pile.
 
+> 🤝 **Transparency Note:** The links provided are referral links. If you apply and get hired, we may earn a small bounty at absolutely no cost to you! Using these links helps support this repository and keeps this curated list free and updated daily. We'd super appreciate it if you use them! ❤️
+
 ---
 
 ## 💼 Active Opportunities
