@@ -1,9 +1,9 @@
+🇺🇸 [English](README.md) | 🇪🇸 [Español](README-es.md) | 🇵🇹 [Português](README-pt.md) | 🇫🇷 [Français](README-fr.md) | 🇩🇪 [Deutsch](README-de.md) | 🇮🇹 [Italiano](README-it.md)
+
 <div align="center">
   <h1>🚀 Awesome AI & Remote Developer Jobs</h1>
   <p><b>Stop searching. Start applying. 💸 Elite, High-Paying Remote Roles in AI & Engineering.</b></p>
-  <p>
-    <i>Updated daily. Hand-picked for top-tier talent. Fast-track your application below.</i>
-  </p>
+  <p><i>Updated daily. Hand-picked for top-tier talent.</i></p>
 </div>
 
 ---
@@ -32,6 +32,13 @@ Finding the right role is hard. We do the heavy lifting by scraping the best rem
 
 ## AI & Machine Learning
 
+### <a href="https://jobs.micro1.ai/post/204600bf-1abe-4ab0-a474-cd2264999149?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Data-Video Generalist (US-based)</a>
+- **💸 Pay Rate:** $13 - $13/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/204600bf-1abe-4ab0-a474-cd2264999149?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > The Data-Video Generalist will capture high-quality video and IMU data with meticulous attention to detail to support AI model training and evaluation. This role contributes to advancing frontier AI systems by providing precise, real-world data for micro1’s industry-leading platform.
+
+
 ### <a href="https://jobs.micro1.ai/post/e3ccd502-1383-42f3-8055-59e7f2debba5?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Thai Language Expert</a>
 - **💸 Pay Rate:** $15 - $30/hour
 - **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/e3ccd502-1383-42f3-8055-59e7f2debba5?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
@@ -39,11 +46,32 @@ Finding the right role is hard. We do the heavy lifting by scraping the best rem
   > "As a Thai Language Expert, you will leverage your fluency and voice acting skills to deliver high-quality captioning and transcription for cutting-edge AI training projects. Join a leading AI data lab to shape frontier models with precise linguistic expertise and attention to detail."
 
 
+### <a href="https://jobs.micro1.ai/post/ff5e419e-f4b7-46e0-bcb0-b5fd190506f3?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Remote Household Data Specialist - Video Capture (PH)</a>
+- **💸 Pay Rate:** $15 - $30/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/ff5e419e-f4b7-46e0-bcb0-b5fd190506f3?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > The Remote Household Data Specialist - Video Capture (PH) role involves meticulously recording and processing video data to support AI training, leveraging precision tools like UMI-Grippers. This position contributes to advancing AI systems by delivering high-quality, real-world data for model evaluation and improvement.
+
+
+### <a href="https://jobs.micro1.ai/post/c3811866-7296-4c18-873d-79e55719d148?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Household Data Specialist - Video Capture (ARG)</a>
+- **💸 Pay Rate:** $15 - $30/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/c3811866-7296-4c18-873d-79e55719d148?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > The Household Data Specialist - Video Capture (ARG) role at micro1 involves expertly controlling video capturing devices to produce high-quality training data for AI models. This position leverages meticulous attention to detail and specialized tools like the UMI-gripper to contribute to advancing AI reasoning and performance.
+
+
 ### <a href="https://jobs.micro1.ai/post/fa6b8d84-b0e9-4c9d-9af1-d47f992a1962?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Spanish Language Expert (Spain)</a>
 - **💸 Pay Rate:** $10 - $20/hour
 - **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/fa6b8d84-b0e9-4c9d-9af1-d47f992a1962?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
 - **📝 Description:** 
   > Seeking a fluent Spanish Language Expert (Spain) to deliver precise transcription, metadata tagging, and annotation with meticulous attention to detail. Join a leading AI data lab to shape high-quality training data that enhances AI reasoning and performance.
+
+
+### <a href="https://jobs.micro1.ai/post/25977272-dca9-4b3a-a676-51bdfeae0a3d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Video Data Entry Specialist (LATAM)</a>
+- **💸 Pay Rate:** $6 - $6/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/25977272-dca9-4b3a-a676-51bdfeae0a3d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > The Video Data Entry Specialist (LATAM) will meticulously annotate and record video data to support AI training, ensuring high-quality datasets for cutting-edge models. This role at micro1 leverages expert attention to detail to enhance AI reasoning and performance through precise data contributions.
 
 
 ### <a href="https://jobs.micro1.ai/post/546656aa-cb01-49ae-9830-a5afe4627d9d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Marketing Domain Expert</a>
@@ -58,6 +86,13 @@ Finding the right role is hard. We do the heavy lifting by scraping the best rem
 - **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/1dcb7192-83d0-4926-9ce1-60f0a5f7c966?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
 - **📝 Description:** 
   > This role involves analyzing and responding to customer support emails with precision, ensuring clear, professional, and empathetic communication that enhances customer experience. As part of a cutting-edge AI data lab, you’ll leverage your expertise to refine AI training data while delivering exceptional service that drives customer satisfaction and operational excellence.
+
+
+### <a href="https://jobs.micro1.ai/post/2418674e-c1a6-4dbb-a43c-85fc8ddfdec4?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Data-Video Generalist (Europe-based)</a>
+- **💸 Pay Rate:** $10 - $10/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/2418674e-c1a6-4dbb-a43c-85fc8ddfdec4?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > This Europe-based Data-Video Generalist role combines precision in video capturing and meticulous attention to detail to support micro1’s mission of generating high-quality AI training data. As part of the leading AI data lab, you’ll contribute real-world expertise to refine frontier models and enhance AI agent performance across critical domains.
 
 
 ### <a href="https://jobs.micro1.ai/post/faff93fa-4e51-4996-b9bf-283cf29f46e8?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Software Engineer - AI Quality & Testing [2nd Round Interview]</a>
@@ -79,6 +114,20 @@ Finding the right role is hard. We do the heavy lifting by scraping the best rem
 - **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/720e5ac0-2807-477c-82d5-849d5950a1bd?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
 - **📝 Description:** 
   > Engineer highly specialized AI training data by applying deep domain expertise across fields like finance, healthcare, and STEM to develop precise, real-world knowledge frameworks. Drive impactful workflows, process optimization, and confidential decision-making to advance frontier AI models and agent evaluations.
+
+
+### <a href="https://jobs.micro1.ai/post/66e153bc-1c52-439e-8fcb-38d35c4eae67?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">E-commerce Data & Catalog Specialist</a>
+- **💸 Pay Rate:** $40 - $50/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/66e153bc-1c52-439e-8fcb-38d35c4eae67?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > The E-commerce Data & Catalog Specialist will expertly manage and optimize product catalogs, leveraging SQL/NoSQL databases and taxonomy frameworks to ensure structured, high-quality data for seamless e-commerce operations. This role drives efficiency in merchandising and data modeling, supporting AI training and evaluation at the forefront of industry innovation.
+
+
+### <a href="https://jobs.micro1.ai/post/caa4b2e6-234f-428c-920d-52d4fbe12d01?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Household Data Specialist - Video Capture (US)</a>
+- **💸 Pay Rate:** $30 - $30/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/caa4b2e6-234f-428c-920d-52d4fbe12d01?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > The Household Data Specialist - Video Capture (US) will meticulously operate and set up equipment to collect high-quality video data while adhering to precise specifications. This role at micro1, a leading AI data lab, requires exceptional attention to detail and manual dexterity to support the training and evaluation of cutting-edge AI models.
 
 
 ### <a href="https://jobs.micro1.ai/post/c99791a5-fa53-4691-b3ce-de6ac35e0fff?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">AI Evaluation Specialist</a>
@@ -109,6 +158,20 @@ Finding the right role is hard. We do the heavy lifting by scraping the best rem
   > Design and deploy cutting-edge AI models and scalable ML pipelines using AWS and CI/CD to advance frontier AI systems. Collaborate with cross-domain experts at micro1 to refine training data, evaluations, and feedback loops that enhance AI reasoning and learning.
 
 
+### <a href="https://jobs.micro1.ai/post/e851f658-c8f1-4b48-be02-d77625c53c8f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Data Labeling Associate - Video Content</a>
+- **💸 Pay Rate:** $20 - $20/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/e851f658-c8f1-4b48-be02-d77625c53c8f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > The Data Labeling Associate - Video Content role at micro1 involves meticulously analyzing and annotating video data to enhance AI training, leveraging strong visual discrimination and process adherence. This position contributes to refining AI systems by ensuring high-quality, detailed labeling that improves model learning and performance.
+
+
+### <a href="https://jobs.micro1.ai/post/9bdb8c16-eaf3-46f2-8d96-b68a71e8985d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Data Analyst (Excel)</a>
+- **💸 Pay Rate:** $40 - $55/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/9bdb8c16-eaf3-46f2-8d96-b68a71e8985d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > Seeking a detail-oriented Data Analyst with advanced Excel expertise to clean, validate, and visualize data while collaborating with cross-functional teams to drive business insights. This role at micro1, a leading AI data lab, offers $40–55/hour to leverage analytical rigor and stakeholder communication in shaping frontier AI models.
+
+
 ### <a href="https://jobs.micro1.ai/post/699c82e5-cf44-4e08-8779-35364d62fdc6?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">AI Trainer & Evaluator</a>
 - **💸 Pay Rate:** $20 - $40/hour
 - **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/699c82e5-cf44-4e08-8779-35364d62fdc6?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
@@ -135,6 +198,13 @@ Finding the right role is hard. We do the heavy lifting by scraping the best rem
 - **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/131f4efd-b18a-4cf5-838d-111f824267a8?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
 - **📝 Description:** 
   > The AI Customer Support Specialist at micro1 will leverage strong troubleshooting and problem-solving skills to investigate and reproduce customer-reported issues, ensuring seamless support for AI training and evaluation initiatives. This part-time, contract, or full-time role offers $30–34/hour for detail-oriented professionals with 4+ years of tech or SaaS customer service experience.
+
+
+### <a href="https://jobs.micro1.ai/post/0566558a-52b0-4c27-affe-702d16dcdfd7?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Generalist for Data Annotation</a>
+- **💸 Pay Rate:** $30 - $80/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/0566558a-52b0-4c27-affe-702d16dcdfd7?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > The Generalist for Data Annotation at micro1 applies critical thinking and meticulous attention to detail to produce high-quality training data and evaluations for frontier AI models. This remote role leverages diverse subject matter expertise to shape AI development across domains like finance, healthcare, and STEM engineering.
 
 
 ### <a href="https://jobs.micro1.ai/post/00790f76-0b22-4b18-8910-6596efa752ca?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">AI Data Annotation Expert</a>
@@ -176,6 +246,13 @@ Finding the right role is hard. We do the heavy lifting by scraping the best rem
 
 ## Backend Development
 
+### <a href="https://jobs.micro1.ai/post/da23bd9a-d2d2-4425-ab82-8753c4a0825a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Javanese Language Expert</a>
+- **💸 Pay Rate:** $45 - $95/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/da23bd9a-d2d2-4425-ab82-8753c4a0825a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > Seeking a fluent Javanese language expert to contribute high-quality linguistic data and evaluations for cutting-edge AI training at a leading AI data lab. Earn $45–$95/hour by leveraging your expertise to enhance AI reasoning and performance in Javanese contexts.
+
+
 ### <a href="https://jobs.micro1.ai/post/b4d8b40e-974e-4113-a8f9-534dd4c3739c?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Java Developer</a>
 - **💸 Pay Rate:** $30 - $90/hour
 - **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/b4d8b40e-974e-4113-a8f9-534dd4c3739c?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
@@ -190,13 +267,6 @@ Finding the right role is hard. We do the heavy lifting by scraping the best rem
   > We are seeking a skilled Rust Developer to build high-performance systems and APIs (GraphQL/REST) that power our AI data platform. Join us in transforming expert knowledge into cutting-edge training data and evaluations for frontier AI models.
 
 
-### <a href="https://jobs.micro1.ai/post/44152534-cfa1-4ed7-9fa6-8be32f879682?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Go Developer</a>
-- **💸 Pay Rate:** $30 - $90/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/44152534-cfa1-4ed7-9fa6-8be32f879682?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > Seeking a skilled Go Developer to design and implement high-performance REST APIs and backend systems that power micro1’s AI data platform. This role offers the opportunity to contribute to cutting-edge AI training and evaluation infrastructure while working with modern technologies like GoLang and GraphQL.
-
-
 ### <a href="https://jobs.micro1.ai/post/c944428b-beb3-4eae-b4f4-c11ee7fba69b?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Python Developer</a>
 - **💸 Pay Rate:** $50 - $100/hour
 - **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/c944428b-beb3-4eae-b4f4-c11ee7fba69b?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
@@ -209,6 +279,13 @@ Finding the right role is hard. We do the heavy lifting by scraping the best rem
 - **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/bd545591-e88e-48f9-b3a9-cd3716144c8f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
 - **📝 Description:** 
   > Seeking a skilled Node.js Developer proficient in JavaScript and TypeScript to build scalable backend systems for micro1, the leading AI data lab transforming real-world expertise into high-quality training data. This role offers competitive hourly rates ($30–$90) and the opportunity to contribute to cutting-edge AI model training and evaluation.
+
+
+### <a href="https://jobs.micro1.ai/post/b8825ab1-28f7-4909-bc53-c0632509bb65?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Javascript Developer</a>
+- **💸 Pay Rate:** $30 - $90/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/b8825ab1-28f7-4909-bc53-c0632509bb65?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > Seeking a skilled JavaScript Developer to contribute to cutting-edge AI training and evaluation platforms, leveraging expertise to enhance AI reasoning and performance. This role offers competitive compensation ($30-90/h) and the opportunity to work with top-tier talent in domains like finance, healthcare, and engineering.
 
 
 ### <a href="https://jobs.micro1.ai/post/67dd7653-263c-47d8-a198-0d3bcfa1316f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Junior Python Game Developer (Panda3D)</a>
@@ -228,13 +305,6 @@ Finding the right role is hard. We do the heavy lifting by scraping the best rem
 [⬆️ Back to Top](#-table-of-contents)
 
 ## Frontend Development
-
-### <a href="https://jobs.micro1.ai/post/dfc39e0e-0257-43eb-b8bf-db6968e3cf87?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Private Equity Expert</a>
-- **💸 Pay Rate:** $30 - $65/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/dfc39e0e-0257-43eb-b8bf-db6968e3cf87?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > A seasoned Private Equity Expert with a proven track record in deal sourcing, due diligence, and financial modeling to drive high-impact investment decisions. Combines analytical rigor, strategic valuation, and portfolio management expertise to optimize returns and shape exit strategies in a technology-driven finance landscape.
-
 
 ### <a href="https://jobs.micro1.ai/post/d22bec54-9218-4074-8e64-1e82848a3082?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Angular Developer</a>
 - **💸 Pay Rate:** $30 - $90/hour
@@ -318,13 +388,6 @@ Finding the right role is hard. We do the heavy lifting by scraping the best rem
   > A Computer Science Expert (PhD) at micro1 will leverage advanced Python skills and deep domain expertise to develop high-quality AI training data and evaluations, shaping the next generation of frontier models. This role offers the opportunity to contribute cutting-edge research and real-world insights across diverse fields like finance, healthcare, and STEM engineering while earning $80–90/hour.
 
 
-### <a href="https://jobs.micro1.ai/post/204600bf-1abe-4ab0-a474-cd2264999149?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Data-Video Generalist (US-based)</a>
-- **💸 Pay Rate:** $13 - $13/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/204600bf-1abe-4ab0-a474-cd2264999149?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > The Data-Video Generalist will capture high-quality video and IMU data with meticulous attention to detail to support AI model training and evaluation. This role contributes to advancing frontier AI systems by providing precise, real-world data for micro1’s industry-leading platform.
-
-
 ### <a href="https://jobs.micro1.ai/post/3a0781d0-5c49-4a42-bf3f-ae9092382614?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Health Care Specialist</a>
 - **💸 Pay Rate:** $15 - $25/hour
 - **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/3a0781d0-5c49-4a42-bf3f-ae9092382614?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
@@ -386,20 +449,6 @@ Finding the right role is hard. We do the heavy lifting by scraping the best rem
 - **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/eb53f428-5c3c-495a-bf71-ef0204951ece?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
 - **📝 Description:** 
   > Seeking a fluent Bengali Language Expert to deliver high-quality voice acting, transcription, and captioning with meticulous attention to detail. Join a leading AI data lab to contribute your linguistic expertise in shaping cutting-edge AI systems.
-
-
-### <a href="https://jobs.micro1.ai/post/ff5e419e-f4b7-46e0-bcb0-b5fd190506f3?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Remote Household Data Specialist - Video Capture (PH)</a>
-- **💸 Pay Rate:** $15 - $30/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/ff5e419e-f4b7-46e0-bcb0-b5fd190506f3?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > The Remote Household Data Specialist - Video Capture (PH) role involves meticulously recording and processing video data to support AI training, leveraging precision tools like UMI-Grippers. This position contributes to advancing AI systems by delivering high-quality, real-world data for model evaluation and improvement.
-
-
-### <a href="https://jobs.micro1.ai/post/c3811866-7296-4c18-873d-79e55719d148?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Household Data Specialist - Video Capture (ARG)</a>
-- **💸 Pay Rate:** $15 - $30/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/c3811866-7296-4c18-873d-79e55719d148?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > The Household Data Specialist - Video Capture (ARG) role at micro1 involves expertly controlling video capturing devices to produce high-quality training data for AI models. This position leverages meticulous attention to detail and specialized tools like the UMI-gripper to contribute to advancing AI reasoning and performance.
 
 
 ### <a href="https://jobs.micro1.ai/post/4f2eb822-e6a3-4a69-9d0f-e2e68d692131?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Spanish Language Expert (Mexico)</a>
@@ -542,13 +591,6 @@ Finding the right role is hard. We do the heavy lifting by scraping the best rem
   > The Marketing Documents Specialist (Portuguese) will leverage expertise in Microsoft Office tools to create and refine high-impact marketing materials, ensuring clarity and cultural relevance for Portuguese-speaking audiences. This role supports micro1’s mission by transforming subject-matter insights into polished, professional documentation that enhances AI training and evaluation processes.
 
 
-### <a href="https://jobs.micro1.ai/post/25977272-dca9-4b3a-a676-51bdfeae0a3d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Video Data Entry Specialist (LATAM)</a>
-- **💸 Pay Rate:** $6 - $6/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/25977272-dca9-4b3a-a676-51bdfeae0a3d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > The Video Data Entry Specialist (LATAM) will meticulously annotate and record video data to support AI training, ensuring high-quality datasets for cutting-edge models. This role at micro1 leverages expert attention to detail to enhance AI reasoning and performance through precise data contributions.
-
-
 ### <a href="https://jobs.micro1.ai/post/6c1e8824-0207-442e-ba3e-62ab61c112a5?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Hindi Transcription Expert</a>
 - **💸 Pay Rate:** $8 - $16/hour
 - **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/6c1e8824-0207-442e-ba3e-62ab61c112a5?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
@@ -575,13 +617,6 @@ Finding the right role is hard. We do the heavy lifting by scraping the best rem
 - **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/e30eca0d-22ab-44d7-be44-f30fe721ced5?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
 - **📝 Description:** 
   > This role seeks a fluent Tatar and English language expert to deliver precise transcription, translation, and linguistic analysis while capturing nuanced emotion and tone for AI training datasets. As part of a pioneering AI data lab, you’ll apply your deep linguistic expertise to refine cutting-edge models across high-impact domains like healthcare, finance, and engineering.
-
-
-### <a href="https://jobs.micro1.ai/post/2418674e-c1a6-4dbb-a43c-85fc8ddfdec4?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Data-Video Generalist (Europe-based)</a>
-- **💸 Pay Rate:** $10 - $10/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/2418674e-c1a6-4dbb-a43c-85fc8ddfdec4?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > This Europe-based Data-Video Generalist role combines precision in video capturing and meticulous attention to detail to support micro1’s mission of generating high-quality AI training data. As part of the leading AI data lab, you’ll contribute real-world expertise to refine frontier models and enhance AI agent performance across critical domains.
 
 
 ### <a href="https://jobs.micro1.ai/post/6b371c85-499e-4ded-b9b5-f9bef4bfce89?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Dioula Bilingual Expert</a>
@@ -673,13 +708,6 @@ Finding the right role is hard. We do the heavy lifting by scraping the best rem
 - **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/3d2a493f-3e7e-4e9d-8f85-e6bb6ca1d253?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
 - **📝 Description:** 
   > Leverage your fluency in Swedish to shape the future of AI by contributing high-quality translations and linguistic expertise to train and evaluate cutting-edge models. Join a leading AI data lab where your language mastery directly enhances the reasoning and performance of next-generation AI systems.
-
-
-### <a href="https://jobs.micro1.ai/post/da23bd9a-d2d2-4425-ab82-8753c4a0825a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Javanese Language Expert</a>
-- **💸 Pay Rate:** $45 - $95/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/da23bd9a-d2d2-4425-ab82-8753c4a0825a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > Seeking a fluent Javanese language expert to contribute high-quality linguistic data and evaluations for cutting-edge AI training at a leading AI data lab. Earn $45–$95/hour by leveraging your expertise to enhance AI reasoning and performance in Javanese contexts.
 
 
 ### <a href="https://jobs.micro1.ai/post/7aa582e6-1597-48f7-8510-d60f08bd8f9f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Sanskrit Language Expert</a>
@@ -780,13 +808,6 @@ Finding the right role is hard. We do the heavy lifting by scraping the best rem
   > Seeking a fluent Hebrew language expert with exceptional voice acting and transcription skills to refine AI training data. This role involves precise captioning and transcript correction to enhance the accuracy and reasoning of cutting-edge AI systems.
 
 
-### <a href="https://jobs.micro1.ai/post/66e153bc-1c52-439e-8fcb-38d35c4eae67?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">E-commerce Data & Catalog Specialist</a>
-- **💸 Pay Rate:** $40 - $50/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/66e153bc-1c52-439e-8fcb-38d35c4eae67?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > The E-commerce Data & Catalog Specialist will expertly manage and optimize product catalogs, leveraging SQL/NoSQL databases and taxonomy frameworks to ensure structured, high-quality data for seamless e-commerce operations. This role drives efficiency in merchandising and data modeling, supporting AI training and evaluation at the forefront of industry innovation.
-
-
 ### <a href="https://jobs.micro1.ai/post/26ea747f-ec7c-44d2-b81f-f91a7b82e1e1?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Legal Expert</a>
 - **💸 Pay Rate:** $40 - $110/hour
 - **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/26ea747f-ec7c-44d2-b81f-f91a7b82e1e1?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
@@ -843,13 +864,6 @@ Finding the right role is hard. We do the heavy lifting by scraping the best rem
   > The Computational Engineering Expert will lead advanced simulations and modeling using tools like CFD, FEA, and HPC to solve complex engineering challenges and optimize large-scale systems. This role requires deep technical expertise in scripting, AI/ML applications, and domain-specific tools to drive innovation in scientific workflows and technical benchmarking.
 
 
-### <a href="https://jobs.micro1.ai/post/caa4b2e6-234f-428c-920d-52d4fbe12d01?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Household Data Specialist - Video Capture (US)</a>
-- **💸 Pay Rate:** $30 - $30/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/caa4b2e6-234f-428c-920d-52d4fbe12d01?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > The Household Data Specialist - Video Capture (US) will meticulously operate and set up equipment to collect high-quality video data while adhering to precise specifications. This role at micro1, a leading AI data lab, requires exceptional attention to detail and manual dexterity to support the training and evaluation of cutting-edge AI models.
-
-
 ### <a href="https://jobs.micro1.ai/post/de7f6fee-787d-485c-9d59-20393d1fcf66?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">CAD Expert</a>
 - **💸 Pay Rate:** $20 - $70/hour
 - **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/de7f6fee-787d-485c-9d59-20393d1fcf66?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
@@ -862,6 +876,13 @@ Finding the right role is hard. We do the heavy lifting by scraping the best rem
 - **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/63a562c9-6e3b-4a0d-9b5b-f66f93c0cdff?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
 - **📝 Description:** 
   > A seasoned Investment Banking Expert with deep expertise in financial analysis, valuation, and deal structuring to drive high-impact strategic decisions. Leverages advanced financial modeling and market insights to deliver precision in complex transactions and AI-enhanced advisory solutions.
+
+
+### <a href="https://jobs.micro1.ai/post/dfc39e0e-0257-43eb-b8bf-db6968e3cf87?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Private Equity Expert</a>
+- **💸 Pay Rate:** $30 - $65/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/dfc39e0e-0257-43eb-b8bf-db6968e3cf87?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > A seasoned Private Equity Expert with a proven track record in deal sourcing, due diligence, and financial modeling to drive high-impact investment decisions. Combines analytical rigor, strategic valuation, and portfolio management expertise to optimize returns and shape exit strategies in a technology-driven finance landscape.
 
 
 ### <a href="https://jobs.micro1.ai/post/0645c58a-a6d9-4557-b05e-74bd30105f6a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Telecommunications Expert</a>
@@ -911,6 +932,13 @@ Finding the right role is hard. We do the heavy lifting by scraping the best rem
 - **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/d585ecf3-a5d6-42a6-9996-c95599e78da4?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
 - **📝 Description:** 
   > The Manufacturing Expert will leverage Six Sigma, process mapping, and root-cause analysis to drive production line optimization, quality assurance, and operational excellence. This role requires deep mechanical engineering expertise and strong cross-functional collaboration to enhance manufacturing processes and documentation.
+
+
+### <a href="https://jobs.micro1.ai/post/e4559d84-181c-434d-9346-77b9bd432cfa?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Commercial Real Estate Manager</a>
+- **💸 Pay Rate:** $40 - $65/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/e4559d84-181c-434d-9346-77b9bd432cfa?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > The Commercial Real Estate Manager will leverage deep expertise in property valuation, feasibility studies, and market analysis to optimize portfolio performance and drive strategic decisions. This role demands a detail-oriented professional with strong regulatory knowledge, adaptability to technology-driven projects, and a collaborative approach to remote work.
 
 
 ### <a href="https://jobs.micro1.ai/post/b4746f09-0bbe-45be-a7de-c5280e733d9e?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Marketing Documents Specialist (Japanese)</a>
@@ -1039,25 +1067,18 @@ Finding the right role is hard. We do the heavy lifting by scraping the best rem
   > Seeking a detail-oriented Transactional Attorney with in-house counsel experience to draft and negotiate technology contracts, driving high-stakes deals for a leading AI data lab. This role offers $80–105/hour to leverage legal expertise in shaping cutting-edge AI training and evaluation frameworks.
 
 
+### <a href="https://jobs.micro1.ai/post/44152534-cfa1-4ed7-9fa6-8be32f879682?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Go Developer</a>
+- **💸 Pay Rate:** $30 - $90/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/44152534-cfa1-4ed7-9fa6-8be32f879682?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > Seeking a skilled Go Developer to design and implement high-performance REST APIs and backend systems that power micro1’s AI data platform. This role offers the opportunity to contribute to cutting-edge AI training and evaluation infrastructure while working with modern technologies like GoLang and GraphQL.
+
+
 ### <a href="https://jobs.micro1.ai/post/02f5e4c0-747b-4ef7-ab15-73cb26d0938a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">.NET Engineer</a>
 - **💸 Pay Rate:** $30 - $90/hour
 - **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/02f5e4c0-747b-4ef7-ab15-73cb26d0938a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
 - **📝 Description:** 
   > Seeking a skilled .NET Engineer to develop and optimize scalable applications using C# and cloud platforms like AWS and Azure. Join micro1, a leading AI data lab, to contribute to cutting-edge projects that enhance AI learning and performance through high-quality training data and evaluations.
-
-
-### <a href="https://jobs.micro1.ai/post/b8825ab1-28f7-4909-bc53-c0632509bb65?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Javascript Developer</a>
-- **💸 Pay Rate:** $30 - $90/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/b8825ab1-28f7-4909-bc53-c0632509bb65?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > Seeking a skilled JavaScript Developer to contribute to cutting-edge AI training and evaluation platforms, leveraging expertise to enhance AI reasoning and performance. This role offers competitive compensation ($30-90/h) and the opportunity to work with top-tier talent in domains like finance, healthcare, and engineering.
-
-
-### <a href="https://jobs.micro1.ai/post/e851f658-c8f1-4b48-be02-d77625c53c8f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Data Labeling Associate - Video Content</a>
-- **💸 Pay Rate:** $20 - $20/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/e851f658-c8f1-4b48-be02-d77625c53c8f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > The Data Labeling Associate - Video Content role at micro1 involves meticulously analyzing and annotating video data to enhance AI training, leveraging strong visual discrimination and process adherence. This position contributes to refining AI systems by ensuring high-quality, detailed labeling that improves model learning and performance.
 
 
 ### <a href="https://jobs.micro1.ai/post/29f1d6e8-101a-46ed-ae31-ef1b3dde30ed?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Uyghur Bilingual Expert</a>
@@ -1100,13 +1121,6 @@ Finding the right role is hard. We do the heavy lifting by scraping the best rem
 - **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/6690a79a-7456-42c9-bdff-98fe78a4f21c?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
 - **📝 Description:** 
   > Seeking an Excel Expert to leverage advanced functions, pivot tables, and automation to drive data analysis, workflow optimization, and strategic business operations. This role offers $40-55/hour for a detail-oriented professional to deliver high-impact solutions in a remote, collaborative environment.
-
-
-### <a href="https://jobs.micro1.ai/post/9bdb8c16-eaf3-46f2-8d96-b68a71e8985d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Data Analyst (Excel)</a>
-- **💸 Pay Rate:** $40 - $55/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/9bdb8c16-eaf3-46f2-8d96-b68a71e8985d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > Seeking a detail-oriented Data Analyst with advanced Excel expertise to clean, validate, and visualize data while collaborating with cross-functional teams to drive business insights. This role at micro1, a leading AI data lab, offers $40–55/hour to leverage analytical rigor and stakeholder communication in shaping frontier AI models.
 
 
 ### <a href="https://jobs.micro1.ai/post/b7b6b81b-6567-48bd-ab90-b40ec55fcfda?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Business Intelligence Consultant (Excel)</a>
@@ -1536,6 +1550,13 @@ Finding the right role is hard. We do the heavy lifting by scraping the best rem
   > A distinguished Mechanical Engineering Professor is sought to deliver expert instruction in solid and structural mechanics, dynamics, vibration, and control, while developing high-quality educational content and assessments. This role demands exceptional technical accuracy, communication skills, and the ability to thrive in a remote, self-directed environment.
 
 
+### <a href="https://jobs.micro1.ai/post/4bba4682-14e5-4ca8-984a-c458b45ffbd0?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Customer Success Manager</a>
+- **💸 Pay Rate:** $40 - $70/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/4bba4682-14e5-4ca8-984a-c458b45ffbd0?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > This **Customer Success Manager** role drives client satisfaction and retention by designing AI training tasks, optimizing support workflows, and leveraging tools like Zendesk and Intercom to deliver strategic insights and seamless cross-functional collaboration. Partnering with micro1, the industry leader in AI data training, you’ll shape the future of AI agents through proactive problem-solving, clear communication, and adaptive solutions that elevate both customer and product success.
+
+
 ### <a href="https://jobs.micro1.ai/post/72b56760-80df-457e-b3fc-201f970efc21?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Physics Expert (High Energy/Mathematical Physics)</a>
 - **💸 Pay Rate:** $80 - $160/hour
 - **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/72b56760-80df-457e-b3fc-201f970efc21?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
@@ -1555,13 +1576,6 @@ Finding the right role is hard. We do the heavy lifting by scraping the best rem
 - **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/345dd4f0-e901-4d51-8fa8-5e5a01ddff43?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
 - **📝 Description:** 
   > This role invites expert competitive programmers to leverage their C++ proficiency in crafting high-quality training data and evaluations for cutting-edge AI models at micro1. Earn $45–65/hour while contributing to the development of frontier AI systems through your algorithmic and problem-solving expertise.
-
-
-### <a href="https://jobs.micro1.ai/post/0566558a-52b0-4c27-affe-702d16dcdfd7?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Generalist for Data Annotation</a>
-- **💸 Pay Rate:** $30 - $80/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/0566558a-52b0-4c27-affe-702d16dcdfd7?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > The Generalist for Data Annotation at micro1 applies critical thinking and meticulous attention to detail to produce high-quality training data and evaluations for frontier AI models. This remote role leverages diverse subject matter expertise to shape AI development across domains like finance, healthcare, and STEM engineering.
 
 
 ### <a href="https://jobs.micro1.ai/post/840bc863-3ca5-4f58-aa8c-f2234067ebc9?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Architect (CAD & Construction Documentation)</a>
@@ -1610,25 +1624,11 @@ Finding the right role is hard. We do the heavy lifting by scraping the best rem
 
 ## Product & Design
 
-### <a href="https://jobs.micro1.ai/post/e4559d84-181c-434d-9346-77b9bd432cfa?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Commercial Real Estate Manager</a>
-- **💸 Pay Rate:** $40 - $65/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/e4559d84-181c-434d-9346-77b9bd432cfa?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > The Commercial Real Estate Manager will leverage deep expertise in property valuation, feasibility studies, and market analysis to optimize portfolio performance and drive strategic decisions. This role demands a detail-oriented professional with strong regulatory knowledge, adaptability to technology-driven projects, and a collaborative approach to remote work.
-
-
 ### <a href="https://jobs.micro1.ai/post/b3511282-fb70-472b-92f3-dc28cc3eef4f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Product Manager</a>
 - **💸 Pay Rate:** $40 - $80/hour
 - **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/b3511282-fb70-472b-92f3-dc28cc3eef4f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
 - **📝 Description:** 
   > This Product Manager role drives the strategic vision and execution of SaaS products, leveraging Agile methodologies, cross-functional leadership, and deep market insights to deliver innovative solutions that shape the product lifecycle. With a focus on roadmap development, stakeholder collaboration, and data-driven decision-making, you’ll lead remote teams to build competitive, high-impact products in a fast-paced AI-driven environment.
-
-
-### <a href="https://jobs.micro1.ai/post/4bba4682-14e5-4ca8-984a-c458b45ffbd0?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Customer Success Manager</a>
-- **💸 Pay Rate:** $40 - $70/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/4bba4682-14e5-4ca8-984a-c458b45ffbd0?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > This **Customer Success Manager** role drives client satisfaction and retention by designing AI training tasks, optimizing support workflows, and leveraging tools like Zendesk and Intercom to deliver strategic insights and seamless cross-functional collaboration. Partnering with micro1, the industry leader in AI data training, you’ll shape the future of AI agents through proactive problem-solving, clear communication, and adaptive solutions that elevate both customer and product success.
 
 
 [⬆️ Back to Top](#-table-of-contents)
