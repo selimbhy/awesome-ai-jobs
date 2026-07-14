@@ -21,13 +21,13 @@ When you apply via the links below, you are routed directly to the priority appl
 ## 💼 Active Opportunities
 
 ### 📑 Table of Contents
-- [AI & Machine Learning](#ai-machine-learning)
+- [AI & Machine Learning](#ai--machine-learning)
 - [Backend Development](#backend-development)
 - [Frontend Development](#frontend-development)
 - [Full Stack Development](#full-stack-development)
 - [Mobile Development](#mobile-development)
 - [Other Engineering](#other-engineering)
-- [Product & Design](#product-design)
+- [Product & Design](#product--design)
 
 
 ## AI & Machine Learning
