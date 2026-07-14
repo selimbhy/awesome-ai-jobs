@@ -36,188 +36,140 @@ When you apply via the links below, you are routed directly to the priority appl
 - **💸 Pay Rate:** $15 - $30/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/e3ccd502-1383-42f3-8055-59e7f2debba5?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-Thai
-Voice Acting
-Captioning
-2+, Thai
-Voice Acting
-Captioning
-2+, Thai, Voice Acting, Captioning, 2+, $15-30/h. Required skills: Required skills
-Thai
-Voice Acting
-Captioning
-2+, Thai
-Voice Acting
-Captioning
-2+, Thai, Voice Acting, Captioning, 2+, $15-30/h. Thai Vo...
+  > "As a Thai Language Expert, you will leverage your fluency and voice acting skills to deliver high-quality captioning and transcription for cutting-edge AI training projects. Join a leading AI data lab to shape frontier models with precise linguistic expertise and attention to detail."
 
 
 ### Spanish Language Expert (Spain)
 - **💸 Pay Rate:** $10 - $20/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/fa6b8d84-b0e9-4c9d-9af1-d47f992a1962?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Spanish
-Transcription
-Metadata Tags
-2+, Spanish, Transcription, Metadata Tags, 2+, $10-20/h. Required skills: Spanish
-Transcription
-Metadata Tags
-2+, Spanish, Transcription, Metadata Tags, 2+, $10-20/h. Spanish Transcription Metadata Tags Annotation Attention to Detail About micr...
+  > Seeking a fluent Spanish Language Expert (Spain) to deliver precise transcription, metadata tagging, and annotation with meticulous attention to detail. Join a leading AI data lab to shape high-quality training data that enhances AI reasoning and performance.
 
 
 ### Marketing Domain Expert
 - **💸 Pay Rate:** $10 - $40/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/546656aa-cb01-49ae-9830-a5afe4627d9d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Enterprise Marketing, Business Writing, Prompt Engineering, 4+, $10-40/h. Required skills: Enterprise Marketing, Business Writing, Prompt Engineering, 4+, $10-40/h. Enterprise Marketing Business Writing Prompt Engineering Analytical Reasoning Microsoft 365 Content Strategy AI Res...
+  > The Marketing Domain Expert will leverage deep enterprise marketing expertise and analytical reasoning to develop high-quality training data and evaluations that enhance AI systems' learning and decision-making. This role involves crafting strategic content, refining AI responses, and contributin...
 
 
 ### Customer Support Email Analyst
 - **💸 Pay Rate:** $10 - $20/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/1dcb7192-83d0-4926-9ce1-60f0a5f7c966?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Customer Support, Email Communication, Written Communication, 1+, $10-20/h. Required skills: Customer Support, Email Communication, Written Communication, 1+, $10-20/h. Customer Support Email Communication Written Communication Customer Experience About micro1 micro1 is the leadi...
+  > This role involves analyzing and responding to customer support emails with precision, ensuring clear, professional, and empathetic communication that enhances customer experience. As part of a cutting-edge AI data lab, you’ll leverage your expertise to refine AI training data while delivering ex...
 
 
 ### Software Engineer - AI Quality & Testing [2nd Round Interview]
 - **💸 Pay Rate:** $30 - $42/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/faff93fa-4e51-4996-b9bf-283cf29f46e8?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Typescript
-Quality Engineering
-Video Generator, Typescript, Quality Engineering, Video Generator, $30-42/h. Typescript Quality Engineering Video Generator About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute thei...
+  > The Software Engineer - AI Quality & Testing role at micro1 focuses on developing and refining AI systems by ensuring high-quality training data, evaluations, and feedback loops through expertise in TypeScript and quality engineering. This position contributes to advancing AI performance by lever...
 
 
 ### QA Specialist – AI Product Testing & Support
 - **💸 Pay Rate:** $30 - $34/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/a41ddc8a-432f-4f07-8e90-4b6544316810?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Quality Engineering, Customer Sevice, Technical Support, $30-34/h. Required skills: Quality Engineering, Customer Sevice, Technical Support, $30-34/h. Quality Engineering Customer Sevice Technical Support About micro1 micro1 is the leading AI data lab for training frontier models...
+  > The QA Specialist will ensure the highest standards of AI product performance by rigorously testing, validating, and refining models while providing expert technical support to enhance user experience. This role leverages deep quality engineering expertise to shape cutting-edge AI solutions acros...
 
 
 ### Engineer (All Domains)
 - **💸 Pay Rate:** $20 - $45/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/720e5ac0-2807-477c-82d5-849d5950a1bd?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: written communication, verbal communication, information synthesis, 7+, $20-45/h. Required skills: written communication, verbal communication, information synthesis, 7+, $20-45/h. written communication verbal communication information synthesis workflow development project manag...
+  > Engineer highly specialized AI training data by applying deep domain expertise across fields like finance, healthcare, and STEM to develop precise, real-world knowledge frameworks. Drive impactful workflows, process optimization, and confidential decision-making to advance frontier AI models and ...
 
 
 ### AI Evaluation Specialist
 - **💸 Pay Rate:** $20 - $35/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/c99791a5-fa53-4691-b3ce-de6ac35e0fff?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: rubric-based evaluation, structured observation and reporting, high attention to detail, 2+, $20-35/h. Required skills: rubric-based evaluation, structured observation and reporting, high attention to detail, 2+, $20-35/h. rubric-based evaluation structured observation and report...
+  > The AI Evaluation Specialist at micro1 will leverage expert subject matter knowledge to conduct precise, rubric-based assessments of AI models, ensuring high-quality evaluations through structured observation and meticulous reporting. This role demands advanced written communication, technical li...
 
 
 ### Retail Operations Manager
 - **💸 Pay Rate:** $40 - $65/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/0b77cea9-1a1e-47d6-846f-a2ae0aabec22?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: retail operations management, merchandising, inventory management, 19+, $40-65/h. Required skills: retail operations management, merchandising, inventory management, 19+, $40-65/h. retail operations management merchandising inventory management e-commerce strategy demand forecast...
+  > The Retail Operations Manager will oversee merchandising, inventory, and omnichannel strategies while leveraging data-driven insights to optimize pricing, demand forecasting, and process efficiency. This role requires strong leadership in team collaboration, trend analysis, and AI-enhanced decisi...
 
 
 ### Supply Chain Manager
 - **💸 Pay Rate:** $40 - $65/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/554c091a-db37-409a-b02d-afa83046eec4?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: supply chain management, logistics optimization, global procurement, 7+, $40-65/h. Required skills: supply chain management, logistics optimization, global procurement, 7+, $40-65/h. supply chain management logistics optimization global procurement vendor negotiation contract man...
+  > The Supply Chain Manager will lead global procurement, logistics optimization, and vendor negotiations to drive efficiency and cost savings for micro1’s AI data operations. This role requires strategic analytical thinking and strong communication to collaborate with remote teams and ensure seamle...
 
 
 ### AI Engineer
 - **💸 Pay Rate:** $30 - $90/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/ffb3b619-8be1-40a9-b96d-8dc41057b7f1?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-Machine Learning
-CI/CD
-AWS
-1+, Machine Learning
-CI/CD
-AWS
-1+, Machine Learning, CI/CD, AWS, 1+, $30-90/h. Required skills: Required skills
-Machine Learning
-CI/CD
-AWS
-1+, Machine Learning
-CI/CD
-AWS
-1+, Machine Learning, CI/CD, AWS, 1+, $30-90/h. Machine Learning CI...
+  > Design and deploy cutting-edge AI models and scalable ML pipelines using AWS and CI/CD to advance frontier AI systems. Collaborate with cross-domain experts at micro1 to refine training data, evaluations, and feedback loops that enhance AI reasoning and learning.
 
 
 ### AI Trainer & Evaluator
 - **💸 Pay Rate:** $20 - $40/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/699c82e5-cf44-4e08-8779-35364d62fdc6?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Attention to Detail
-Rubrics
-Critical Reading
-2+, Attention to Detail, Rubrics, Critical Reading, 2+, $20-40/h. Attention to Detail Rubrics Critical Reading AI Training Content Evaluation About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI...
+  > Shape the future of AI by leveraging your subject-matter expertise to train and evaluate cutting-edge models across domains like finance, healthcare, and STEM. Deliver high-quality feedback and assessments to refine AI reasoning, performance, and learning through meticulous attention to detail an...
 
 
 ### Video related professional for AI training
 - **💸 Pay Rate:** $65 - $80/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/a03b510d-c115-4657-aaa9-c14f6cd42f1c?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: video editing, video production workflows, motion graphics, 12+, $65-80/h. Required skills: video editing, video production workflows, motion graphics, 12+, $65-80/h. video editing video production workflows motion graphics visual effects (vfx) editing software (e.g., adobe premi...
+  > This role involves creating, editing, and analyzing video content to train and evaluate cutting-edge AI models, leveraging expertise in video production, motion graphics, and VFX. The position offers $65–80/hour for professionals with 12+ years of experience to contribute high-quality annotated d...
 
 
 ### AI Jailbreak & Prompt-Injection Security Expert
 - **💸 Pay Rate:** $50 - $90/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/91c1c68b-72e8-4532-9aa0-dac3cbf8b79d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Ethical Jailbreaks, LLM Red Teaming, Prompt Injection, 1+, $50-90/h. Required skills: Ethical Jailbreaks, LLM Red Teaming, Prompt Injection, 1+, $50-90/h. Ethical Jailbreaks LLM Red Teaming Prompt Injection Tool-Use Abuse About micro1 micro1 is the leading AI data lab for trainin...
+  > This role involves safeguarding AI systems by ethically testing and mitigating vulnerabilities like jailbreaks and prompt injections to enhance model resilience. As a leading AI data lab, micro1 leverages expert insights to refine frontier models through high-quality training data and rigorous ev...
 
 
 ### AI Customer Support Specialist (PT, CT and MT)
 - **💸 Pay Rate:** $30 - $34/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/131f4efd-b18a-4cf5-838d-111f824267a8?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: customer service in tech or saas, attention to detail, organization, 4+, $30-34/h. Required skills: customer service in tech or saas, attention to detail, organization, 4+, $30-34/h. customer service in tech or saas attention to detail organization strong troubleshooting problem ...
+  > The AI Customer Support Specialist at micro1 will leverage strong troubleshooting and problem-solving skills to investigate and reproduce customer-reported issues, ensuring seamless support for AI training and evaluation initiatives. This part-time, contract, or full-time role offers $30–34/hour ...
 
 
 ### AI Data Annotation Expert
 - **💸 Pay Rate:** $40 - $80/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/00790f76-0b22-4b18-8910-6596efa752ca?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Video Annotation, Attention to detail, Data Labeling Accuracy, 5+, $40-80/h. Required skills: Video Annotation, Attention to detail, Data Labeling Accuracy, 5+, $40-80/h. Required skills: Video Annotation, Attention to detail, Data Labeling Accuracy, 5+, $40-80/h. Video Annotatio...
+  > As an AI Data Annotation Expert at micro1, you will meticulously label and annotate video data with precision to train and evaluate cutting-edge AI models. Your analytical mindset, attention to detail, and ability to follow guidelines will directly contribute to advancing AI in domains like finan...
 
 
 ### Logistics & Supply Chain Management Specialist
 - **💸 Pay Rate:** $40 - $50/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/45ec3271-a485-446c-965e-edba13f09655?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Logistics
-Supply Chains
-Packing Lists
-2+, Logistics, Supply Chains, Packing Lists, 2+, $40-50/h. Required skills: Logistics
-Supply Chains
-Packing Lists
-2+, Logistics, Supply Chains, Packing Lists, 2+, $40-50/h. Required skills: Logistics
-Supply Chains
-Packing Lists
-2+, Logistics,...
+  > This **Logistics & Supply Chain Management Specialist** role drives operational excellence by optimizing end-to-end supply chain processes, from inventory coordination and packing list accuracy to freight logistics and compliance documentation. Leveraging deep expertise in global trade and effici...
 
 
 ### Agentic AI Expert
 - **💸 Pay Rate:** $70 - $126/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/c2b5f528-e8c9-42d4-a354-4f0cb5bfacca?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: ai agent workflows, autonomous ai coding agents, code refactoring, 3+, $70-126/h. Required skills: ai agent workflows, autonomous ai coding agents, code refactoring, 3+, $70-126/h. Required skills: ai agent workflows, autonomous ai coding agents, code refactoring, 3+, $70-126/h. ...
+  > This role demands an **Agentic AI Expert** who designs and optimizes autonomous AI workflows, refines AI-generated code, and advances agentic systems through cutting-edge prompt engineering and evaluation. As part of **micro1**, the world’s premier AI data lab, you’ll shape the future of frontier...
 
 
 ### AI Image & Video Evaluation Specialist (PT, MT and CT)
 - **💸 Pay Rate:** $30 - $40/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/6ea8b47e-851b-464c-b599-942efa3e45aa?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: visual quality assessment, image evaluation, video evaluation, 12+, $30-40/h. Required skills: visual quality assessment, image evaluation, video evaluation, 12+, $30-40/h. Required skills: visual quality assessment, image evaluation, video evaluation, 12+, $30-40/h. visual quali...
+  > The AI Image & Video Evaluation Specialist will assess and refine generative AI outputs through expert analysis of visual quality, composition, and technical accuracy. This role at micro1, the leading AI data lab, offers $30–40/hour for part-time, mid-term, and contract positions, leveraging skil...
 
 
 ### AI Trainer
 - **💸 Pay Rate:** $40 - $80/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/9a3c268a-c919-457b-aec3-1e6b7f4b48d2?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Attention to detail, Prompt Engineering, AI Training, 6+, $40-80/h. Required skills: Attention to detail, Prompt Engineering, AI Training, 6+, $40-80/h. Required skills: Attention to detail, Prompt Engineering, AI Training, 6+, $40-80/h. Attention to detail Prompt Engineering AI ...
+  > This AI Trainer role demands meticulous attention to detail and expertise in prompt engineering to refine and optimize AI models, ensuring precision in video annotation, timestamp accuracy, and quality assurance. As part of a pioneering AI data lab, you’ll leverage deep subject-matter knowledge t...
 
 
 ### Backend Development
@@ -226,139 +178,49 @@ Packing Lists
 - **💸 Pay Rate:** $30 - $90/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/b4d8b40e-974e-4113-a8f9-534dd4c3739c?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-JAVA
-Spring Boot
-Microservices, JAVA
-Spring Boot
-Microservices, JAVA, Spring Boot, Microservices, $30-90/h. Required skills: Required skills
-JAVA
-Spring Boot
-Microservices, JAVA
-Spring Boot
-Microservices, JAVA, Spring Boot, Microservices, $30-90/h. JAVA Spring Boo...
+  > Seeking a skilled Java Developer to design and implement scalable microservices using Java and Spring Boot, contributing to cutting-edge AI training and evaluation systems. This role offers the opportunity to leverage technical expertise in a dynamic environment, with compensation ranging from $3...
 
 
 ### Rust Developer
 - **💸 Pay Rate:** $30 - $90/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/429f9143-b52f-4ba5-8728-76afed802092?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-Rust
-GraphQL
-REST API
-1+, Rust
-GraphQL
-REST API
-1+, Rust, GraphQL, REST API, 1+, $30-90/h. Required skills: Required skills
-Rust
-GraphQL
-REST API
-1+, Rust
-GraphQL
-REST API
-1+, Rust, GraphQL, REST API, 1+, $30-90/h. Rust GraphQL REST API Cursor About micro1 micro1 ...
+  > We are seeking a skilled Rust Developer to build high-performance systems and APIs (GraphQL/REST) that power our AI data platform. Join us in transforming expert knowledge into cutting-edge training data and evaluations for frontier AI models.
 
 
 ### Go Developer
 - **💸 Pay Rate:** $30 - $90/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/44152534-cfa1-4ed7-9fa6-8be32f879682?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-Cursor
-GoLang
-REST API
-1+, Cursor
-GoLang
-REST API
-1+, Cursor, GoLang, REST API, 1+, $30-90/h. Required skills: Required skills
-Cursor
-GoLang
-REST API
-1+, Cursor
-GoLang
-REST API
-1+, Cursor, GoLang, REST API, 1+, $30-90/h. Cursor GoLang REST API GraphQL About micro1...
+  > Seeking a skilled Go Developer to design and implement high-performance REST APIs and backend systems that power micro1’s AI data platform. This role offers the opportunity to contribute to cutting-edge AI training and evaluation infrastructure while working with modern technologies like GoLang a...
 
 
 ### Python Developer
 - **💸 Pay Rate:** $50 - $100/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/c944428b-beb3-4eae-b4f4-c11ee7fba69b?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-REST API
-Python
-GraphQL
-1+, REST API
-Python
-GraphQL
-1+, REST API, Python, GraphQL, 1+, $50-100/h. Required skills: Required skills
-REST API
-Python
-GraphQL
-1+, REST API
-Python
-GraphQL
-1+, REST API, Python, GraphQL, 1+, $50-100/h. REST API Python GraphQL Cursor Abou...
+  > Seeking a skilled Python Developer to design and implement RESTful APIs and GraphQL solutions, contributing to micro1’s cutting-edge AI data platform. This role offers competitive hourly rates ($50–100/h) for experts who can enhance AI training and evaluation systems with high-quality code.
 
 
 ### Node.Js Developer
 - **💸 Pay Rate:** $30 - $90/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/bd545591-e88e-48f9-b3a9-cd3716144c8f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-Node.js
-JavaScript
-Typescript, Node.js
-JavaScript
-Typescript, Node.js, JavaScript, Typescript, $30-90/h. Required skills: Required skills
-Node.js
-JavaScript
-Typescript, Node.js
-JavaScript
-Typescript, Node.js, JavaScript, Typescript, $30-90/h. Node.js JavaScript Ty...
+  > Seeking a skilled Node.js Developer proficient in JavaScript and TypeScript to build scalable backend systems for micro1, the leading AI data lab transforming real-world expertise into high-quality training data. This role offers competitive hourly rates ($30–$90) and the opportunity to contribut...
 
 
 ### Junior Python Game Developer (Panda3D)
 - **💸 Pay Rate:** $50 - $120/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/67dd7653-263c-47d8-a198-0d3bcfa1316f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-GitHub
-Python
-C++
-1+, GitHub
-Python
-C++
-1+, GitHub, Python, C++, 1+, $50-120/h. Required skills: Required skills
-GitHub
-Python
-C++
-1+, GitHub
-Python
-C++
-1+, GitHub, Python, C++, 1+, $50-120/h. GitHub Python C++ Panda3D About micro1 micro1 is the leading AI data la...
+  > Seeking a Junior Python Game Developer with expertise in Panda3D to contribute to cutting-edge AI training and evaluation projects. This role involves leveraging Python and C++ to develop immersive game environments that enhance AI learning and performance.
 
 
 ### Python Game Developer (Panda3D)
 - **💸 Pay Rate:** $50 - $120/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/4f8fb39d-d46e-4bda-85cb-0fc5cc45e165?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-GitHub
-Python
-C++
-1+, GitHub
-Python
-C++
-1+, GitHub, Python, C++, 1+, $50-120/h. Required skills: Required skills
-GitHub
-Python
-C++
-1+, GitHub
-Python
-C++
-1+, GitHub, Python, C++, 1+, $50-120/h. GitHub Python C++ Panda3D About micro1 micro1 is the leading AI data la...
+  > Develop immersive 3D games using Python and Panda3D while contributing to cutting-edge AI training initiatives at a leading data lab. Leverage your expertise in Python, C++, and version control to craft high-performance gaming solutions that enhance AI reasoning and performance.
 
 
 ### Frontend Development
@@ -367,31 +229,21 @@ C++
 - **💸 Pay Rate:** $30 - $65/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/dfc39e0e-0257-43eb-b8bf-db6968e3cf87?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: private equity deal sourcing, due diligence, financial modeling, 19+, $30-65/h. Required skills: private equity deal sourcing, due diligence, financial modeling, 19+, $30-65/h. private equity deal sourcing due diligence financial modeling valuation portfolio management investment...
+  > A seasoned Private Equity Expert with a proven track record in deal sourcing, due diligence, and financial modeling to drive high-impact investment decisions. Combines analytical rigor, strategic valuation, and portfolio management expertise to optimize returns and shape exit strategies in a tech...
 
 
 ### Angular Developer
 - **💸 Pay Rate:** $30 - $90/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/d22bec54-9218-4074-8e64-1e82848a3082?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-Angular
-RxJS
-SCSS/SASS, Angular
-RxJS
-SCSS/SASS, Angular, RxJS, SCSS/SASS, $30-90/h. Required skills: Required skills
-Angular
-RxJS
-SCSS/SASS, Angular
-RxJS
-SCSS/SASS, Angular, RxJS, SCSS/SASS, $30-90/h. Angular RxJS SCSS/SASS About micro1 micro1 is the leading AI da...
+  > Seeking an Angular Developer to build dynamic, high-performance web applications using Angular, RxJS, and SCSS/SASS. Join micro1, a leading AI data lab, to contribute to cutting-edge AI training and evaluation platforms.
 
 
 ### Frontend Software Engineer
 - **💸 Pay Rate:** $40 - $50/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/aa022f40-ca04-4794-8791-5f9378400f4f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Component Style Guides, Pixel-Perfect UI Implementation, Typescript, 2+, $40-50/h. Required skills: Component Style Guides, Pixel-Perfect UI Implementation, Typescript, 2+, $40-50/h. Required skills: Component Style Guides, Pixel-Perfect UI Implementation, Typescript, 2+, $40-50/...
+  > As a Frontend Software Engineer at micro1, you’ll craft pixel-perfect, responsive user interfaces using TypeScript and component-driven design principles to elevate the performance and usability of AI training platforms. Join a pioneering team where your expertise in modern frontend development d...
 
 
 ### Full Stack Development
@@ -400,21 +252,7 @@ SCSS/SASS, Angular, RxJS, SCSS/SASS, $30-90/h. Angular RxJS SCSS/SASS About micr
 - **💸 Pay Rate:** $30 - $90/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/9cda2f44-2dcc-4f44-ba79-f5d79b179acc?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-Typescript
-NodeJS
-Python
-9+, Typescript
-NodeJS
-Python
-9+, Typescript, NodeJS, Python, 9+, $30-90/h. Required skills: Required skills
-Typescript
-NodeJS
-Python
-9+, Typescript
-NodeJS
-Python
-9+, Typescript, NodeJS, Python, 9+, $30-90/h. Typescript NodeJS Python JAVA J...
+  > "Lead the development of cutting-edge AI training platforms as a Senior Full Stack Engineer, leveraging expertise in TypeScript, Node.js, and Python to build scalable, high-impact solutions. Join micro1 in transforming real-world expertise into high-quality AI data and evaluations that shape fron...
 
 
 ### Mobile Development
@@ -423,13 +261,7 @@ Python
 - **💸 Pay Rate:** $50 - $90/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/39ebc9e2-ffef-4d6c-9ed8-61a0034a6847?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Biosecurity
-Lab Safety
-Biological Misuse
-1+, Biosecurity, Lab Safety, Biological Misuse, 1+, $50-90/h. Required skills: Biosecurity
-Lab Safety
-Biological Misuse
-1+, Biosecurity, Lab Safety, Biological Misuse, 1+, $50-90/h. Biosecurity Lab Safety Biological Misuse Public-Health Th...
+  > This role demands a seasoned Biosecurity & Synthetic Biology Expert to mitigate biological risks, ensure lab safety, and model public-health threats while shaping AI-driven solutions that advance biosecurity and synthetic biology innovation. Leveraging deep domain expertise, you will help refine ...
 
 
 ### Other Engineering
@@ -438,1739 +270,1330 @@ Biological Misuse
 - **💸 Pay Rate:** $20 - $30/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/41069675-04a8-40b6-abaa-25b7ddcd9a8b?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-Audio Editing
-Hindi, Audio Editing
-Hindi, Audio Editing, Hindi, $20-30/h. Audio Editing Hindi About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across dom...
+  > "As a Hindi Audio Engineer Expert at micro1, you will leverage your expertise in audio editing to refine and enhance high-quality training data for cutting-edge AI models. Your contributions will directly shape how AI systems learn, reason, and perform in Hindi-language applications."
 
 
 ### Physics Expert (PhD)
 - **💸 Pay Rate:** $80 - $90/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/31ab7766-5edf-463a-a490-79290e5dcef6?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Advanced physics knowledge, scientific data analysis, technical writing, 2+, $80-90/h. Advanced physics knowledge scientific data analysis technical writing verbal comms analytical thinking About micro1 micro1 is the leading AI data lab for training frontier models and evaluating...
+  > The Physics Expert (PhD) will leverage advanced scientific knowledge to analyze complex data and produce high-impact technical insights for AI model training and evaluation. This role offers a unique opportunity to shape cutting-edge AI systems by contributing expert physics expertise to micro1’s...
 
 
 ### German Language Expert
 - **💸 Pay Rate:** $30 - $65/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/48db265c-24db-46bd-b21d-8448c6cd5d0e?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: German Proficiency, Speech Data Collection, AI Workflows, 4+, $30-65/h. German Proficiency Speech Data Collection AI Workflows Transcription Annotation Skills Phonetics Pronunciation About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI age...
+  > The German Language Expert will leverage advanced proficiency in German, phonetics, and pronunciation to contribute high-quality speech data, transcription, and annotation for cutting-edge AI training at micro1. This role involves collaborating on AI workflows to refine model performance, with co...
 
 
 ### Economics Expert (PhD)
 - **💸 Pay Rate:** $80 - $90/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/2649478e-fe69-4c2b-ad3f-43a53f0f89d2?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-economics
-PhD
-microeconomics
-2+, economics
-PhD
-microeconomics
-2+, economics, PhD, microeconomics, 2+, $80-90/h. economics PhD microeconomics macroeconomics attention to detail About micro1 micro1 is the leading AI data lab for training frontier models and evaluati...
+  > Seeking a PhD-level Economics Expert with deep microeconomic and macroeconomic expertise to contribute high-quality insights that shape AI training and evaluation at micro1. This role offers $80-90/hour to leverage your advanced analytical skills in transforming real-world economic knowledge into...
 
 
 ### Statistics Expert (PhD)
 - **💸 Pay Rate:** $80 - $90/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/78e55232-cb71-4f9c-8d60-b5d52678d7a8?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: statistics
-PhD
-statistical approach
-2+, statistics, PhD, statistical approach, 2+, $80-90/h. statistics PhD statistical approach advanced data analysis MySQL About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute t...
+  > A Statistics Expert (PhD) at micro1 will leverage advanced statistical methods and domain expertise to enhance AI training data and evaluation frameworks across high-impact fields like finance, healthcare, and STEM. This role offers the opportunity to shape cutting-edge AI systems through rigorou...
 
 
 ### Computer Science Expert (PhD)
 - **💸 Pay Rate:** $80 - $90/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/47cf4a46-1d8e-4a38-a7f6-1ae51f23ba3a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-Computer Science
-PhD
-Python
-1+, Computer Science
-PhD
-Python
-1+, Computer Science, PhD, Python, 1+, $80-90/h. Computer Science PhD Python Data Science About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts cont...
+  > A Computer Science Expert (PhD) at micro1 will leverage advanced Python skills and deep domain expertise to develop high-quality AI training data and evaluations, shaping the next generation of frontier models. This role offers the opportunity to contribute cutting-edge research and real-world in...
 
 
 ### Data-Video Generalist (US-based)
 - **💸 Pay Rate:** $13 - $13/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/204600bf-1abe-4ab0-a474-cd2264999149?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Video Capturing, IMU (Inertial Measurement Unit), Attention to Detail, $13-13/h. Required skills: Video Capturing, IMU (Inertial Measurement Unit), Attention to Detail, $13-13/h. Video Capturing IMU (Inertial Measurement Unit) Attention to Detail About micro1 micro1 is the leadin...
+  > The Data-Video Generalist will capture high-quality video and IMU data with meticulous attention to detail to support AI model training and evaluation. This role contributes to advancing frontier AI systems by providing precise, real-world data for micro1’s industry-leading platform.
 
 
 ### Health Care Specialist
 - **💸 Pay Rate:** $15 - $25/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/3a0781d0-5c49-4a42-bf3f-ae9092382614?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Clinical Knowledge & Patient Care, Attention to Detail & Accuracy, Communication & Empathy, 1+, $15-25/h. Required skills: Clinical Knowledge & Patient Care, Attention to Detail & Accuracy, Communication & Empathy, 1+, $15-25/h. Clinical Knowledge & Patient Care Attention to Deta...
+  > The Health Care Specialist role delivers expert patient care with clinical precision and compassionate communication, ensuring accurate documentation and compliance. This position leverages specialized healthcare knowledge to contribute to high-quality training data and evaluations for AI advance...
 
 
 ### Portuguese Language Expert (Portugal)
 - **💸 Pay Rate:** $15 - $29/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/201fb92a-557c-4644-b0af-c683f8cbfedc?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Portuguese
-Voice Acting
-Attention to Detail
-2+, Portuguese, Voice Acting, Attention to Detail, 2+, $15-29/h. Required skills: Portuguese
-Voice Acting
-Attention to Detail
-2+, Portuguese, Voice Acting, Attention to Detail, 2+, $15-29/h. Portuguese Voice Acting Attention to Detail T...
+  > This role seeks a native-level Portuguese language expert with exceptional voice acting and meticulous attention to detail to refine AI training data, ensuring accuracy in transcript correction, captioning, and linguistic precision for advanced AI models. As part of a cutting-edge AI data lab, yo...
 
 
 ### Marathi Audio transcription Expert
 - **💸 Pay Rate:** $10 - $30/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/0a48fc61-2103-4302-893e-dcf0eba3c7f7?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: audio transcription, multilingual communication, ai transcription tools, 8+, $10-30/h. Required skills: audio transcription, multilingual communication, ai transcription tools, 8+, $10-30/h. audio transcription multilingual communication ai transcription tools attention to detail...
+  > This role seeks a meticulous **Marathi Audio Transcription Expert** with native-level proficiency and deep familiarity with AI transcription tools to deliver precise, confidential, and domain-specific transcriptions for cutting-edge AI training datasets. As part of a pioneering AI data lab, you’l...
 
 
 ### Italian Language Expert
 - **💸 Pay Rate:** $15 - $30/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/e9e41d38-6ad0-4fa5-9bb3-e0c2c0c5b902?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Italian
-Voice Acting
-Transcription
-2+, Italian, Voice Acting, Transcription, 2+, $15-30/h. Required skills: Italian
-Voice Acting
-Transcription
-2+, Italian, Voice Acting, Transcription, 2+, $15-30/h. Italian Voice Acting Transcription Captioning Attention to Detail About micro1 mi...
+  > This Italian Language Expert role leverages native-level fluency and precision to deliver high-impact voice acting, transcription, and captioning services that enhance AI training data with cultural and linguistic authenticity. By joining micro1’s elite network of specialists, you’ll shape the fu...
 
 
 ### Dutch Language Expert
 - **💸 Pay Rate:** $15 - $30/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/417682cd-ff2e-4ed6-99a2-1267d766677d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-Dutch
-Voice Acting
-Captioning
-2+, Dutch
-Voice Acting
-Captioning
-2+, Dutch, Voice Acting, Captioning, 2+, $15-30/h. Required skills: Required skills
-Dutch
-Voice Acting
-Captioning
-2+, Dutch
-Voice Acting
-Captioning
-2+, Dutch, Voice Acting, Captioning, 2+, $15-30/h. D...
+  > This role seeks a fluent Dutch Language Expert to deliver precise voice acting, captioning, and transcription services with meticulous attention to detail. As part of a pioneering AI data lab, you’ll leverage your linguistic expertise to shape high-quality training data and evaluations for cuttin...
 
 
 ### Norwegian Language Expert
 - **💸 Pay Rate:** $10 - $45/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/b41bfb9d-f30f-4a49-bf3d-194cec873348?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Attention to Detail in Quality Evaluation, Audio Transcription & Annotation Skills, 2+, $10-45/h. Required skills: Attention to Detail in Quality Evaluation, Audio Transcription & Annotation Skills, 2+, $10-45/h. Familiarity with Speech Data Collection & AI Workflows Attention to...
+  > Seeking a Norwegian Language Expert with native or near-native proficiency to deliver precise audio transcription, annotation, and quality evaluation for AI and speech data workflows. This role at micro1, a leading AI data lab, requires meticulous attention to detail and phonetic awareness to adv...
 
 
 ### Turkish Language Expert
 - **💸 Pay Rate:** $10 - $40/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/27dd2975-d6d9-44a6-a87d-6561923d6829?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Native or Near-Native Proficiency in Turkish, Phonetics, Pronunciation, 4+, $10-40/h. Required skills: Native or Near-Native Proficiency in Turkish, Phonetics, Pronunciation, 4+, $10-40/h. Native or Near-Native Proficiency in Turkish Phonetics Pronunciation Audio Transcription An...
+  > Seeking a Turkish Language Expert with native or near-native proficiency to deliver precise phonetic, pronunciation, and transcription support for AI-driven speech data collection and annotation. This role involves contributing high-quality linguistic insights to advance cutting-edge AI workflows...
 
 
 ### Singaporean English Language Expert
 - **💸 Pay Rate:** $10 - $41/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/3b51f552-4a85-49a1-8332-484787b3eeef?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Singaporean English Language Proficiency, AI workflows, Data Collection, 3+, $10-41/h. Required skills: Singaporean English Language Proficiency, AI workflows, Data Collection, 3+, $10-41/h. Singaporean English Language Proficiency AI workflows Data Collection Audio Transcription...
+  > A Singaporean English Language Expert will leverage deep linguistic and cultural expertise to refine AI workflows, ensuring accurate data collection, transcription, and phonetic annotation for cutting-edge model training. This role at micro1 empowers AI systems with high-quality, real-world insig...
 
 
 ### Bengali Language Expert
 - **💸 Pay Rate:** $14 - $24/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/eb53f428-5c3c-495a-bf71-ef0204951ece?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Bengali
-Voice Acting
-Transcription
-2+, Bengali, Voice Acting, Transcription, 2+, $14-24/h. Required skills: Bengali
-Voice Acting
-Transcription
-2+, Bengali, Voice Acting, Transcription, 2+, $14-24/h. Bengali Voice Acting Transcription Captioning Attention to Detail About micro1 mi...
+  > Seeking a fluent Bengali Language Expert to deliver high-quality voice acting, transcription, and captioning with meticulous attention to detail. Join a leading AI data lab to contribute your linguistic expertise in shaping cutting-edge AI systems.
 
 
 ### Remote Household Data Specialist - Video Capture (PH)
 - **💸 Pay Rate:** $15 - $30/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/ff5e419e-f4b7-46e0-bcb0-b5fd190506f3?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Attention to Detail
-UMI-Grippers
-Video Capturing, Attention to Detail, UMI-Grippers, Video Capturing. Required skills: Attention to Detail
-UMI-Grippers
-Video Capturing, Attention to Detail, UMI-Grippers, Video Capturing. Attention to Detail UMI-Grippers Video Capturing About micr...
+  > The Remote Household Data Specialist - Video Capture (PH) role involves meticulously recording and processing video data to support AI training, leveraging precision tools like UMI-Grippers. This position contributes to advancing AI systems by delivering high-quality, real-world data for model ev...
 
 
 ### Household Data Specialist - Video Capture (ARG)
 - **💸 Pay Rate:** $15 - $30/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/c3811866-7296-4c18-873d-79e55719d148?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Attention to Detail, UMI-gripper, Video Capturing, 1+, $15-30/h. Required skills: Attention to Detail, UMI-gripper, Video Capturing, 1+, $15-30/h. Attention to Detail UMI-gripper Video Capturing Device controlling About micro1 micro1 is the leading AI data lab for training fronti...
+  > The Household Data Specialist - Video Capture (ARG) role at micro1 involves expertly controlling video capturing devices to produce high-quality training data for AI models. This position leverages meticulous attention to detail and specialized tools like the UMI-gripper to contribute to advancin...
 
 
 ### Spanish Language Expert (Mexico)
 - **💸 Pay Rate:** $10 - $20/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/4f2eb822-e6a3-4a69-9d0f-e2e68d692131?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Spanish
-Transcription
-Attention to detail
-2+, Spanish, Transcription, Attention to detail, 2+, $10-20/h. Required skills: Spanish
-Transcription
-Attention to detail
-2+, Spanish, Transcription, Attention to detail, 2+, $10-20/h. Spanish Transcription Attention to detail Metadata Ta...
+  > Seeking a meticulous Spanish Language Expert (Mexico) to deliver high-quality transcription and annotation for AI training data. This role leverages your native-level Spanish proficiency and keen attention to detail to refine frontier AI models.
 
 
 ### French Transcription Expert (France)
 - **💸 Pay Rate:** $10 - $20/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/2996d139-d538-4e42-b8b3-0e89f1ce0b64?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: French
-Transcription
-Metadata Tags
-2+, French, Transcription, Metadata Tags, 2+, $10-20/h. Required skills: French
-Transcription
-Metadata Tags
-2+, French, Transcription, Metadata Tags, 2+, $10-20/h. French Transcription Metadata Tags Annotation Attention to Detail About micro1 mi...
+  > Seeking a detail-oriented French Transcription Expert in France to accurately transcribe and annotate audio content with precise metadata tagging. Join a leading AI data lab to contribute high-quality linguistic data that enhances AI model training and performance.
 
 
 ### French Transcription Expert (Canada)
 - **💸 Pay Rate:** $15 - $25/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/88668fdd-0fb4-4d2e-89fa-e69af24689b0?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: French
-Transcription
-Metadata Tags
-2+, French, Transcription, Metadata Tags, 2+, $15-25/h. Required skills: French
-Transcription
-Metadata Tags
-2+, French, Transcription, Metadata Tags, 2+, $15-25/h. French Transcription Metadata Tags Annotation Attention to Detail About micro1 mi...
+  > Seeking a fluent French Transcription Expert in Canada to accurately transcribe and annotate audio content with precise metadata tagging for AI training. This role offers $15-25/hour and requires meticulous attention to detail to support cutting-edge AI model development.
 
 
 ### Financial Documents Specialist (French)
 - **💸 Pay Rate:** $10 - $55/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/19720e58-f5f3-4684-8f5a-4205c8149446?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 2+, $10-55/h. Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 2+, $10-55/h. Microsoft Word Microsoft Excel Microsoft PowerPoint Finance Documents About micro1 micro1 is the leading AI data lab for trai...
+  > The Financial Documents Specialist (French) will leverage expertise in finance and proficiency in Microsoft Office tools to produce high-quality, accurate financial documentation for AI training and evaluation. This role at micro1 involves transforming real-world financial knowledge into structur...
 
 
 ### Financial Documents Specialist (Korean)
 - **💸 Pay Rate:** $10 - $55/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/d8e9deaa-31f5-4e18-bdc9-001c0bd6e686?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 3+, $10-55/h. Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 3+, $10-55/h. Microsoft Word Microsoft Excel Microsoft PowerPoint Finance Document Creation Korean language proficiency About micro1 micro1...
+  > The Financial Documents Specialist (Korean) will leverage expertise in finance and Korean language proficiency to create and refine high-quality financial documents, supporting AI model training and evaluation. This role at micro1 involves transforming real-world financial knowledge into precise,...
 
 
 ### Financial Documents Specialist (Chinese)
 - **💸 Pay Rate:** $10 - $55/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/b5b7f7ae-f41f-47ca-ab29-47e26bbb8cd0?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 3+, $10-55/h. Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 3+, $10-55/h. Microsoft Word Microsoft Excel Microsoft PowerPoint finance financial documents chinese language proficiency About micro1 mic...
+  > The Financial Documents Specialist (Chinese) will leverage advanced proficiency in Chinese and financial expertise to produce high-quality, accurate financial documents and training data for cutting-edge AI models. This role at micro1, a leading AI data lab, involves transforming real-world finan...
 
 
 ### Financial Documents Specialist (Japanese)
 - **💸 Pay Rate:** $10 - $45/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/58902ed3-6de7-491b-9e30-f6d177e66ebf?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 3+, $10-45/h. Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 3+, $10-45/h. Microsoft Word Microsoft Excel Microsoft PowerPoint finance financial documents japanese language proficiency About micro1 mi...
+  > The Financial Documents Specialist (Japanese) will leverage expertise in finance and Japanese language proficiency to produce high-quality financial training data for AI systems. This role at micro1 involves transforming real-world financial knowledge into structured, accurate documentation to en...
 
 
 ### Financial Documents Specialist (German)
 - **💸 Pay Rate:** $10 - $55/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/cb4d3efb-d133-46ac-9152-524c9590d81c?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 3+, $10-55/h. Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 3+, $10-55/h. Microsoft Word Microsoft Excel Microsoft PowerPoint finance financial documents german language proficiency About micro1 micr...
+  > The Financial Documents Specialist (German) at micro1 will leverage expertise in finance and German language proficiency to produce high-quality training data and evaluations that enhance AI reasoning and performance. This role involves transforming real-world financial knowledge into structured,...
 
 
 ### Financial Documents Specialist (Portuguese)
 - **💸 Pay Rate:** $10 - $45/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/4e16eb9a-93c8-49da-b88d-f6744a2a3fa9?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 3+, $10-45/h. Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 3+, $10-45/h. Microsoft Word Microsoft Excel Microsoft PowerPoint finance financial documents portuguese language proficiency About micro1 ...
+  > The Financial Documents Specialist (Portuguese) will leverage expertise in finance and Portuguese language proficiency to produce high-quality financial documentation for AI training and evaluation. This role at micro1 involves transforming real-world financial knowledge into structured data to e...
 
 
 ### HR Documents Specialist (French)
 - **💸 Pay Rate:** $10 - $45/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/60780c5b-f0da-488f-a68f-fe626e5244d3?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 3+, $10-45/h. Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 3+, $10-45/h. Microsoft Word Microsoft Excel Microsoft PowerPoint HR Human resources documentation French language proficiency About micro1...
+  > The HR Documents Specialist (French) will leverage expertise in Microsoft Office tools to create, refine, and manage high-quality HR documentation in French for micro1’s AI-driven data lab. This role supports the development of training data and evaluations that enhance AI systems’ reasoning and ...
 
 
 ### HR Documents Specialist (Korean)
 - **💸 Pay Rate:** $10 - $55/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/c510b421-8fcb-441c-a288-a37499084734?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 3+, $10-55/h. Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 3+, $10-55/h. Microsoft Word Microsoft Excel Microsoft PowerPoint HR Human resources documentation korean language proficiency About micro1...
+  > The HR Documents Specialist (Korean) will leverage expertise in Microsoft Office tools to develop, refine, and manage HR documentation in Korean, ensuring accuracy and compliance. This role supports micro1’s mission by delivering high-quality linguistic and administrative contributions to AI trai...
 
 
 ### HR Documents Specialist (Chinese)
 - **💸 Pay Rate:** $10 - $55/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/b23dc5e2-9604-4d1b-b2b0-8c49075a8fd3?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 3+, $10-55/h. Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 3+, $10-55/h. Microsoft Word Microsoft Excel Microsoft PowerPoint HR Human resources documentation Chinese language proficiency About micro...
+  > The HR Documents Specialist (Chinese) will leverage expertise in Microsoft Office tools and Chinese language proficiency to develop, refine, and manage high-quality HR documentation for micro1’s AI training initiatives. This role ensures accurate, culturally adapted materials that support the com...
 
 
 ### HR Documents Specialist (Japanese)
 - **💸 Pay Rate:** $10 - $55/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/4bbb0c38-edfd-45a8-b173-aa7932789809?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 3+, $10-55/h. Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 3+, $10-55/h. Microsoft Word Microsoft Excel Microsoft PowerPoint HR Human resources documents Japanese language proficiency About micro1 m...
+  > The HR Documents Specialist (Japanese) will leverage expertise in HR documentation and Japanese language proficiency to develop and refine high-quality training data for AI systems at micro1, a leading AI data lab. This role involves creating and managing HR-related materials using Microsoft Offi...
 
 
 ### HR Documents Specialist (German)
 - **💸 Pay Rate:** $10 - $45/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/f008528d-297e-46e0-828f-2bf78efe6fe5?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 3+, $10-45/h. Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 3+, $10-45/h. Microsoft Word Microsoft Excel Microsoft PowerPoint HR Human resources documentation German Language proficiency About micro1...
+  > The HR Documents Specialist (German) will leverage expertise in Microsoft Office and German language proficiency to develop and refine high-quality HR documentation for micro1’s AI data lab. This role supports the creation of training data and evaluations that enhance AI systems’ learning and per...
 
 
 ### HR Documents Specialist (Portuguese)
 - **💸 Pay Rate:** $10 - $45/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/b7f7a6c4-e3f7-460e-95ab-9c0567d396a3?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 3+, $10-45/h. Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 3+, $10-45/h. Microsoft Word Microsoft Excel Microsoft PowerPoint HR Human resources documentation Portuguese language proficiency About mi...
+  > The HR Documents Specialist (Portuguese) will leverage expertise in Microsoft Office tools to create, refine, and manage human resources documentation in Portuguese, ensuring accuracy and compliance. This role supports micro1’s mission by delivering high-quality, localized HR materials that enhan...
 
 
 ### Marketing Documents Specialist (French)
 - **💸 Pay Rate:** $10 - $55/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/6dc31b77-d3cc-44fb-9466-9226819281bc?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 3+, $10-55/h. Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 3+, $10-55/h. Microsoft Word Microsoft Excel Microsoft PowerPoint Marketing Marketing documents French language proficiency About micro1 mi...
+  > The Marketing Documents Specialist (French) will leverage expertise in Microsoft Office Suite to create and refine high-impact marketing materials, ensuring linguistic precision and brand alignment for French-speaking audiences. This role supports micro1’s mission by transforming expert insights ...
 
 
 ### Marketing Documents Specialist (Korean)
 - **💸 Pay Rate:** $10 - $55/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/5bbdef74-3b7d-4ba0-9871-300b8fde2d96?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 3+, $10-55/h. Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 3+, $10-55/h. Microsoft Word Microsoft Excel Microsoft PowerPoint Marketing Marketing documentation Korean language proficiency About micro...
+  > The Marketing Documents Specialist (Korean) will leverage expertise in Microsoft Office Suite and Korean language proficiency to create and refine high-quality marketing documentation for micro1’s AI data lab. This role supports the development of training data and evaluations that enhance AI sys...
 
 
 ### Marketing Documents Specialist (Chinese)
 - **💸 Pay Rate:** $10 - $55/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/9b8a31a4-54db-4e45-90b6-76b82d665b00?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 3+, $10-55/h. Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 3+, $10-55/h. Microsoft Word Microsoft Excel Microsoft PowerPoint Marketing Marketing documentation Chinese language proficiency About micr...
+  > The Marketing Documents Specialist (Chinese) at micro1 will leverage expertise in Microsoft Office tools and Chinese language proficiency to create and refine high-quality marketing documentation that enhances AI training and evaluation. This role supports the development of frontier models by tr...
 
 
 ### Marketing Documents Specialist (German)
 - **💸 Pay Rate:** $10 - $55/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/92b49cf0-0a96-41ea-a0bc-1d280b9fc233?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 3+, $10-55/h. Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 3+, $10-55/h. Microsoft Word Microsoft Excel Microsoft PowerPoint Marketing Marketing documentation German language proficiency About micro...
+  > The Marketing Documents Specialist (German) will craft and refine high-quality marketing materials in German, ensuring clarity, accuracy, and alignment with brand standards. Leveraging expertise in Microsoft Office tools, this role supports micro1’s mission by delivering polished documentation th...
 
 
 ### Marketing Documents Specialist (Portuguese)
 - **💸 Pay Rate:** $10 - $55/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/90a071b7-bd9a-4806-b315-5bd67a1af25c?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 3+, $10-55/h. Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 3+, $10-55/h. Microsoft Word Microsoft Excel Microsoft PowerPoint Marketing Marketing documentation Portuguese language proficiency About m...
+  > The Marketing Documents Specialist (Portuguese) will leverage expertise in Microsoft Office tools to create and refine high-impact marketing materials, ensuring clarity and cultural relevance for Portuguese-speaking audiences. This role supports micro1’s mission by transforming subject-matter ins...
 
 
 ### Video Data Entry Specialist (LATAM)
 - **💸 Pay Rate:** $6 - $6/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/25977272-dca9-4b3a-a676-51bdfeae0a3d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: attention to detail, data annotation, household tasks, 1+, $6-6/h. Required skills: attention to detail, data annotation, household tasks, 1+, $6-6/h. attention to detail data annotation household tasks video recording About micro1 micro1 is the leading AI data lab for training f...
+  > The Video Data Entry Specialist (LATAM) will meticulously annotate and record video data to support AI training, ensuring high-quality datasets for cutting-edge models. This role at micro1 leverages expert attention to detail to enhance AI reasoning and performance through precise data contributi...
 
 
 ### Hindi Transcription Expert
 - **💸 Pay Rate:** $8 - $16/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/6c1e8824-0207-442e-ba3e-62ab61c112a5?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Hindi
-Transcription
-Metadata Tags
-2+, Hindi, Transcription, Metadata Tags, 2+, $8-16/h. Required skills: Hindi
-Transcription
-Metadata Tags
-2+, Hindi, Transcription, Metadata Tags, 2+, $8-16/h. Hindi Transcription Metadata Tags Annotation Attention to Detail About micro1 micro1 is...
+  > A Hindi Transcription Expert will accurately transcribe and annotate audio content in Hindi while applying precise metadata tags to enhance AI training data. This role at micro1 leverages linguistic expertise to refine AI models through high-quality transcription and detailed data labeling.
 
 
 ### Arabic (MSA) Transcription Expert
 - **💸 Pay Rate:** $10 - $20/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/aea99c49-ec92-4508-a868-3ca06be1dc75?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Arabic
-Transcription
-Metadata Tags
-2+, Arabic, Transcription, Metadata Tags, 2+, $10-20/h. Required skills: Arabic
-Transcription
-Metadata Tags
-2+, Arabic, Transcription, Metadata Tags, 2+, $10-20/h. Arabic Transcription Metadata Tags Annotation Attention to Detail About micro1 mi...
+  > Seeking a meticulous Arabic (MSA) Transcription Expert to accurately transcribe and annotate audio content with precise metadata tagging for AI training. This role demands fluency in Modern Standard Arabic, sharp attention to detail, and a commitment to delivering high-quality linguistic data.
 
 
 ### Romanized Hindi Transcription Expert
 - **💸 Pay Rate:** $8 - $16/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/f1dd84e9-9083-45fa-92c9-9da89ec283b5?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Transcription
-Metadata Tags
-Annotation
-1+, Transcription, Metadata Tags, Annotation, 1+, $8-16/h. Required skills: Transcription
-Metadata Tags
-Annotation
-1+, Transcription, Metadata Tags, Annotation, 1+, $8-16/h. Transcription Metadata Tags Annotation Romanized Hindi About micro1...
+  > Seeking a Romanized Hindi Transcription Expert to accurately transcribe, annotate, and tag audio content with precision, supporting AI model training and evaluation. Join a cutting-edge AI data lab to transform real-world linguistic expertise into high-quality datasets that enhance machine learni...
 
 
 ### Tatar Language Expert
 - **💸 Pay Rate:** $15 - $95/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/e30eca0d-22ab-44d7-be44-f30fe721ced5?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: English Language Proficiency, Tatar Language Proficiency, Transcription, 8+, $15-95/h. Required skills: English Language Proficiency, Tatar Language Proficiency, Transcription, 8+, $15-95/h. English Language Proficiency Tatar Language Proficiency Transcription Translation Linguis...
+  > This role seeks a fluent Tatar and English language expert to deliver precise transcription, translation, and linguistic analysis while capturing nuanced emotion and tone for AI training datasets. As part of a pioneering AI data lab, you’ll apply your deep linguistic expertise to refine cutting-e...
 
 
 ### Data-Video Generalist (Europe-based)
 - **💸 Pay Rate:** $10 - $10/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/2418674e-c1a6-4dbb-a43c-85fc8ddfdec4?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Video Capturing, Attention to detail, household tasks, $10-10/h. Required skills: Video Capturing, Attention to detail, household tasks, $10-10/h. Video Capturing Attention to detail household tasks About micro1 micro1 is the leading AI data lab for training frontier models and e...
+  > This Europe-based Data-Video Generalist role combines precision in video capturing and meticulous attention to detail to support micro1’s mission of generating high-quality AI training data. As part of the leading AI data lab, you’ll contribute real-world expertise to refine frontier models and e...
 
 
 ### Dioula Bilingual Expert
 - **💸 Pay Rate:** $15 - $95/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/6b371c85-499e-4ded-b9b5-f9bef4bfce89?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: fluency in dioula and english, transcription, timestamping, 7+, $15-95/h. Required skills: fluency in dioula and english, transcription, timestamping, 7+, $15-95/h. fluency in dioula and english transcription timestamping linguistic analysis translation attention to detail emotio...
+  > This role seeks a Dioula Bilingual Expert with native-level fluency in both Dioula and English to deliver precise transcription, timestamping, and linguistic analysis while capturing nuanced emotional intent for AI training datasets. As part of Micro1’s elite AI data lab, you’ll collaborate remot...
 
 
 ### Portuguese Language Expert (Brazil)
 - **💸 Pay Rate:** $100
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/0e19dc4e-47f0-4245-b315-a41795cfd171?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Data Annotation
-Bilingual Proficiency
-Linguistics, Data Annotation, Bilingual Proficiency, Linguistics. Required skills: Data Annotation
-Bilingual Proficiency
-Linguistics, Data Annotation, Bilingual Proficiency, Linguistics. Data Annotation Bilingual Proficiency Linguistics About...
+  > As a Portuguese Language Expert (Brazil), you will leverage your bilingual proficiency and linguistic expertise to annotate and refine high-quality AI training data. Your contributions will enhance the reasoning and performance of cutting-edge AI models by providing precise, culturally nuanced li...
 
 
 ### Hindi Voice Coach
 - **💸 Pay Rate:** $45 - $65/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/eda7ff88-b4df-47f2-b65a-b7446badd42a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-Hindi, Hindi, Hindi, $45-65/h. Required skills: Required skills
-Hindi, Hindi, Hindi, $45-65/h. Hindi About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge acr...
+  > Shape the future of AI by coaching Hindi voice models with precision and authenticity, leveraging your native fluency to refine natural language understanding. Earn $45–65/hour while contributing to cutting-edge AI training at micro1, the leading data lab for frontier models.
 
 
 ### French Voice Coach
 - **💸 Pay Rate:** $30 - $65/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/7e00ba18-973f-48a4-96c1-24e6934b2f54?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-French, French, French, $30-65/h. French About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, a...
+  > As a French Voice Coach at micro1, you will leverage your native-level French expertise to refine AI models by delivering high-quality vocal training data and evaluations. Join a cutting-edge platform that transforms expert linguistic skills into impactful contributions, shaping the future of AI ...
 
 
 ### Kazakh Language Expert
 - **💸 Pay Rate:** $100
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/31145ddb-e252-4901-ba9d-201a1a68ecf8?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: kazakh language proficiency, translation, localization, 12+. Required skills: kazakh language proficiency, translation, localization, 12+. kazakh language proficiency translation localization content creation editing verbal communication written communication attention to detail ...
+  > A Kazakh Language Expert at micro1 will leverage native-level proficiency to deliver high-quality translation, localization, and content creation, ensuring cultural accuracy and precision in AI training and evaluation projects. This role demands exceptional written and verbal communication, metic...
 
 
 ### Welsh Language Expert
 - **💸 Pay Rate:** $100
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/ad0beac5-4d5e-47f9-b5ba-6536e8ff6dfd?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-Welsh Language, Welsh Language, Welsh Language. Required skills: Required skills
-Welsh Language, Welsh Language, Welsh Language. Welsh Language About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute...
+  > A Welsh Language Expert will leverage deep linguistic and cultural expertise to refine AI models through high-quality data annotation and evaluation. This role contributes to advancing AI reasoning and performance by ensuring accurate, nuanced Welsh language representation in cutting-edge systems.
 
 
 ### Bulgarian Language Expert
 - **💸 Pay Rate:** $100
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/1cdf5acb-8c60-4922-81e0-bce44593ebd4?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-Bulgarian Language, Bulgarian Language, Bulgarian Language. Required skills: Required skills
-Bulgarian Language, Bulgarian Language, Bulgarian Language. Bulgarian Language About micro1 micro1 is the leading AI data lab for training frontier models and evaluating A...
+  > Seeking a fluent Bulgarian Language Expert to contribute linguistic and cultural expertise in refining AI models through high-quality data annotation and evaluation. Join micro1, the leading AI data lab, to shape the future of AI reasoning and performance with your specialized knowledge.
 
 
 ### Corporate Finance Expert
 - **💸 Pay Rate:** $50 - $58/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/958f7fa7-444e-4592-a2b1-1395b7851030?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-Finance, Finance, Finance, $50-58/h. Required skills: Required skills
-Finance, Finance, Finance, $50-58/h. Finance About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter...
+  > The Corporate Finance Expert will leverage deep financial acumen to develop high-quality training data and evaluations that enhance AI reasoning and performance. This role involves contributing specialized finance knowledge to shape cutting-edge AI models while collaborating with top-tier talent ...
 
 
 ### Tamil Language Expert
 - **💸 Pay Rate:** $100
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/73740888-668d-4810-b3a5-ad12f3a383ce?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-Tamil Language, Tamil Language, Tamil Language. Required skills: Required skills
-Tamil Language, Tamil Language, Tamil Language. Tamil Language About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute...
+  > The Tamil Language Expert will leverage deep linguistic and cultural expertise to refine AI models through high-quality data annotation, evaluation, and feedback. Join micro1’s cutting-edge platform to shape the future of AI by ensuring accurate, nuanced Tamil language understanding and performance.
 
 
 ### Nynorsk Language Expert
 - **💸 Pay Rate:** $300
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/70eeab6f-71de-4ea7-9da4-370e0dbd13dc?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-Nynorsk Language, Nynorsk Language, Nynorsk Language. Required skills: Required skills
-Nynorsk Language, Nynorsk Language, Nynorsk Language. Nynorsk Language About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Expe...
+  > The Nynorsk Language Expert will leverage deep fluency in Nynorsk to contribute high-quality linguistic data and evaluations, enhancing AI systems' reasoning and performance. This role involves transforming specialized language expertise into training materials that power cutting-edge AI models.
 
 
 ### Malayalam Language Expert
 - **💸 Pay Rate:** $100
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/552e01b9-7ced-44e9-bf58-37ce4671b190?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: malayalam translation, localization, editing and proofreading, 9+. Required skills: malayalam translation, localization, editing and proofreading, 9+. malayalam translation localization editing and proofreading digital communication tools translation software bilingual communicat...
+  > A seasoned Malayalam Language Expert with over nine years of experience in translation, localization, editing, and proofreading will refine and adapt content with precision, leveraging bilingual proficiency and digital tools to ensure cultural and linguistic accuracy. This role involves collabora...
 
 
 ### Telugu Language Expert
 - **💸 Pay Rate:** $100
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/a41e0dcb-0ea9-4bcf-852f-d792230dd8ac?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: telugu language proficiency, translation, localization, 15+. Required skills: telugu language proficiency, translation, localization, 15+. telugu language proficiency translation localization editing cross-functional collaboration written communication verbal communication attent...
+  > A Telugu Language Expert at Micro1 will leverage deep linguistic proficiency and cultural awareness to deliver high-quality translation, localization, and digital content editing for cutting-edge AI training and evaluation. This role demands precision, cross-functional collaboration, and expertis...
 
 
 ### Swedish Language Expert
 - **💸 Pay Rate:** $45 - $95/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/3d2a493f-3e7e-4e9d-8f85-e6bb6ca1d253?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: swedish language fluency
-translation, swedish language fluency, translation, $45-95/h. swedish language fluency translation About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowle...
+  > Leverage your fluency in Swedish to shape the future of AI by contributing high-quality translations and linguistic expertise to train and evaluate cutting-edge models. Join a leading AI data lab where your language mastery directly enhances the reasoning and performance of next-generation AI sys...
 
 
 ### Javanese Language Expert
 - **💸 Pay Rate:** $45 - $95/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/da23bd9a-d2d2-4425-ab82-8753c4a0825a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-Javanese Langauge, Javanese Langauge, Javanese Langauge, $45-95/h. Required skills: Required skills
-Javanese Langauge, Javanese Langauge, Javanese Langauge, $45-95/h. Javanese Langauge About micro1 micro1 is the leading AI data lab for training frontier models and...
+  > Seeking a fluent Javanese language expert to contribute high-quality linguistic data and evaluations for cutting-edge AI training at a leading AI data lab. Earn $45–$95/hour by leveraging your expertise to enhance AI reasoning and performance in Javanese contexts.
 
 
 ### Sanskrit Language Expert
 - **💸 Pay Rate:** $45 - $95/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/7aa582e6-1597-48f7-8510-d60f08bd8f9f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-Sanskrit Language, Sanskrit Language, Sanskrit Language, $45-95/h. Required skills: Required skills
-Sanskrit Language, Sanskrit Language, Sanskrit Language, $45-95/h. Sanskrit Language About micro1 micro1 is the leading AI data lab for training frontier models and...
+  > A Sanskrit Language Expert will leverage deep linguistic and cultural expertise to refine AI models through high-quality data annotation, evaluation, and feedback. This role offers competitive compensation ($45–95/hour) while contributing to cutting-edge AI development at micro1, a leader in trai...
 
 
 ### Mandarin Language Expert
 - **💸 Pay Rate:** $45 - $95/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/329360e6-298d-4902-b467-cdc4e5972949?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: mandarin translation, mandarin interpretation, english communication, $45-95/h. Required skills: mandarin translation, mandarin interpretation, english communication, $45-95/h. mandarin translation mandarin interpretation english communication About micro1 micro1 is the leading A...
+  > As a Mandarin Language Expert at micro1, you will leverage your fluency in translation and interpretation to refine AI models, ensuring accurate and nuanced communication across domains. This role offers competitive compensation ($45–95/hour) while contributing to cutting-edge AI training and eva...
 
 
 ### Myanmar Bilingual Expert
 - **💸 Pay Rate:** $45 - $95/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/9348c476-cbac-4e12-ac35-39abdfae642d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: $45-95/h. Required skills: $45-95/h. About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 tran...
+  > The Myanmar Bilingual Expert will leverage their fluency in Myanmar and English to contribute high-quality, culturally nuanced insights that enhance AI training and evaluation for micro1’s cutting-edge models. This role offers the opportunity to shape AI development while earning $45–95/hour thro...
 
 
 ### Galician Bilingual Expert
 - **💸 Pay Rate:** $300
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/6c118929-2995-4eb9-8638-0e297f8b1b79?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality tra...
+  > The Galician Bilingual Expert will leverage their linguistic and cultural expertise to refine AI training data, ensuring accurate and nuanced Galician language representation. This role contributes to advancing AI reasoning and performance by providing high-quality evaluations and feedback for cu...
 
 
 ### Albanian Bilingual Expert
 - **💸 Pay Rate:** $100
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/5c697450-fbfe-4f85-bcdd-05fe96346eb0?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality tra...
+  > The Albanian Bilingual Expert will leverage their fluency and subject-matter expertise to refine AI training data and evaluations, ensuring cultural and linguistic accuracy for advanced models. This role empowers meaningful contributions to cutting-edge AI development while bridging language and ...
 
 
 ### Nepali Bilingual Expert
 - **💸 Pay Rate:** $100
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/9acb70ee-f33c-4f47-8351-ca681c3d67a0?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality tra...
+  > The Nepali Bilingual Expert will leverage their fluency and cultural expertise to enhance AI training data, evaluations, and feedback loops for cutting-edge models. This role empowers meaningful contributions to AI development by bridging linguistic and domain-specific knowledge at scale.
 
 
 ### Uzbek Bilingual Expert
 - **💸 Pay Rate:** $45 - $95/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/1f8f0c7f-3aa7-4b5d-a7e2-589277429ffc?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: $45-95/h. About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expe...
+  > The Uzbek Bilingual Expert will leverage their linguistic and cultural expertise to refine AI training data, ensuring accurate and contextually rich outputs for Uzbek-language applications. This role involves collaborating with a cutting-edge AI data lab to enhance model performance through high-...
 
 
 ### Game Developer
 - **💸 Pay Rate:** $20 - $60/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/55501f0b-8eb4-4079-bef3-fe0dc2621b8b?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-unreal Game Developer, unreal Game Developer, unreal Game Developer, $20-60/h. Required skills: Required skills
-unreal Game Developer, unreal Game Developer, unreal Game Developer, $20-60/h. unreal Game Developer About micro1 micro1 is the leading AI data lab for ...
+  > Seeking a skilled Unreal Game Developer to create immersive gaming experiences, leveraging expertise in Unreal Engine to drive innovation in AI-enhanced interactive environments. Join a cutting-edge AI data lab where your development talents will shape the future of intelligent systems and next-g...
 
 
 ### English Specialist
 - **💸 Pay Rate:** $500
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/dd4dc184-41b8-4f41-9233-8c3f67d671b9?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-english
-linguistics, english
-linguistics, english, linguistics. Required skills: Required skills
-english
-linguistics, english
-linguistics, english, linguistics. english linguistics About micro1 micro1 is the leading AI data lab for training frontier models and eva...
+  > The English Specialist will leverage advanced linguistics expertise to refine AI training data, ensuring models achieve human-like language comprehension and reasoning. This role drives the development of high-quality evaluations and feedback loops to enhance AI performance across diverse domains.
 
 
 ### Marketing Expert
 - **💸 Pay Rate:** $20 - $45/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/6bc959a6-fdd6-4b67-a263-3efd53485aea?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: written communication, verbal communication, data synthesis, 13+, $20-45/h. Required skills: written communication, verbal communication, data synthesis, 13+, $20-45/h. written communication verbal communication data synthesis business analysis process documentation workflow crea...
+  > Drive strategic marketing initiatives by leveraging expert communication, data-driven insights, and cross-functional collaboration to elevate brand presence and performance. Thrive in a dynamic, remote environment at the forefront of AI innovation, shaping impactful campaigns and operational exce...
 
 
 ### Sales Specialist
 - **💸 Pay Rate:** $20 - $45/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/02da7b74-16d3-426c-933b-82a7f5058524?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: sales operations, process improvement, critical thinking, 7+, $20-45/h. Required skills: sales operations, process improvement, critical thinking, 7+, $20-45/h. sales operations process improvement critical thinking analytical skills problem-solving written communication verbal c...
+  > Drive revenue growth and operational excellence as a Sales Specialist at micro1, leveraging analytical and problem-solving skills to optimize sales processes and deliver high-quality AI training data solutions. Thrive in a fast-paced startup environment, synthesizing expert insights across domain...
 
 
 ### Management Specialist
 - **💸 Pay Rate:** $20 - $45/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/a20e5f8d-ddb2-40af-b257-55110600dac1?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: business analysis, information synthesis, written and verbal communication, 2+, $20-45/h. Required skills: business analysis, information synthesis, written and verbal communication, 2+, $20-45/h. business analysis information synthesis written and verbal communication attention ...
+  > The Management Specialist will leverage business analysis and information synthesis to transform subject-matter expertise into high-quality AI training data and evaluations. This role demands exceptional written and verbal communication, attention to detail, and the ability to work independently ...
 
 
 ### Operations Specialist
 - **💸 Pay Rate:** $20 - $45/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/f6043f02-4b58-4755-9c27-b7c56f925360?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: written communication, verbal communication, information synthesis, 7+, $20-45/h. Required skills: written communication, verbal communication, information synthesis, 7+, $20-45/h. written communication verbal communication information synthesis workplace communication analysis d...
+  > The Operations Specialist at micro1 will drive efficiency by synthesizing complex information, organizing critical data, and ensuring seamless workflows in a fast-paced AI data lab environment. This role demands exceptional communication, analytical precision, and adaptability to manage ambiguity...
 
 
 ### Hebrew Language Expert
 - **💸 Pay Rate:** $20 - $33/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/0b6c0487-1f7d-4481-a731-e690879dabba?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Hebrew
-Voice Acting
-Attention to Detail
-2+, Hebrew, Voice Acting, Attention to Detail, 2+, $20-33/h. Required skills: Hebrew
-Voice Acting
-Attention to Detail
-2+, Hebrew, Voice Acting, Attention to Detail, 2+, $20-33/h. Hebrew Voice Acting Attention to Detail Transcript Correction...
+  > Seeking a fluent Hebrew language expert with exceptional voice acting and transcription skills to refine AI training data. This role involves precise captioning and transcript correction to enhance the accuracy and reasoning of cutting-edge AI systems.
 
 
 ### E-commerce Data & Catalog Specialist
 - **💸 Pay Rate:** $40 - $50/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/66e153bc-1c52-439e-8fcb-38d35c4eae67?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Product Catalog Management, SQL/NoSQL Database Knowledge, Product Taxonomy & Data Normalization, 2+, $40-50/h. Required skills: Product Catalog Management, SQL/NoSQL Database Knowledge, Product Taxonomy & Data Normalization, 2+, $40-50/h. Product Catalog Management SQL/NoSQL Data...
+  > The E-commerce Data & Catalog Specialist will expertly manage and optimize product catalogs, leveraging SQL/NoSQL databases and taxonomy frameworks to ensure structured, high-quality data for seamless e-commerce operations. This role drives efficiency in merchandising and data modeling, supportin...
 
 
 ### Legal Expert
 - **💸 Pay Rate:** $40 - $110/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/26ea747f-ec7c-44d2-b81f-f91a7b82e1e1?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Commercial Contracts, Contract Redlining, Employment Law, 6+, $40-110/h. Required skills: Commercial Contracts, Contract Redlining, Employment Law, 6+, $40-110/h. Commercial Contracts Contract Redlining Employment Law Structured Finance Priavte Equity Mergers and Acquisitions Saa...
+  > This Legal Expert role demands a seasoned professional with deep expertise in commercial contracts, employment law, regulatory compliance, and high-stakes transactions—including structured finance, private equity, and M&A—to deliver precise legal insights that shape AI training data. Collaboratin...
 
 
 ### Senior Physics Adjudicator
 - **💸 Pay Rate:** $80 - $110/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/9c5641a2-60eb-4cda-9bcb-747b807dc214?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Recognized Subject Matter Authority, High-Level Scientific Judgment, Cross-Disciplinary Perspective, 1+, $80-110/h. Required skills: Recognized Subject Matter Authority, High-Level Scientific Judgment, Cross-Disciplinary Perspective, 1+, $80-110/h. Recognized Subject Matter Autho...
+  > This role demands a distinguished Senior Physics Adjudicator with deep subject-matter expertise and exceptional scientific judgment to evaluate complex research, resolve technical disputes, and provide cross-disciplinary insights that shape the future of AI training and agent evaluation. As a tru...
 
 
 ### Scriptwriter
 - **💸 Pay Rate:** $20 - $70/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/8d6e3d41-fa39-49fd-bb5c-e503e12faa34?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: scriptwriting
-storytelling
-research
-2+, scriptwriting, storytelling, research, 2+, $20-70/h. Required skills: scriptwriting
-storytelling
-research
-2+, scriptwriting, storytelling, research, 2+, $20-70/h. scriptwriting storytelling research written-communication adaptability About ...
+  > This role demands a creative and meticulous Scriptwriter with a mastery of storytelling, research, and written communication to craft compelling narratives that enhance AI training and evaluation. Collaborating with subject-matter experts, you’ll transform complex domain knowledge into engaging, ...
 
 
 ### Audio Engineer
 - **💸 Pay Rate:** $30 - $50/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/52d897a7-78d5-46f5-bcf6-a1233ae7f600?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: audio quality assurance, audio artifact detection, audio restoration, 17+, $30-50/h. Required skills: audio quality assurance, audio artifact detection, audio restoration, 17+, $30-50/h. audio quality assurance audio artifact detection audio restoration audio cleanup audio editin...
+  > This Audio Engineer role demands expertise in ensuring pristine sound quality through advanced artifact detection, restoration, and precision editing while leveraging industry-standard tools and critical listening techniques. Collaborating with a distributed team, you’ll drive AI/ML data annotati...
 
 
 ### Computational Biology Expert
 - **💸 Pay Rate:** $40 - $60/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/6d5c21e9-6e7e-41a5-8a15-bf273dad7c49?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-python
-r
-bash
-22+, python
-r
-bash
-22+, python, r, bash, 22+, $40-60/h. Required skills: Required skills
-python
-r
-bash
-22+, python
-r
-bash
-22+, python, r, bash, 22+, $40-60/h. python r bash bwa gatk star salmon seurat scanpy ngs pipelines alphafold pymol genomics tra...
+  > Seeking a Computational Biology Expert to drive cutting-edge genomics and bioinformatics analysis, leveraging advanced tools like Python, R, and NGS pipelines to solve complex biological problems. This role involves interdisciplinary collaboration to advance AI/ML applications in structural biolo...
 
 
 ### Computational Chemistry Expert
 - **💸 Pay Rate:** $40 - $60/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/be698edc-fbdf-4213-bccd-12fd37678e43?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: computational chemistry, molecular simulations, python, 23+, $40-60/h. Required skills: computational chemistry, molecular simulations, python, 23+, $40-60/h. computational chemistry molecular simulations python quantum chemistry cheminformatics molecular dynamics scientific prog...
+  > A Computational Chemistry Expert will leverage advanced molecular simulations, quantum chemistry, and AI/ML-assisted workflows to drive innovation in drug discovery and scientific research. This role demands expertise in tools like Gaussian, GROMACS, and RDKit, paired with strong analytical and c...
 
 
 ### Computational Physics Expert
 - **💸 Pay Rate:** $40 - $60/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/3fe7f3bc-7a2a-4a7d-8e23-16bcd27a3280?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: computational physics, scientific computing, python, 18+, $40-60/h. Required skills: computational physics, scientific computing, python, 18+, $40-60/h. computational physics scientific computing python c++ matlab root numerical simulations monte carlo methods hpc workflows data ...
+  > A Computational Physics Expert at micro1 will leverage advanced scientific computing, numerical simulations, and HPC workflows to drive cutting-edge AI/ML benchmarking and quantitative modeling. This role demands exceptional analytical reasoning, scientific integrity, and the ability to interpret...
 
 
 ### Computational Engineering Expert
 - **💸 Pay Rate:** $40 - $60/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/9e1c8d48-0e42-4996-a0ad-40ad7cedf1fc?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: computational fluid dynamics (cfd), finite element analysis (fea), matlab, 22+, $40-60/h. Required skills: computational fluid dynamics (cfd), finite element analysis (fea), matlab, 22+, $40-60/h. computational fluid dynamics (cfd) finite element analysis (fea) matlab python ansy...
+  > The Computational Engineering Expert will lead advanced simulations and modeling using tools like CFD, FEA, and HPC to solve complex engineering challenges and optimize large-scale systems. This role requires deep technical expertise in scripting, AI/ML applications, and domain-specific tools to ...
 
 
 ### Household Data Specialist - Video Capture (US)
 - **💸 Pay Rate:** $30 - $30/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/caa4b2e6-234f-428c-920d-52d4fbe12d01?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Attention to Detail & Specification Adherence, Manual Dexterity & Physical Task Precision, Device/Equipment Operation & Setup, 1+, $30-30/h. Required skills: Attention to Detail & Specification Adherence, Manual Dexterity & Physical Task Precision, Device/Equipment Operation & Se...
+  > The Household Data Specialist - Video Capture (US) will meticulously operate and set up equipment to collect high-quality video data while adhering to precise specifications. This role at micro1, a leading AI data lab, requires exceptional attention to detail and manual dexterity to support the t...
 
 
 ### CAD Expert
 - **💸 Pay Rate:** $20 - $70/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/de7f6fee-787d-485c-9d59-20393d1fcf66?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-AutoCAD
-CAD
-FreeCAD, AutoCAD
-CAD
-FreeCAD, AutoCAD, CAD, FreeCAD, $20-70/h. Required skills: Required skills
-AutoCAD
-CAD
-FreeCAD, AutoCAD
-CAD
-FreeCAD, AutoCAD, CAD, FreeCAD, $20-70/h. AutoCAD CAD FreeCAD About micro1 micro1 is the leading AI data lab for training f...
+  > Seeking a CAD Expert to leverage advanced AutoCAD and FreeCAD proficiency in creating precise technical designs and models for cutting-edge AI training initiatives. Join micro1, a leading AI data lab, to contribute specialized engineering expertise that enhances AI reasoning and performance throu...
 
 
 ### Investment Banking Expert
 - **💸 Pay Rate:** $30 - $65/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/63a562c9-6e3b-4a0d-9b5b-f66f93c0cdff?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: investment banking expertise, financial analysis, valuation methods, 14+, $30-65/h. Required skills: investment banking expertise, financial analysis, valuation methods, 14+, $30-65/h. investment banking expertise financial analysis valuation methods deal structuring financial mo...
+  > A seasoned Investment Banking Expert with deep expertise in financial analysis, valuation, and deal structuring to drive high-impact strategic decisions. Leverages advanced financial modeling and market insights to deliver precision in complex transactions and AI-enhanced advisory solutions.
 
 
 ### Telecommunications Expert
 - **💸 Pay Rate:** $20 - $75/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/0645c58a-a6d9-4557-b05e-74bd30105f6a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-telecommunications, telecommunications, telecommunications, $20-75/h. Required skills: Required skills
-telecommunications, telecommunications, telecommunications, $20-75/h. telecommunications About micro1 micro1 is the leading AI data lab for training frontier mod...
+  > As a Telecommunications Expert at micro1, you will leverage your deep industry knowledge to shape high-quality AI training data and evaluations that enhance model performance. This role offers the opportunity to contribute to cutting-edge AI development while earning between $20–75/hour.
 
 
 ### Healthcare Expert
 - **💸 Pay Rate:** $40 - $65/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/1ecd1aeb-3d77-4466-b914-cc326cc4c38d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: clinical treatment protocols, healthcare data analysis, clinical research, 12+, $40-65/h. Required skills: clinical treatment protocols, healthcare data analysis, clinical research, 12+, $40-65/h. clinical treatment protocols healthcare data analysis clinical research hospital op...
+  > The Healthcare Expert will leverage deep clinical expertise to develop and refine AI-driven solutions, ensuring accurate representation of treatment protocols, data analysis, and medical decision-making. This role involves collaborating on high-impact projects to advance digital health innovation...
 
 
 ### Content Producer
 - **💸 Pay Rate:** $40 - $65/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/c368cc32-d267-490e-abed-e9521cdf628e?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: content strategy
-editing
-media production
-12+, content strategy, editing, media production, 12+, $40-65/h. Required skills: content strategy
-editing
-media production
-12+, content strategy, editing, media production, 12+, $40-65/h. content strategy editing media production digital...
+  > The Content Producer will develop and refine high-quality multimedia content, leveraging expertise in strategy, editing, and production to support AI training and evaluation initiatives. This role demands strong collaboration, adaptability to new tools, and a keen eye for detail to deliver impact...
 
 
 ### Professional Services Consultant
 - **💸 Pay Rate:** $40 - $65/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/584c950f-86cb-46ee-9e1e-e721f6e287b4?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: strategic slide deck preparation, contract review and risk assessment, 7+, $40-65/h. Required skills: strategic slide deck preparation, contract review and risk assessment, 7+, $40-65/h. domain expertise (software development, management consulting, legal, or accounting/auditing)...
+  > The Professional Services Consultant will leverage domain expertise in software development, consulting, legal, or accounting to deliver high-impact strategic presentations, contract analyses, and financial audits while collaborating seamlessly in remote teams. This role demands exceptional analy...
 
 
 ### Public Administrator
 - **💸 Pay Rate:** $40 - $65/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/2df85589-f7a7-47d1-82bb-3d1d448af44c?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: public administration, government policy analysis, budget management, 12+, $40-65/h. Required skills: public administration, government policy analysis, budget management, 12+, $40-65/h. public administration government policy analysis budget management compliance review urban an...
+  > The Public Administrator will oversee government policy analysis, budget management, and urban planning initiatives to ensure efficient public service delivery and compliance. This role demands strong analytical, communication, and project management skills to drive impactful administrative solut...
 
 
 ### Finance Expert
 - **💸 Pay Rate:** $40 - $65/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/d4406cea-10ab-46a5-9fb5-f04cbba77efa?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: financial modeling (xlsx), investment banking expertise, risk management, 11+, $40-65/h. Required skills: financial modeling (xlsx), investment banking expertise, risk management, 11+, $40-65/h. financial modeling (xlsx) investment banking expertise risk management regulatory com...
+  > The Finance Expert will leverage advanced financial modeling, investment banking acumen, and risk management expertise to drive strategic corporate financial decisions and regulatory compliance. This role demands exceptional analytical precision, cross-functional collaboration, and a forward-thin...
 
 
 ### Manufacturing Expert
 - **💸 Pay Rate:** $40 - $65/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/d585ecf3-a5d6-42a6-9996-c95599e78da4?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: six sigma
-process mapping
-root-cause analysis
-7+, six sigma, process mapping, root-cause analysis, 7+, $40-65/h. Required skills: six sigma
-process mapping
-root-cause analysis
-7+, six sigma, process mapping, root-cause analysis, 7+, $40-65/h. six sigma process mapping root-cause ...
+  > The Manufacturing Expert will leverage Six Sigma, process mapping, and root-cause analysis to drive production line optimization, quality assurance, and operational excellence. This role requires deep mechanical engineering expertise and strong cross-functional collaboration to enhance manufactur...
 
 
 ### Marketing Documents Specialist (Japanese)
 - **💸 Pay Rate:** $30 - $70/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/b4746f09-0bbe-45be-a7de-c5280e733d9e?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 3+, $30-70/h. Required skills: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, 3+, $30-70/h. Microsoft Word Microsoft Excel Microsoft PowerPoint Marketing Marketing documentation Japanese language proficiency About mic...
+  > The Marketing Documents Specialist (Japanese) at micro1 will leverage expertise in Microsoft Office tools and Japanese language proficiency to develop high-quality marketing documentation that enhances AI training data and evaluations. This role contributes to refining AI systems' learning and pe...
 
 
 ### Hebrew Transcription Expert
 - **💸 Pay Rate:** $20 - $35/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/a90c564a-05fd-40e6-9ca3-05c564316e2a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Hebrew
-Transcription
-Annotation
-1+, Hebrew, Transcription, Annotation, 1+, $20-35/h. Required skills: Hebrew
-Transcription
-Annotation
-1+, Hebrew, Transcription, Annotation, 1+, $20-35/h. Hebrew Transcription Annotation Metadata Tags About micro1 micro1 is the leading AI data lab ...
+  > Seeking a fluent Hebrew Transcription Expert to deliver precise, high-quality transcription and annotation for cutting-edge AI training data. This role offers $20–35/hour to leverage your linguistic expertise in shaping advanced AI models through meticulous metadata tagging and evaluation.
 
 
 ### Accountant
 - **💸 Pay Rate:** $20 - $60/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/29d99803-4a03-411d-847c-cb084bd7a5f4?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: accounting expertise, financial reporting, tax preparation, 12+, $20-60/h. Required skills: accounting expertise, financial reporting, tax preparation, 12+, $20-60/h. accounting expertise financial reporting tax preparation audit processes bookkeeping regulatory compliance (us, u...
+  > This role involves delivering expert accounting services, including financial reporting, tax preparation, and regulatory compliance across global markets, with a focus on analytical precision and problem-solving. The ideal candidate will leverage their accounting expertise and self-motivation to ...
 
 
 ### Personal Financial Advisor (Private Wealth)
 - **💸 Pay Rate:** $80 - $110/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/b6a39916-5603-4ef2-b1b9-48720c8af372?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: financial planning, investment management, retirement planning, 8+, $80-110/h. Required skills: financial planning, investment management, retirement planning, 8+, $80-110/h. financial planning investment management retirement planning tax-aware strategies client relationship man...
+  > As a Personal Financial Advisor (Private Wealth), you will provide tailored financial planning, investment management, and tax-aware strategies to high-net-worth clients while ensuring regulatory compliance and fostering long-term relationships. This role requires a Certified Financial Planner (C...
 
 
 ### Financial Advisor (CFA or CFP)
 - **💸 Pay Rate:** $1000
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/2eee9cb9-fb9e-406c-a686-a7ceb9964a46?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: financial planning, budgeting, retirement planning, 12+. Required skills: financial planning, budgeting, retirement planning, 12+. financial planning budgeting retirement planning debt management risk management cfp certification compliance written communication verbal communicat...
+  > The Financial Advisor (CFA or CFP) delivers holistic financial planning and fiduciary guidance, specializing in retirement, debt, and risk management to optimize client outcomes. Leveraging expert problem-solving and relationship management, they design tailored strategies while upholding complia...
 
 
 ### Business Document Expert (Korean Speaker)
 - **💸 Pay Rate:** $30 - $70/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/9cf75770-b33e-4cc9-8a84-eb6d8c3de49c?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Business Analysis & Communication, Advanced Office Suite Proficiency, Attention to Detail, $30-70/h. Required skills: Business Analysis & Communication, Advanced Office Suite Proficiency, Attention to Detail, $30-70/h. Business Analysis & Communication Advanced Office Suite Profi...
+  > The Business Document Expert (Korean Speaker) will leverage advanced business analysis and communication skills to refine and enhance high-quality training data for AI systems at micro1, a leading AI data lab. This role requires meticulous attention to detail and proficiency in the Office Suite t...
 
 
 ### Policy Consultant
 - **💸 Pay Rate:** $20 - $58/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/ebba4a5a-49b1-4a0f-9e20-457d06fe03bf?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: advanced word skills, advanced pdf tools, policy analysis, 7+, $20-58/h. Required skills: advanced word skills, advanced pdf tools, policy analysis, 7+, $20-58/h. advanced word skills advanced pdf tools policy analysis regulatory compliance document drafting and review profession...
+  > The Policy Consultant will leverage expertise in policy analysis, regulatory compliance, and strategic consultation to develop and refine high-impact documents and frameworks for leading AI and industry applications. This role demands precision in drafting, review, and project management to drive...
 
 
 ### Academic Researchers
 - **💸 Pay Rate:** $20 - $55/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/f08b4ec4-2027-45e9-8e63-f638031f1be5?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: academic research, document review, 12+, $20-55/h. Required skills: academic research, document review, 12+, $20-55/h. academic research document review ms word (advanced features: tracked changes, formatting) pdf editing and data extraction written communication verbal communica...
+  > Academic Researchers at micro1 drive cutting-edge AI advancement by conducting rigorous literature reviews, synthesizing complex findings, and producing high-impact reports while collaborating across multidisciplinary teams. This role demands precision in document editing, data extraction, and co...
 
 
 ### Financial Planning and Analysis Expert
 - **💸 Pay Rate:** $35 - $58/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/1ede1ceb-0f90-43da-8d35-314cb1b78692?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: $35-58/h. About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expe...
+  > The Financial Planning and Analysis Expert will leverage deep financial acumen to develop high-quality training data and evaluations that enhance AI reasoning and performance. This role offers the opportunity to contribute cutting-edge expertise while earning $35–58/hour in a dynamic, scalable en...
 
 
 ### Word and PDF Experts
 - **💸 Pay Rate:** $20 - $55/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/da8af334-60b6-44e3-89b2-a846f3cd19c4?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: microsoft word, pdf editing tools, document formatting, 13+, $20-55/h. Required skills: microsoft word, pdf editing tools, document formatting, 13+, $20-55/h. microsoft word pdf editing tools document formatting tracked changes management version control data extraction (document...
+  > Seeking meticulous Word and PDF experts to manage advanced document formatting, version control, and secure handling with precision and confidentiality. Join a leading AI data lab to collaborate on high-impact projects while ensuring compliance and seamless cross-functional support.
 
 
 ### Business Document Expert (Japanese Speaker)
 - **💸 Pay Rate:** $30 - $70/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/7d9e84d5-3c55-4008-865e-7b3dd5652fcd?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Business Analysis & Communication, Advanced Office Suite Proficiency, Attention to Detail, $30-70/h. Required skills: Business Analysis & Communication, Advanced Office Suite Proficiency, Attention to Detail, $30-70/h. Business Analysis & Communication Advanced Office Suite Profi...
+  > The Business Document Expert (Japanese Speaker) will leverage advanced business analysis and communication skills to transform complex Japanese-language documents into high-quality AI training data for micro1’s cutting-edge models. This role demands precision, mastery of Office Suite tools, and a...
 
 
 ### Business Document Expert (Chinese Speaker)
 - **💸 Pay Rate:** $20 - $70/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/450ec8a7-4d32-4622-bccc-b349a3f0dc76?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Business Analysis & Communication, Advanced Office Suite Proficiency, Attention to Detail, $20-70/h. Required skills: Business Analysis & Communication, Advanced Office Suite Proficiency, Attention to Detail, $20-70/h. Business Analysis & Communication Advanced Office Suite Profi...
+  > Seeking a meticulous Business Document Expert fluent in Chinese to analyze, refine, and produce high-quality business documentation using advanced Office Suite tools. Join micro1’s AI data lab to transform your expertise into impactful training data that enhances frontier AI models.
 
 
 ### Business Document Expert (German Speaker)
 - **💸 Pay Rate:** $20 - $70/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/d4b85839-30bf-4baa-a610-eb3a85575a0c?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Business Analysis & Communication, Advanced Office Suite Proficiency, Attention to Detail, $20-70/h. Required skills: Business Analysis & Communication, Advanced Office Suite Proficiency, Attention to Detail, $20-70/h. Business Analysis & Communication Advanced Office Suite Profi...
+  > This **Business Document Expert (German Speaker)** role leverages deep business analysis and precision in document handling to refine AI training data, ensuring accuracy and relevance for cutting-edge AI models. As part of a pioneering AI data lab, you’ll apply your advanced Office Suite expertis...
 
 
 ### Business Document Expert (French Speaker)
 - **💸 Pay Rate:** $20 - $70/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/3f5a7cca-b01f-418e-9504-668b034e7bc0?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Business Analysis & Communication, Advanced Office Suite Proficiency, Attention to Detail, $20-70/h. Required skills: Business Analysis & Communication, Advanced Office Suite Proficiency, Attention to Detail, $20-70/h. Business Analysis & Communication Advanced Office Suite Profi...
+  > This role demands a meticulous Business Document Expert fluent in French to analyze, refine, and optimize critical business materials with precision, leveraging advanced Office Suite proficiency and sharp communication skills. As part of micro1’s elite AI data lab, you’ll transform real-world exp...
 
 
 ### Business Document Expert (Portuguese Speaker)
 - **💸 Pay Rate:** $20 - $70/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/dee2f9e0-a108-412f-b87e-3c048ed2b0ad?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Business Analysis & Communication, Advanced Office Suite Proficiency, Attention to Detail, $20-70/h. Required skills: Business Analysis & Communication, Advanced Office Suite Proficiency, Attention to Detail, $20-70/h. Business Analysis & Communication Advanced Office Suite Profi...
+  > This role leverages your expertise in business documentation and Portuguese fluency to refine and elevate critical business materials, ensuring precision and clarity in high-impact AI training data. As a trusted collaborator with micro1, you’ll bridge real-world business insights with cutting-edg...
 
 
 ### Document Reviewer
 - **💸 Pay Rate:** $63 - $119/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/090e6761-3c60-4a37-a816-883caccb2f90?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Review Data
-Identify Issues
-Validate Outputs
-2+, Review Data, Identify Issues, Validate Outputs, 2+, $63-119/h. Required skills: Review Data
-Identify Issues
-Validate Outputs
-2+, Review Data, Identify Issues, Validate Outputs, 2+, $63-119/h. Review Data Identify Issues Validate Ou...
+  > This Document Reviewer role ensures the accuracy, consistency, and compliance of critical data by meticulously validating outputs, identifying discrepancies, and safeguarding sensitive information. Collaborating with subject-matter experts across industries, you’ll play a pivotal role in refining...
 
 
 ### Privacy Annotation Specialist
 - **💸 Pay Rate:** $105 - $140/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/99c4ab3f-ef1f-4a7d-90f0-bc3e1b243968?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Contract Review
-Quality Assurance
-eDiscovery
-3+, Contract Review, Quality Assurance, eDiscovery, 3+, $105-140/h. Required skills: Contract Review
-Quality Assurance
-eDiscovery
-3+, Contract Review, Quality Assurance, eDiscovery, 3+, $105-140/h. Contract Review Quality Assurance eDi...
+  > The Privacy Annotation Specialist will meticulously review and annotate sensitive data to ensure compliance with privacy regulations while maintaining the highest standards of accuracy and confidentiality. This role leverages expertise in contract review, quality assurance, and eDiscovery to supp...
 
 
 ### Transactional Attorney
 - **💸 Pay Rate:** $80 - $105/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/cb1e3dc4-e94c-4802-bb1a-068869554633?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: In-house Counsel Experience, Attention to Detail, Contract Drafting, 2+, $80-105/h. Required skills: In-house Counsel Experience, Attention to Detail, Contract Drafting, 2+, $80-105/h. In-house Counsel Experience Attention to Detail Contract Drafting Deal Negotiation Technology T...
+  > Seeking a detail-oriented Transactional Attorney with in-house counsel experience to draft and negotiate technology contracts, driving high-stakes deals for a leading AI data lab. This role offers $80–105/hour to leverage legal expertise in shaping cutting-edge AI training and evaluation frameworks.
 
 
 ### .NET Engineer
 - **💸 Pay Rate:** $30 - $90/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/02f5e4c0-747b-4ef7-ab15-73cb26d0938a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-.NET
-C#
-AWS
-1+, .NET
-C#
-AWS
-1+, .NET, C#, AWS, 1+, $30-90/h. Required skills: Required skills
-.NET
-C#
-AWS
-1+, .NET
-C#
-AWS
-1+, .NET, C#, AWS, 1+, $30-90/h. .NET C# AWS Azure About micro1 micro1 is the leading AI data lab for training frontier models and evaluating ...
+  > Seeking a skilled .NET Engineer to develop and optimize scalable applications using C# and cloud platforms like AWS and Azure. Join micro1, a leading AI data lab, to contribute to cutting-edge projects that enhance AI learning and performance through high-quality training data and evaluations.
 
 
 ### Javascript Developer
 - **💸 Pay Rate:** $30 - $90/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/b8825ab1-28f7-4909-bc53-c0632509bb65?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-JavaScript, JavaScript, JavaScript, $30-90/h. Required skills: Required skills
-JavaScript, JavaScript, JavaScript, $30-90/h. JavaScript About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their d...
+  > Seeking a skilled JavaScript Developer to contribute to cutting-edge AI training and evaluation platforms, leveraging expertise to enhance AI reasoning and performance. This role offers competitive compensation ($30-90/h) and the opportunity to work with top-tier talent in domains like finance, h...
 
 
 ### Data Labeling Associate - Video Content
 - **💸 Pay Rate:** $20 - $20/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/e851f658-c8f1-4b48-be02-d77625c53c8f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Visual Discrimination, Process Adherence, Written Clarity, 1+, $20-20/h. Visual Discrimination Process Adherence Written Clarity Attention to Detail About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their dive...
+  > The Data Labeling Associate - Video Content role at micro1 involves meticulously analyzing and annotating video data to enhance AI training, leveraging strong visual discrimination and process adherence. This position contributes to refining AI systems by ensuring high-quality, detailed labeling ...
 
 
 ### Uyghur Bilingual Expert
 - **💸 Pay Rate:** $40 - $95/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/29f1d6e8-101a-46ed-ae31-ef1b3dde30ed?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: written communication, verbal communication, attention to detail, $40-95/h. Required skills: written communication, verbal communication, attention to detail, $40-95/h. written communication verbal communication attention to detail About micro1 micro1 is the leading AI data lab f...
+  > The Uyghur Bilingual Expert will leverage exceptional written and verbal communication skills to contribute high-quality linguistic and cultural expertise to AI training and evaluation projects. This role offers competitive compensation ($40–95/hour) while shaping cutting-edge AI systems through ...
 
 
 ### Gã Bilingual Expert
 - **💸 Pay Rate:** $45 - $95/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/cef101ee-5d3e-4675-870d-92d0c67402fd?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: gã language proficiency, english language proficiency, video transcription, 4+, $45-95/h. Required skills: gã language proficiency, english language proficiency, video transcription, 4+, $45-95/h. gã language proficiency english language proficiency video transcription timestampi...
+  > The Gã Bilingual Expert will leverage advanced proficiency in both Gã and English to deliver precise video transcription, timestamping, and nuanced cultural, emotional, and tonal analysis for cutting-edge AI training data. This role offers competitive compensation ($45–95/hour) and the opportunit...
 
 
 ### Lingala Bilingual Expert
 - **💸 Pay Rate:** $45 - $95/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/29b286e0-bb49-42bb-869d-7eb201c0995d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: lingala language proficiency, english language proficiency, transcription, 7+, $45-95/h. Required skills: lingala language proficiency, english language proficiency, transcription, 7+, $45-95/h. lingala language proficiency english language proficiency transcription linguistic an...
+  > Seeking a highly skilled Lingala-English bilingual expert to deliver precise transcription, translation, and linguistic analysis with keen attention to emotional nuance and cultural localization. This remote role offers $45–95/hour for professionals with 7+ years of experience to contribute to cu...
 
 
 ### Business Presentation Consultant (PowerPoint)
 - **💸 Pay Rate:** $30 - $55/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/df846ef4-9093-4280-afc5-e8f28f99b035?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Microsoft PowerPoint, Microsoft Office Suite, Strategic Planning, 2+, $30-55/h. Required skills: Microsoft PowerPoint, Microsoft Office Suite, Strategic Planning, 2+, $30-55/h. Microsoft PowerPoint Microsoft Office Suite Strategic Planning Business Strategy Executive Communicatio...
+  > Transform high-impact business strategies into visually compelling PowerPoint presentations that elevate executive communications and drive decision-making. Leverage expertise in the Microsoft Office Suite and strategic planning to craft data-rich, persuasive narratives for a leading AI data lab.
 
 
 ### Marketing Strategy Consultant (PowerPoint)
 - **💸 Pay Rate:** $30 - $55/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/09285987-31d3-4471-b917-28d692b02051?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Microsoft PowerPoint
-Marketing
-Branding
-2+, Microsoft PowerPoint, Marketing, Branding, 2+, $30-55/h. Required skills: Microsoft PowerPoint
-Marketing
-Branding
-2+, Microsoft PowerPoint, Marketing, Branding, 2+, $30-55/h. Microsoft PowerPoint Marketing Branding Storytelling Business...
+  > As a Marketing Strategy Consultant, you will leverage your expertise in PowerPoint, branding, and storytelling to craft compelling visual narratives that drive business growth. Join micro1’s AI data lab to transform complex insights into high-impact presentations that shape the future of AI learn...
 
 
 ### Excel Expert
 - **💸 Pay Rate:** $40 - $55/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/6690a79a-7456-42c9-bdff-98fe78a4f21c?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: microsoft excel, advanced excel functions, pivot tables, 17+, $40-55/h. Required skills: microsoft excel, advanced excel functions, pivot tables, 17+, $40-55/h. microsoft excel advanced excel functions pivot tables data validation excel automation data analysis scenario modeling ...
+  > Seeking an Excel Expert to leverage advanced functions, pivot tables, and automation to drive data analysis, workflow optimization, and strategic business operations. This role offers $40-55/hour for a detail-oriented professional to deliver high-impact solutions in a remote, collaborative enviro...
 
 
 ### Data Analyst (Excel)
 - **💸 Pay Rate:** $40 - $55/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/9bdb8c16-eaf3-46f2-8d96-b68a71e8985d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: microsoft excel
-data analysis
-data cleaning
-11+, microsoft excel, data analysis, data cleaning, 11+, $40-55/h. Required skills: microsoft excel
-data analysis
-data cleaning
-11+, microsoft excel, data analysis, data cleaning, 11+, $40-55/h. microsoft excel data analysis data cleani...
+  > Seeking a detail-oriented Data Analyst with advanced Excel expertise to clean, validate, and visualize data while collaborating with cross-functional teams to drive business insights. This role at micro1, a leading AI data lab, offers $40–55/hour to leverage analytical rigor and stakeholder commu...
 
 
 ### Business Intelligence Consultant (Excel)
 - **💸 Pay Rate:** $40 - $50/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/b7b6b81b-6567-48bd-ab90-b40ec55fcfda?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: excel (advanced)
-power query
-vba
-12+, excel (advanced), power query, vba, 12+, $40-50/h. Required skills: excel (advanced)
-power query
-vba
-12+, excel (advanced), power query, vba, 12+, $40-50/h. excel (advanced) power query vba data modeling data cleaning and validation pivot tab...
+  > Leverage advanced Excel, Power Query, and VBA expertise to drive business intelligence through data modeling, automation, and insightful reporting for a leading AI data lab. Transform complex datasets into actionable strategies while ensuring precision in analysis, validation, and process optimiz...
 
 
 ### English Language Specialist (Transcription)
 - **💸 Pay Rate:** $20 - $30/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/fdb0e026-3b3c-4ea1-a981-7f16595e318f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: English
-Transcription
-Captioning
-2+, English, Transcription, Captioning, 2+, $20-30/h. Required skills: English
-Transcription
-Captioning
-2+, English, Transcription, Captioning, 2+, $20-30/h. English Transcription Captioning Attention to Detail Writing About micro1 micro1 is the l...
+  > The English Language Specialist (Transcription) role involves accurately transcribing and captioning audio content with meticulous attention to detail to support AI training and evaluation. This position offers $20-30/hour and requires 2+ years of experience in English transcription and captioning.
 
 
 ### Competitive Coder
 - **💸 Pay Rate:** $45 - $65/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/a5e3fd9b-ea3d-4a1c-b4ea-42549bb1f777?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Basics C++
-C++
-Competitive Programming, Basics C++, C++, Competitive Programming, $45-65/h. Required skills: Basics C++
-C++
-Competitive Programming, Basics C++, C++, Competitive Programming, $45-65/h. Basics C++ C++ Competitive Programming About micro1 micro1 is the leading AI da...
+  > Solve complex algorithmic challenges with expert-level C++ proficiency to advance AI training and evaluation at micro1. Leverage competitive programming expertise to develop high-performance solutions that enhance AI reasoning and performance.
 
 
 ### Certified Public Accountant (India)
 - **💸 Pay Rate:** $20 - $30/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/5437a0de-3308-4521-880d-1adb6dcbfd21?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: US Tax Law
-Legal Document Review
-IRS
-2+, US Tax Law, Legal Document Review, IRS, 2+, $20-30/h. Required skills: US Tax Law
-Legal Document Review
-IRS
-2+, US Tax Law, Legal Document Review, IRS, 2+, $20-30/h. US Tax Law Legal Document Review IRS Internal Revenue Code (IRC) Individu...
+  > A Certified Public Accountant (India) with expertise in US Tax Law, IRS regulations, and legal document review will ensure accurate individual tax return filings and compliance with the Internal Revenue Code. This role leverages specialized financial knowledge to deliver high-quality tax solution...
 
 
 ### Hmong Language Expert
 - **💸 Pay Rate:** $40 - $95/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/d6ea397e-799d-4970-aae6-cba39bb2170a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Hmong language proficiency, editing, written communication, 2+, $40-95/h. Required skills: Hmong language proficiency, editing, written communication, 2+, $40-95/h. Hmong language proficiency editing written communication translating linguistic About micro1 micro1 is the leading ...
+  > Leverage your expert Hmong language proficiency to refine, edit, and translate high-quality content for cutting-edge AI training at micro1, a leader in advancing frontier models. Earn $40–$95/hour by contributing your linguistic expertise to shape the future of AI reasoning and performance.
 
 
 ### Math Expert (PhD)
 - **💸 Pay Rate:** $80 - $90/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/737b57d1-ffc8-4e2d-82c4-86c3c4943325?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Calculus
-Research Methodology
-Mathematics, Calculus, Research Methodology, Mathematics, $80-90/h. Required skills: advanced mathematics, mathematical problem-solving, academic writing, 2+, $80-90/h. advanced mathematics mathematical problem-solving academic writing content review...
+  > A Math Expert (PhD) at micro1 applies advanced mathematical expertise and rigorous research methodologies to develop high-quality training data and evaluations for cutting-edge AI systems. This role involves solving complex mathematical problems, producing academic-level content, and collaboratin...
 
 
 ### Chemistry Expert (PhD)
 - **💸 Pay Rate:** $80 - $90/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/0af69636-770d-447f-9f3c-ea8936565aca?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: advanced chemistry knowledge, scientific writing, verbal comms, 2+, $80-90/h. Required skills: advanced chemistry knowledge, scientific writing, verbal communication, 2+, $80-90/h. advanced chemistry knowledge scientific writing verbal communication attention to detail educationa...
+  > A Chemistry Expert (PhD) at micro1 will leverage advanced scientific knowledge to develop high-quality training data and evaluations that enhance AI learning and reasoning. This role offers $80–90/hour for experts with strong writing, communication, and attention to detail to shape cutting-edge A...
 
 
 ### Biology Expert (PhD)
 - **💸 Pay Rate:** $80 - $90/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/5136fd03-6ff0-45c0-8e36-2126cc5b21c7?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: biology expertise, critical evaluation, scientific communication, 1+, $80-90/h. Required skills: biology expertise, scientific data analysis, critical evaluation, 2+, $80-90/h. biology expertise scientific data analysis critical evaluation scientific communication attention to de...
+  > As a Biology Expert (PhD) at micro1, you will leverage your deep biological knowledge and analytical rigor to evaluate scientific data, refine AI training models, and enhance the reasoning capabilities of cutting-edge AI systems. This role offers a competitive hourly rate of $80–90 to contribute ...
 
 
 ### Bambara Language Expert
 - **💸 Pay Rate:** $300
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/6c4ef201-4b0a-4305-a861-fd978b3a3326?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Bambara language proficiency, linguistic, editing, 2+. Required skills: Bambara language proficiency, linguistic, editing, 2+. Bambara language proficiency linguistic editing translating written communication About micro1 micro1 is the leading AI data lab for training frontier mo...
+  > This role seeks a Bambara Language Expert with advanced proficiency in linguistic analysis, editing, and translation to refine and elevate written communication for AI training and evaluation. As part of micro1’s elite AI data lab, you will leverage your expertise to shape high-quality datasets t...
 
 
 ### PhD Engineer (Electrical, Mechanical, Chemical)
 - **💸 Pay Rate:** $80 - $90/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/e07e9bd3-34a8-4ae0-bb17-de1604397c82?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Calculus, Data Analysis & Interpretation, Literature Review, 2+, $80-90/h. Required skills: Calculus, Data Analysis & Interpretation, Literature Review, 2+, $80-90/h. Calculus Data Analysis & Interpretation Literature Review Experimental Design Research Methodology About micro1 m...
+  > This PhD-level Engineer (Electrical, Mechanical, or Chemical) will leverage advanced expertise in calculus, experimental design, and research methodologies to drive cutting-edge AI training and evaluation at micro1, the premier AI data lab shaping the future of frontier models. By transforming re...
 
 
 ### Physics (PhD)
 - **💸 Pay Rate:** $80 - $90/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/c3fbf0f8-75b1-4092-a234-26e8d212c609?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: advanced physics knowledge, scientific data analysis, technical writing, 7+, $80-90/h. Required skills: advanced physics knowledge, scientific data analysis, technical writing, 7+, $80-90/h. advanced physics knowledge scientific data analysis technical writing verbal communicatio...
+  > This PhD-level Physics role leverages deep expertise in theoretical and applied physics to drive cutting-edge AI research, analyzing complex scientific data, developing rigorous technical documentation, and collaborating with cross-functional teams to advance frontier model training and evaluatio...
 
 
 ### Funds Attorney
 - **💸 Pay Rate:** $80 - $105/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/3d814399-9d2d-4076-b383-b4450b057c02?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Fund Management, Fund Formation, Contract Redlining, 1+, $80-105/h. Required skills: Fund Management, Fund Formation, Contract Redlining, 1+, $80-105/h. Fund Management Fund Formation Contract Redlining Contract Negotiations About micro1 micro1 is the leading AI data lab for trai...
+  > This **Funds Attorney** role offers the opportunity to leverage expertise in fund management, formation, and contract negotiations to shape high-stakes financial structures while collaborating with a cutting-edge AI lab. Join a mission-driven team at the forefront of AI innovation, where your leg...
 
 
 ### M&A Attorney
 - **💸 Pay Rate:** $80 - $105/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/7ac4bdb4-d1b3-4a9b-8b1f-669142590800?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-M&A
-APAs
-SPAs
-2+, M&A
-APAs
-SPAs
-2+, M&A, APAs, SPAs, 2+, $80-105/h. Required skills: Required skills
-M&A
-APAs
-SPAs
-2+, M&A
-APAs
-SPAs
-2+, M&A, APAs, SPAs, 2+, $80-105/h. M&A APAs SPAs Contract Negotiations Redlining About micro1 micro1 is the leading AI data lab fo...
+  > Seeking a seasoned M&A Attorney with 2+ years of experience drafting and negotiating APAs, SPAs, and complex contracts to drive high-stakes transactions. This role offers $80–105/hour to leverage legal expertise in shaping strategic deals within a cutting-edge AI data lab environment.
 
 
 ### Web Browsing Evaluator
 - **💸 Pay Rate:** $30 - $45/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/f2d9a2cc-e261-4414-a486-a34cb1b066a7?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Attention to Detail, Data Annotation, Web Browsing, 3+, $30-45/h. Required skills: Attention to Detail, Data Annotation, Web Browsing, 3+, $30-45/h. Attention to Detail Data Annotation Web Browsing Screen Grabbing Following Instrcutions Documentation About micro1 micro1 is the le...
+  > Evaluate and enhance AI web browsing capabilities by meticulously assessing search results, annotations, and data accuracy for leading AI models. This role offers $30–45/hour to detail-oriented professionals who can follow precise instructions to refine AI performance.
 
 
 ### Rubric Expert
 - **💸 Pay Rate:** $30 - $45/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/960c7379-8a3b-4142-86df-1c0c0bc19fcb?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Data Annotation, Attention to Detail, Screen Grabbing, 4+, $30-45/h. Required skills: Data Annotation, Attention to Detail, Screen Grabbing, 4+, $30-45/h. Data Annotation Attention to Detail Screen Grabbing Web Browsing Documentation Prompt Engineering Rubric About micro1 micro1 ...
+  > The Rubric Expert will leverage their subject matter expertise to develop and refine high-quality evaluation frameworks that enhance AI model training and performance. This role involves precise data annotation, meticulous documentation, and prompt engineering to ensure accurate, scalable assessm...
 
 
 ### Engineering & Technical Documentation Specialist
 - **💸 Pay Rate:** $40 - $50/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/eca66856-1444-46e4-aacc-4055023ede8d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: technical documentation, engineering drawings interpretation, cad (computer-aided design), 12+, $40-50/h. Required skills: technical documentation, engineering drawings interpretation, cad (computer-aided design), 12+, $40-50/h. technical documentation engineering drawings interp...
+  > The Engineering & Technical Documentation Specialist will develop precise technical documentation, interpret engineering drawings, and create instructional materials to support AI model training and evaluation. This role demands expertise in CAD, blueprint analysis, and clear communication to ens...
 
 
 ### Electrical Systems & Field Operations Specialist
 - **💸 Pay Rate:** $40 - $50/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/f6766ac9-e9f8-4837-94be-5d7365d666db?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: electrical systems design, control systems, technical documentation, 11+, $40-50/h. Required skills: electrical systems design, control systems, technical documentation, 11+, $40-50/h. electrical systems design control systems technical documentation electrical troubleshooting fi...
+  > The Electrical Systems & Field Operations Specialist at micro1 designs, troubleshoots, and optimizes advanced electrical and control systems while delivering precise technical documentation to support AI-driven data lab operations. This role demands expert-level field operations, schematic interp...
 
 
 ### Management Consultant / Business Strategy Specialist
 - **💸 Pay Rate:** $50 - $70/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/dedbfb0e-7314-466e-a7ad-8cbea0dc6636?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: management consulting, business strategy, market analysis, 7+, $50-70/h. Required skills: management consulting, business strategy, market analysis, 7+, $50-70/h. management consulting business strategy market analysis financial modeling executive communication presentation desig...
+  > Drive high-impact business transformation by leveraging deep expertise in management consulting, strategic analysis, and financial modeling to solve complex challenges for industry-leading organizations. Deliver data-driven insights and executive-level recommendations that shape market strategies...
 
 
 ### Business Operations & Analytics Specialist
 - **💸 Pay Rate:** $50 - $60/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/e160253f-3b95-4c07-b94c-2d20af3300d2?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: business intelligence tools, kpi reporting, data analysis, 14+, $50-60/h. Required skills: business intelligence tools, kpi reporting, data analysis, 14+, $50-60/h. business intelligence tools kpi reporting data analysis dashboard creation process documentation workflow optimizat...
+  > The Business Operations & Analytics Specialist will drive data-informed decision-making by designing KPI dashboards, optimizing workflows, and translating complex analytics into actionable insights for Micro1’s AI data lab. This role demands expertise in business intelligence, operational metrics...
 
 
 ### Marketing & Commercial Strategy Specialist
 - **💸 Pay Rate:** $50 - $60/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/b0958ae7-530a-4808-8883-1624f3ec9c9d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: marketing strategy, commercial strategy, market research, 12+, $50-60/h. Required skills: marketing strategy, commercial strategy, market research, 12+, $50-60/h. marketing strategy commercial strategy market research data analysis business intelligence tools excel tableau presen...
+  > Drive strategic marketing and commercial initiatives by leveraging deep market research, data analysis, and business intelligence to shape high-impact campaigns and revenue growth. Partner with cross-functional teams at micro1, the leading AI data lab, to refine frameworks, optimize performance, ...
 
 
 ### Scientific & Laboratory Operations Specialist
 - **💸 Pay Rate:** $40 - $50/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/8a80bbd1-2cd5-4fcf-91da-c93c6df6b60c?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: scientific data analysis, laboratory documentation review, analytical reasoning, 7+, $40-50/h. Required skills: scientific data analysis, laboratory documentation review, analytical reasoning, 7+, $40-50/h. scientific data analysis laboratory documentation review analytical reaso...
+  > The Scientific & Laboratory Operations Specialist will leverage expertise in biology, chemistry, or physics to analyze scientific data, review laboratory documentation, and drive analytical solutions for AI model training and evaluation. This role demands strong technical writing, critical thinki...
 
 
 ### Entrepreneur & Business Specialist
 - **💸 Pay Rate:** $50 - $120/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/db1fdd9b-e317-4915-aacb-ab9ee94aab49?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Business operations, Project management, CRM Systems, 5+, $50-120/h. Required skills: Business operations, Project management, CRM Systems, 5+, $50-120/h. Business operations Project management CRM Systems Process automation Data analysis SaaS tools Workflow optimization Verbal c...
+  > Drive strategic business growth and operational excellence by leveraging expertise in project management, CRM systems, and workflow optimization to enhance AI-driven solutions. Partner with micro1 to transform real-world knowledge into high-quality training data, shaping the future of AI learning...
 
 
 ### Voice Actor/Actress
 - **💸 Pay Rate:** $20 - $50/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/21caf82a-b545-41b3-b6b8-00534ef30f65?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Emotional range performance, Directed vocal tone execution, Professional voice recording, $20-50/h. Required skills: Emotional range performance, Directed vocal tone execution, Professional voice recording, $20-50/h. Emotional range performance Directed vocal tone execution Profe...
+  > Bring characters to life with dynamic emotional range and precise vocal tone in professional recording sessions. Earn $20–$50/hour contributing high-quality voice performances to cutting-edge AI training and evaluation projects.
 
 
 ### Tibetan Language Expert
 - **💸 Pay Rate:** $40 - $95/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/d22948f4-e390-4454-9a99-db41b4889137?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Tibetan language proficiency, written communication, linguistic, 2+, $40-95/h. Required skills: Tibetan language proficiency, written communication, linguistic, 2+, $40-95/h. Tibetan language proficiency written communication linguistic translating editing About micro1 micro1 is ...
+  > The Tibetan Language Expert will leverage advanced linguistic proficiency to translate, edit, and refine high-quality content for cutting-edge AI training and evaluation. This role at micro1 offers a competitive hourly rate ($40–$95) to shape the next generation of AI systems through expert Tibet...
 
 
 ### Sherpa Language Expert
 - **💸 Pay Rate:** $300
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/5b970bbb-7920-4706-b754-f275940e5d78?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: written communication
-linguistic
-translating
-2+, written communication, linguistic, translating, 2+. Required skills: written communication
-linguistic
-translating
-2+, written communication, linguistic, translating, 2+. written communication linguistic translating editing Sherpa L...
+  > The Sherpa Language Expert will leverage advanced linguistic and translation skills to refine and enhance AI training data, ensuring precision and cultural nuance. This role contributes high-quality written communication and editing expertise to elevate AI model performance across diverse domains.
 
 
 ### Tamang Language Expert
 - **💸 Pay Rate:** $40 - $95/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/4ea0b7e7-f8c3-4f84-b716-d598755eb70e?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: written communication
-linguistic
-translating
-2+, written communication, linguistic, translating, 2+, $40-95/h. Required skills: written communication
-linguistic
-translating
-2+, written communication, linguistic, translating, 2+, $40-95/h. written communication linguistic translat...
+  > A Tamang Language Expert at micro1 will leverage advanced linguistic and translation skills to refine AI training data, ensuring cultural and contextual accuracy in frontier models. This role offers competitive compensation ($40–95/hour) for professionals with 2+ years of experience in written co...
 
 
 ### Image Evaluation Generalist
 - **💸 Pay Rate:** $20 - $30/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/010cdaab-956d-40f9-bd8a-623b7ffb77ac?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Critical thinking, Visual attention to detail, Written English clarity, $20-30/h. Required skills: Critical thinking, Visual attention to detail, Written English clarity, $20-30/h. Critical thinking Visual attention to detail Written English clarity About micro1 micro1 is the lea...
+  > The Image Evaluation Generalist at micro1 applies critical thinking and keen visual attention to detail to assess and refine AI training data, ensuring high-quality evaluations that enhance model performance. This role leverages strong written English clarity to provide precise feedback, contribu...
 
 
 ### Video Annotation Expert
 - **💸 Pay Rate:** $65 - $80/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/5a9d4f4c-a44d-496f-8677-067eee4b064b?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: video annotation, content moderation, english-language proficiency, 2+, $65-80/h. Required skills: video annotation, content moderation, english-language proficiency, 2+, $65-80/h. video annotation content moderation english-language proficiency attention to detail data labeling ...
+  > As a Video Annotation Expert at micro1, you will leverage your precision and subject-matter expertise to label and moderate video content, ensuring high-quality training data for cutting-edge AI systems. This role offers $65–80/hour for professionals with 2+ years of experience and fluent English...
 
 
 ### Video Editor
 - **💸 Pay Rate:** $30 - $80/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/99bd931e-ade9-4346-86b6-0a7277f52007?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: video editing, adobe premiere pro, after effects, 21+, $30-80/h. Required skills: video editing, adobe premiere pro, after effects, 21+, $30-80/h. video editing adobe premiere pro after effects final cut pro davinci resolve animation visual effects audio editing digital media pro...
+  > The Video Editor will craft compelling visual narratives using advanced tools like Adobe Premiere Pro, After Effects, and DaVinci Resolve, ensuring high-quality post-production for AI training and educational content. This role demands expertise in storytelling, collaboration, and meeting deadlin...
 
 
 ### Litigator / Practicing Attorney (US)
 - **💸 Pay Rate:** $100 - $150/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/026d32fe-dfd4-46e2-a841-980e4cbcaad0?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Legal Reasoning, Litigation & Practice Expertise, Analytical Rigor, 3+, $100-150/h. Required skills: Legal Reasoning, Litigation & Practice Expertise, Analytical Rigor, 3+, $100-150/h. Legal Reasoning Litigation & Practice Expertise Analytical Rigor Calibration in Ambiguous Cases...
+  > Seeking a seasoned US litigator with 3+ years of experience to apply sharp legal reasoning, analytical rigor, and precision in high-stakes, ambiguous cases. This role offers $100–150/hour to leverage litigation expertise and exceptional legal writing in shaping AI training data for frontier models.
 
 
 ### Japanese Language Expert
 - **💸 Pay Rate:** $30 - $65/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/02e21cf5-e4ed-418b-8402-6ea00e678b01?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: $30-65/h. Required skills: $30-65/h. About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 tran...
+  > Leverage your fluency in Japanese to shape the future of AI by contributing high-quality linguistic expertise to train and evaluate cutting-edge models. Join a leading AI data lab where your language skills directly enhance AI reasoning and performance in global applications.
 
 
 ### Cocos2d-x Junior Game Developer
 - **💸 Pay Rate:** $50 - $120/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/e9cd4394-5e60-4fe1-9091-1012e80c0841?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-Cocos2d-x
-Game Development, Cocos2d-x
-Game Development, Cocos2d-x, Game Development, $50-120/h. Required skills: Required skills
-Cocos2d-x
-Game Development, Cocos2d-x
-Game Development, Cocos2d-x, Game Development, $50-120/h. Cocos2d-x Game Development About micro1...
+  > "Develop engaging 2D games using Cocos2d-x as a Junior Game Developer, contributing to innovative projects at the intersection of gaming and AI. Earn $50–120/hour while building expertise in a dynamic, high-impact environment."
 
 
 ### Mathematics Professor/Researcher (PhD)
 - **💸 Pay Rate:** $60 - $90/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/5f18be8b-5fad-424f-bf40-e1fbbe245098?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-Math
-Research
-Teaching
-1+, Math
-Research
-Teaching
-1+, Math, Research, Teaching, 1+, $60-90/h. Required skills: Required skills
-Math
-Research
-Teaching
-1+, Math
-Research
-Teaching
-1+, Math, Research, Teaching, 1+, $60-90/h. Math Research Teaching PhD About micro1 mic...
+  > Seeking a PhD-level Mathematics Professor/Researcher to advance cutting-edge mathematical theory and deliver high-impact instruction while contributing expert insights to AI training and evaluation initiatives. This role offers $60–90/hour to leverage deep mathematical and research expertise in s...
 
 
 ### Physics Expert (PhD / Postdoc)
 - **💸 Pay Rate:** $80 - $140/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/f0b4d2f2-e832-42d9-9ee2-94c8acf3467c?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Physics Mastery, Written Technical Communication, Technical Problem-Solving Depth, 1+, $80-140/h. Required skills: Physics Mastery, Written Technical Communication, Technical Problem-Solving Depth, 1+, $80-140/h. Physics Mastery Written Technical Communication Technical Problem-S...
+  > Seeking a Physics Expert (PhD/Postdoc) with deep technical problem-solving skills and exceptional written communication to contribute high-quality expertise to AI training and evaluation at micro1. This role offers $80–140/hour for leveraging advanced physics mastery and computational fluency to ...
 
 
 ### Physics Expert (Postdoc / Junior professor)
 - **💸 Pay Rate:** $80 - $150/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/24515609-bd74-4846-b7e4-b83e173826dc?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Physics Mastery, Written Technical Communication, Critical Evaluation & Error Detection, 2+, $80-150/h. Required skills: Physics Mastery, Written Technical Communication, Critical Evaluation & Error Detection, 2+, $80-150/h. Physics Mastery Written Technical Communication Critica...
+  > The Physics Expert will leverage advanced subject-matter expertise to evaluate, refine, and verify technical content, ensuring precision and rigor in AI model training and evaluation. This role offers a competitive hourly rate ($80–150) to contribute high-impact insights at the forefront of AI de...
 
 
 ### Physics Expert (Professor / Principal Investigator)
 - **💸 Pay Rate:** $80 - $160/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/717a7998-b625-436f-9979-05332495affd?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Physics Mastery, Expert Judgment in Ambiguous Cases, Meta-Level Reasoning, 2+, $80-160/h. Required skills: Physics Mastery, Expert Judgment in Ambiguous Cases, Meta-Level Reasoning, 2+, $80-160/h. Physics Mastery Expert Judgment in Ambiguous Cases Meta-Level Reasoning Research Le...
+  > Seeking a distinguished Physics Expert (Professor/Principal Investigator) to lead cutting-edge research and provide authoritative, nuanced judgment in complex scientific domains, transforming expertise into high-impact AI training data. This role demands masterful physics knowledge, meta-level re...
 
 
 ### Chemical Safety & Toxicology Expert
 - **💸 Pay Rate:** $50 - $90/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/c7458a03-9552-4a9b-bc69-97aaa0602061?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Chemistry
-Chemical Weapons
-Toxicology
-1+, Chemistry, Chemical Weapons, Toxicology, 1+, $50-90/h. Required skills: Chemistry
-Chemical Weapons
-Toxicology
-1+, Chemistry, Chemical Weapons, Toxicology, 1+, $50-90/h. Chemistry Chemical Weapons Toxicology Hazardous Substances About micr...
+  > This role demands a seasoned Chemical Safety & Toxicology Expert to assess and mitigate risks associated with hazardous substances, chemical weapons, and toxicological exposures while ensuring compliance with global safety standards. Leveraging deep expertise in chemistry and toxicology, you will...
 
 
 ### Military Operations & IHL Expert
 - **💸 Pay Rate:** $50 - $90/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/6b82a1c1-9c99-4993-9f14-9bcfd0fd9e4a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: War Fighting, Weapons Targeting, Defense Operations, 1+, $50-90/h. Required skills: War Fighting, Weapons Targeting, Defense Operations, 1+, $50-90/h. War Fighting Weapons Targeting Defense Operations Humanitarian Law About micro1 micro1 is the leading AI data lab for training fr...
+  > This role demands a seasoned Military Operations & International Humanitarian Law (IHL) Expert to provide strategic insights in warfighting, weapons targeting, and defense operations while ensuring compliance with legal and ethical frameworks. Leveraging deep domain expertise, you will shape high...
 
 
 ### Child & Online Safety Expert
 - **💸 Pay Rate:** $50 - $90/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/05253d71-954f-4634-9760-1f0ef01881e7?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Child Safety
-CSAM-adjacent Policy
-Teen Safety
-2+, Child Safety, CSAM-adjacent Policy, Teen Safety, 2+, $50-90/h. Required skills: Child Safety
-CSAM-adjacent Policy
-Teen Safety
-2+, Child Safety, CSAM-adjacent Policy, Teen Safety, 2+, $50-90/h. Child Safety CSAM-adjacent Policy Tee...
+  > This role demands a seasoned Child & Online Safety Expert to design and enforce robust policies addressing CSAM-adjacent risks, teen safety, and crisis intervention while ensuring AI systems uphold the highest ethical and protective standards. Leveraging deep expertise in child welfare and digita...
 
 
 ### Financial Services Expert
 - **💸 Pay Rate:** $80 - $110/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/a6ec1f07-7c58-40c4-9013-e1e72a486bd3?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Financial Advising
-Rubrics
-Prompt
-1+, Financial Advising, Rubrics, Prompt, 1+, $80-110/h. Required skills: Financial Advising
-Rubrics
-Prompt
-1+, Financial Advising, Rubrics, Prompt, 1+, $80-110/h. Financial Advising Rubrics Prompt Tax Planning About micro1 micro1 is the leading A...
+  > As a Financial Services Expert at micro1, you will leverage your deep financial advising and tax planning expertise to contribute high-quality insights that shape AI training data and evaluations. This role offers a premium hourly rate ($80–110/hr) to top-tier professionals who drive advancements...
 
 
 ### Nuclear & Radiological Security Expert
 - **💸 Pay Rate:** $50 - $90/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/cda78c70-c436-411c-842f-351f235efb81?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Nuclear Physics, Radiological Safety, Nonproliferation, 1+, $50-90/h. Required skills: Nuclear Physics, Radiological Safety, Nonproliferation, 1+, $50-90/h. Nuclear Physics Radiological Safety Nonproliferation Safeguards About micro1 micro1 is the leading AI data lab for training...
+  > A Nuclear & Radiological Security Expert will apply deep expertise in nuclear physics, radiological safety, and nonproliferation to strengthen global safeguards and threat mitigation. This role leverages specialized knowledge to enhance AI-driven solutions for high-stakes security challenges.
 
 
 ### Red Team Lead (Offensive Cybersecurity)
 - **💸 Pay Rate:** $50 - $90/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/c11cbae4-dcfc-4832-95f4-99d3258133f8?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Cyber Security
-Exploit Chains
-Cloud/Appsec
-1+, Cyber Security, Exploit Chains, Cloud/Appsec, 1+, $50-90/h. Required skills: Cyber Security
-Exploit Chains
-Cloud/Appsec
-1+, Cyber Security, Exploit Chains, Cloud/Appsec, 1+, $50-90/h. Cyber Security Exploit Chains Cloud/Appsec Malwar...
+  > Lead a high-impact offensive cybersecurity team to design and execute advanced exploit chains, cloud and application security assessments, and social engineering campaigns. Drive continuous improvement in AI system resilience by identifying and mitigating critical vulnerabilities across complex, ...
 
 
 ### Financial Crime & AML Compliance Expert
 - **💸 Pay Rate:** $50 - $90/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/0aa5b93c-f3ec-4007-a115-94e588338dd3?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-AML
-Fraud
-Marketplace Abuse
-4+, AML
-Fraud
-Marketplace Abuse
-4+, AML, Fraud, Marketplace Abuse, 4+, $50-90/h. Required skills: Required skills
-AML
-Fraud
-Marketplace Abuse
-4+, AML
-Fraud
-Marketplace Abuse
-4+, AML, Fraud, Marketplace Abuse, 4+, $50-90/h. AML Fraud Mar...
+  > Seeking a seasoned Financial Crime & AML Compliance Expert to safeguard against fraud, marketplace abuse, and money laundering through advanced detection and mitigation strategies. This role leverages deep expertise in synthetic identity, phishing, and scams to strengthen AI-driven compliance fra...
 
 
 ### Mental-Health Crisis Prevention Expert
 - **💸 Pay Rate:** $50 - $90/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/aa92352b-19d7-4095-82b3-4a2c0da723c0?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Psychology
-Mental-Health
-Crisis Response
-2+, Psychology, Mental-Health, Crisis Response, 2+, $50-90/h. Required skills: Psychology
-Mental-Health
-Crisis Response
-2+, Psychology, Mental-Health, Crisis Response, 2+, $50-90/h. Psychology Mental-Health Crisis Response Eating Disorders...
+  > As a Mental-Health Crisis Prevention Expert, you will leverage your deep psychology and crisis response expertise to develop proactive strategies that mitigate mental health emergencies. Your specialized knowledge in patient care and eating disorders will directly enhance AI systems' ability to u...
 
 
 ### Physics Professor/Researcher (PhD)
 - **💸 Pay Rate:** $70 - $90/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/d2c1174a-b6a9-479c-aa64-9b8e22cdd5b7?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-Physics
-Research
-Teaching
-1+, Physics
-Research
-Teaching
-1+, Physics, Research, Teaching, 1+, $70-90/h. Required skills: Required skills
-Physics
-Research
-Teaching
-1+, Physics
-Research
-Teaching
-1+, Physics, Research, Teaching, 1+, $70-90/h. Physics Research Teaching...
+  > Seeking a PhD-level Physics Professor/Researcher to advance cutting-edge research and deliver high-impact teaching, leveraging deep expertise to shape the next generation of scientific thought. This role offers the opportunity to contribute to AI-driven innovation by transforming complex physics ...
 
 
 ### Tongan Bilingual Expert
 - **💸 Pay Rate:** $45 - $95/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/f64ed613-82cf-4ad3-bbae-79e02802b5dd?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: tongan-english bilingual fluency, audio and video transcription, timestamping, 9+, $45-95/h. Required skills: tongan-english bilingual fluency, audio and video transcription, timestamping, 9+, $45-95/h. tongan-english bilingual fluency audio and video transcription timestamping t...
+  > Leverage your Tongan-English bilingual fluency and linguistic expertise to deliver precise transcription, timestamping, and cultural nuance analysis for cutting-edge AI training at a leading data lab. Earn $45–$95/hour by applying your advanced grammar, emotional intelligence, and localization sk...
 
 
 ### Finance Specialist
 - **💸 Pay Rate:** $20 - $40/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/6b2155b3-8406-4b9c-9318-6ec2178258ec?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Financial analysis depth, Financial report writing, Data visualization and quantitative presentation, 1+, $20-40/h. Required skills: Financial analysis depth, Financial report writing, Data visualization and quantitative presentation, 1+, $20-40/h. Financial analysis depth Financ...
+  > The Finance Specialist will deliver high-impact financial analysis, crafting precise reports and compelling data visualizations to drive strategic decision-making. This role at micro1, a leading AI data lab, leverages deep quantitative expertise to refine AI training and evaluation in finance and...
 
 
 ### Legal Specialist
 - **💸 Pay Rate:** $20 - $40/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/179656c6-55ed-4daf-b48b-2e7ed938ecdf?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Legal analysis and issue spotting, Strong legal writing, Document drafting experience, 1+, $20-40/h. Required skills: Legal analysis and issue spotting, Strong legal writing, Document drafting experience, 1+, $20-40/h. Legal analysis and issue spotting Strong legal writing Docume...
+  > The Legal Specialist will leverage expert legal analysis and precise writing to draft and refine documents while ensuring confidentiality and privilege. This role supports micro1’s mission by transforming legal expertise into high-quality AI training data and evaluations.
 
 
 ### Medical Specialist
 - **💸 Pay Rate:** $20 - $40/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/5fee5987-61f7-4294-a261-df699ec45a07?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Medical writing & documentation, Confidentiality & de-identification judgment, Medical Depth, $20-40/h. Required skills: Medical writing & documentation, Confidentiality & de-identification judgment, Medical Depth, $20-40/h. Medical writing & documentation Confidentiality & de-id...
+  > The Medical Specialist will leverage deep medical expertise to produce high-quality documentation and ensure strict confidentiality in de-identifying sensitive data. This role contributes to advancing AI systems by transforming real-world medical knowledge into precise training data and evaluations.
 
 
 ### Biology Expert
 - **💸 Pay Rate:** $20 - $40/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/ba8d074d-3547-43aa-b851-fdc0e135c9ed?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: scientific writing, biological data analysis, academic research, 2+, $20-40/h. Required skills: scientific writing, biological data analysis, academic research, 2+, $20-40/h. scientific writing biological data analysis academic research attention to detail written and verbal comm...
+  > A Biology Expert at micro1 applies deep subject-matter knowledge to analyze biological data, conduct rigorous academic research, and produce high-quality scientific writing that enhances AI training and evaluation. This role leverages precision and communication skills to shape cutting-edge AI mo...
 
 
 ### Chemistry Expert
 - **💸 Pay Rate:** $20 - $40/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/c8a38430-97b1-41c9-b36f-761d2b0e2098?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: chemistry domain expertise, experimental write-ups, technical analysis, 7+, $20-40/h. Required skills: chemistry domain expertise, experimental write-ups, technical analysis, 7+, $20-40/h. chemistry domain expertise experimental write-ups technical analysis scientific data review...
+  > A Chemistry Expert at micro1 applies deep domain knowledge to validate chemical data, analyze experimental results, and communicate complex scientific concepts with precision. This role involves remote collaboration to advance AI training and evaluation in cutting-edge STEM research.
 
 
 ### Physics Expert
 - **💸 Pay Rate:** $20 - $40/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/10645acb-cffe-48a0-800c-68e1e142007a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: physics domain expertise, data analysis, experimental design, 9+, $20-40/h. Required skills: physics domain expertise, data analysis, experimental design, 9+, $20-40/h. physics domain expertise data analysis experimental design computational modeling scientific writing research s...
+  > A Physics Expert at micro1 will leverage deep domain knowledge in physics, computational modeling, and experimental design to develop high-quality research content and simplify complex concepts for AI training. This role involves collaborating with remote teams to produce precise scientific writi...
 
 
 ### Engineering Expert
 - **💸 Pay Rate:** $20 - $40/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/074f30c2-8474-4b5f-9774-a4f058277a4e?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: engineering documentation analysis, technical report writing, written and verbal communication, 2+, $20-40/h. Required skills: engineering documentation analysis, technical report writing, written and verbal communication, 2+, $20-40/h. engineering documentation analysis technica...
+  > The Engineering Expert will leverage deep technical knowledge to analyze engineering documentation, craft precise technical reports, and drive cross-functional solutions for AI training and evaluation. This role offers $20-40/hour to professionals with 2+ years of experience in STEM engineering, ...
 
 
 ### Computer Science Specialist
 - **💸 Pay Rate:** $20 - $40/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/75b76df7-6fe1-4759-8c0c-fd552054169b?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: technical writing
-system design
-algorithms
-11+, technical writing, system design, algorithms, 11+, $20-40/h. Required skills: technical writing
-system design
-algorithms
-11+, technical writing, system design, algorithms, 11+, $20-40/h. technical writing system design algorithms di...
+  > The Computer Science Specialist will drive innovation in AI and distributed systems by designing scalable algorithms, authoring technical documentation, and advancing research in data analysis and machine learning. This role collaborates with cross-functional teams to refine system architectures,...
 
 
 ### Mathematics Expert
 - **💸 Pay Rate:** $20 - $40/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/8b842ebb-cb89-4ed4-b46a-e7ffd2ae122f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: advanced mathematics, mathematical proof writing, technical report writing, 7+, $20-40/h. Required skills: advanced mathematics, mathematical proof writing, technical report writing, 7+, $20-40/h. advanced mathematics mathematical proof writing technical report writing data annot...
+  > The Mathematics Expert will leverage advanced mathematical expertise to develop rigorous proofs, solve complex problems, and produce precise technical reports while collaborating with remote teams to translate intricate concepts for diverse audiences. This role at micro1, a leading AI data lab, o...
 
 
 ### Chemistry Professor/Researcher (PhD)
 - **💸 Pay Rate:** $70 - $90/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/7465b232-3add-4ab5-8ea9-65b2db2e7007?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-Chemistry
-Research
-Teaching
-1+, Chemistry
-Research
-Teaching
-1+, Chemistry, Research, Teaching, 1+, $70-90/h. Required skills: Required skills
-Chemistry
-Research
-Teaching
-1+, Chemistry
-Research
-Teaching
-1+, Chemistry, Research, Teaching, 1+, $70-90/h. Chemistry Res...
+  > Seeking a PhD-level Chemistry Professor/Researcher to lead cutting-edge research and deliver high-impact teaching, leveraging deep expertise in chemistry to advance AI training and evaluation frameworks. This role offers $70–90/hour to contribute specialized knowledge to micro1’s mission of enhan...
 
 
 ### Computational Biology Expert (PhD)
 - **💸 Pay Rate:** $40 - $60/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/a26bf8e6-bdd6-4889-88d7-f474f0f8a458?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-Python
-Bash, Python
-Bash, Python, Bash, $40-60/h. Required skills: Required skills
-Python
-Bash, Python
-Bash, Python, Bash, $40-60/h. Python Bash About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribut...
+  > Seeking a PhD-level Computational Biology Expert to leverage advanced Python and Bash scripting to develop high-quality AI training data and evaluations for frontier models. Join micro1’s elite team to transform domain expertise into cutting-edge AI reasoning and performance solutions.
 
 
 ### Computational Chemistry Expert (PhD)
 - **💸 Pay Rate:** $40 - $60/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/707b29ab-98dc-43ef-a5f2-2452526d654b?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: computational chemistry, molecular simulations, python, 22+, $40-60/h. Required skills: computational chemistry, molecular simulations, python, 22+, $40-60/h. computational chemistry molecular simulations python gaussian gromacs lammps amber orca psi4 nwchem rdkit openbabel chemi...
+  > A Computational Chemistry Expert (PhD) will leverage advanced molecular simulations, electronic structure methods, and AI/ML-assisted workflows to drive innovation in drug discovery and scientific software development. This role demands expertise in tools like Gaussian, GROMACS, and Python, combi...
 
 
 ### Senior Software Engineer
 - **💸 Pay Rate:** $50 - $70/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/f27a054c-92f3-4a26-9aba-af5782c38420?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-Python3
-JAVA
-Rust
-7+, Python3
-JAVA
-Rust
-7+, Python3, JAVA, Rust, 7+, $50-70/h. Required skills: Required skills
-Python3
-JAVA
-Rust
-7+, Python3
-JAVA
-Rust
-7+, Python3, JAVA, Rust, 7+, $50-70/h. Python3 JAVA Rust Algorithms Basics C++ Typescript bug fixing feature imp...
+  > We are seeking a Senior Software Engineer to design, optimize, and scale high-performance systems using Python, Java, or Rust, driving innovation in AI training and evaluation at micro1. This role involves refining codebases, solving complex technical challenges, and contributing to cutting-edge ...
 
 
 ### Electrical Engineering Professor
 - **💸 Pay Rate:** $40 - $130/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/2d8d20b2-089f-44eb-8a34-61ff4c7bbc2b?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: electrical engineering, analog circuits, digital circuits, 12+, $40-130/h. Required skills: electrical engineering, analog circuits, digital circuits, 12+, $40-130/h. Required skills: electrical engineering, analog circuits, digital circuits, 12+, $40-130/h. electrical engineerin...
+  > Seeking a dynamic Electrical Engineering Professor to deliver expert instruction in analog/digital circuits, RF, power electronics, and IC design while developing innovative educational content and assessments. This role offers competitive compensation ($40–130/hour) and the flexibility of remote...
 
 
 ### Mechanical Engineering Professor
 - **💸 Pay Rate:** $60 - $130/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/b3cd1044-8649-4019-932b-1bd7267e30d9?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: mechanical engineering, solid and structural mechanics, dynamics and vibration and control, 12+, $60-130/h. Required skills: mechanical engineering, solid and structural mechanics, dynamics and vibration and control, 12+, $60-130/h. Required skills: mechanical engineering, solid ...
+  > A distinguished Mechanical Engineering Professor is sought to deliver expert instruction in solid and structural mechanics, dynamics, vibration, and control, while developing high-quality educational content and assessments. This role demands exceptional technical accuracy, communication skills, ...
 
 
 ### Physics Expert (High Energy/Mathematical Physics)
 - **💸 Pay Rate:** $80 - $160/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/72b56760-80df-457e-b3fc-201f970efc21?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Physics Mastery, Expert Judgment in Ambiguous Cases, Meta-Level Reasoning, 2+, $80-160/h. Required skills: Physics Mastery, Expert Judgment in Ambiguous Cases, Meta-Level Reasoning, 2+, $80-160/h. Required skills: Physics Mastery, Expert Judgment in Ambiguous Cases, Meta-Level Re...
+  > This role seeks a **Physics Expert** specializing in high energy or mathematical physics to provide rigorous, defensible insights through advanced theoretical analysis, meta-level reasoning, and expert judgment in complex, ambiguous scenarios. As a key contributor to micro1’s AI data lab, you wil...
 
 
 ### Content Editor
 - **💸 Pay Rate:** $500
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/207453cb-479e-4fd3-9d49-13e4e35b23f7?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: adobe premiere pro, final cut pro, davinci resolve, 17+. Required skills: adobe premiere pro, final cut pro, davinci resolve, 17+. Required skills: adobe premiere pro, final cut pro, davinci resolve, 17+. adobe premiere pro final cut pro davinci resolve motion graphics sound desi...
+  > The Content Editor will craft and refine engaging video content across social platforms, leveraging advanced editing tools and motion graphics to enhance storytelling and brand consistency. They will optimize visuals, audio, and captions for maximum impact while collaborating remotely to align wi...
 
 
 ### Competitive Coder Contest
 - **💸 Pay Rate:** $45 - $65/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/345dd4f0-e901-4d51-8fa8-5e5a01ddff43?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Basics C++
-C++
-Competitive Programming, Basics C++, C++, Competitive Programming, $45-65/h. Required skills: Basics C++
-C++
-Competitive Programming, Basics C++, C++, Competitive Programming, $45-65/h. Required skills: Basics C++
-C++
-Competitive Programming, Basics C++, C++, Compe...
+  > This role invites expert competitive programmers to leverage their C++ proficiency in crafting high-quality training data and evaluations for cutting-edge AI models at micro1. Earn $45–65/hour while contributing to the development of frontier AI systems through your algorithmic and problem-solvin...
 
 
 ### Generalist for Data Annotation
 - **💸 Pay Rate:** $30 - $80/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/0566558a-52b0-4c27-affe-702d16dcdfd7?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: data annotation, critical thinking, attention to detail, 2+, $30-80/h. Required skills: data annotation, critical thinking, attention to detail, 2+, $30-80/h. Required skills: data annotation, critical thinking, attention to detail, 2+, $30-80/h. data annotation critical thinking...
+  > The Generalist for Data Annotation at micro1 applies critical thinking and meticulous attention to detail to produce high-quality training data and evaluations for frontier AI models. This remote role leverages diverse subject matter expertise to shape AI development across domains like finance, ...
 
 
 ### Architect (CAD & Construction Documentation)
 - **💸 Pay Rate:** $40 - $50/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/840bc863-3ca5-4f58-aa8c-f2234067ebc9?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Floor Plans
-Elevation Sets
-CAD Drawings
-3+, Floor Plans, Elevation Sets, CAD Drawings, 3+, $40-50/h. Required skills: Floor Plans
-Elevation Sets
-CAD Drawings
-3+, Floor Plans, Elevation Sets, CAD Drawings, 3+, $40-50/h. Required skills: Floor Plans
-Elevation Sets
-CAD Drawings
-3+, ...
+  > The Architect (CAD & Construction Documentation) will expertly develop precise floor plans, elevation sets, and CAD drawings to support high-quality construction documentation. This role demands advanced technical proficiency in multi-sheet schematics and GD&T callouts to ensure accuracy and comp...
 
 
 ### Mechanical Engineer
 - **💸 Pay Rate:** $50 - $70/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/062c791a-a0a6-4003-9bc8-1f004079aa89?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: mechanical engineering, solid mechanics, structural mechanics, 14+, $50-70/h. Required skills: mechanical engineering, solid mechanics, structural mechanics, 14+, $50-70/h. Required skills: mechanical engineering, solid mechanics, structural mechanics, 14+, $50-70/h. mechanical e...
+  > Seeking a highly skilled Mechanical Engineer with expertise in solid and structural mechanics, dynamics, and thermal-fluids to drive innovative design and quality assurance in a remote, AI-driven environment. This role offers $50–70/hour for a detail-oriented professional proficient in technical ...
 
 
 ### Electrical Engineer
 - **💸 Pay Rate:** $60 - $80/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/be1242bf-1a4b-4a1c-b943-cbdaaef37210?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: electrical engineering, analog circuits, digital circuits, 12+, $60-80/h. Required skills: electrical engineering, analog circuits, digital circuits, 12+, $60-80/h. Required skills: electrical engineering, analog circuits, digital circuits, 12+, $60-80/h. electrical engineering a...
+  > This Electrical Engineer role demands deep expertise in analog and digital circuit design, RF systems, power electronics, and IC development, with a proven ability to create high-impact educational content and technical assessments. As part of an innovative AI data lab, you’ll collaborate remotel...
 
 
 ### Business Document Expert (Excel, PowerPoint, Word)
 - **💸 Pay Rate:** $35 - $50/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/d9a58aa1-746f-4b43-97b7-ac3136104854?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: microsoft excel, microsoft powerpoint, microsoft word, 14+, $35-50/h. Required skills: microsoft excel, microsoft powerpoint, microsoft word, 14+, $35-50/h. Required skills: microsoft excel, microsoft powerpoint, microsoft word, 14+, $35-50/h. microsoft excel microsoft powerpoint...
+  > Seeking a seasoned Business Document Expert to craft high-impact financial models, executive presentations, and strategic proposals using advanced Excel, PowerPoint, and Word capabilities for Fortune 500 clients. This role demands precision in data analysis, AI-driven documentation, and stakehold...
 
 
 ### Technical Problem Solver / Puzzle Solver
 - **💸 Pay Rate:** $45 - $65/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/a3354770-f4be-4a74-9cf7-a272f36d407d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Competitive programming
-Basics C++
-C++, Competitive programming, Basics C++, C++, $45-65/h. Required skills: Competitive programming
-Basics C++
-C++, Competitive programming, Basics C++, C++, $45-65/h. Competitive programming Basics C++ C++ About micro1 micro1 is the leading AI da...
+  > Seeking a Technical Problem Solver to tackle complex challenges through competitive programming and advanced C++ expertise. Join micro1’s AI data lab to transform real-world expertise into high-quality training data and evaluations for cutting-edge AI systems.
 
 
 ### Competitive Programmer
 - **💸 Pay Rate:** $45 - $65/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/0f408791-3d89-4434-ba3c-f6f7cd8c4a55?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Competitive programming
-Basics C++
-C++, Competitive programming, Basics C++, C++, $45-65/h. Required skills: Competitive programming
-Basics C++
-C++, Competitive programming, Basics C++, C++, $45-65/h. Competitive programming Basics C++ C++ About micro1 micro1 is the leading AI da...
+  > Seeking a highly skilled Competitive Programmer with expertise in C++ to develop efficient algorithms and solve complex computational challenges. Join micro1, a leading AI data lab, to contribute cutting-edge solutions that enhance AI learning and performance.
 
 
 ### Product & Design
@@ -2179,40 +1602,21 @@ C++, Competitive programming, Basics C++, C++, $45-65/h. Competitive programming
 - **💸 Pay Rate:** $40 - $65/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/e4559d84-181c-434d-9346-77b9bd432cfa?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: commercial real estate expertise, property valuation, feasibility studies, 12+, $40-65/h. Required skills: commercial real estate expertise, property valuation, feasibility studies, 12+, $40-65/h. commercial real estate expertise property valuation feasibility studies lease agree...
+  > The Commercial Real Estate Manager will leverage deep expertise in property valuation, feasibility studies, and market analysis to optimize portfolio performance and drive strategic decisions. This role demands a detail-oriented professional with strong regulatory knowledge, adaptability to techn...
 
 
 ### Product Manager
 - **💸 Pay Rate:** $40 - $80/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/b3511282-fb70-472b-92f3-dc28cc3eef4f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: Required skills
-jira
-linear
-agile
-13+, jira
-linear
-agile
-13+, jira, linear, agile, 13+, $40-80/h. Required skills: Required skills
-jira
-linear
-agile
-13+, jira
-linear
-agile
-13+, jira, linear, agile, 13+, $40-80/h. Required skills: Required skills
-jira
-linear
-agile
-13+, jira
-linear...
+  > This Product Manager role drives the strategic vision and execution of SaaS products, leveraging Agile methodologies, cross-functional leadership, and deep market insights to deliver innovative solutions that shape the product lifecycle. With a focus on roadmap development, stakeholder collaborat...
 
 
 ### Customer Success Manager
 - **💸 Pay Rate:** $40 - $70/hour
 - **🔗 Apply Now:** [Click here to fast-track your application](https://jobs.micro1.ai/post/4bba4682-14e5-4ca8-984a-c458b45ffbd0?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral)
 - **📝 Description:** 
-  > Required skills: customer success management, ai training task design, zendesk, 15+, $40-70/h. Required skills: customer success management, ai training task design, zendesk, 15+, $40-70/h. Required skills: customer success management, ai training task design, zendesk, 15+, $40-70/h. customer suc...
+  > This **Customer Success Manager** role drives client satisfaction and retention by designing AI training tasks, optimizing support workflows, and leveraging tools like Zendesk and Intercom to deliver strategic insights and seamless cross-functional collaboration. Partnering with micro1, the indus...
 
 
 
