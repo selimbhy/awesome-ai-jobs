@@ -150,6 +150,7 @@ Die richtige Rolle zu finden ist schwer. Wir übernehmen die harte Arbeit für d
   - [Scientific & Laboratory Operations Specialist](#scientific--laboratory-operations-specialist)
   - [Entrepreneur & Business Specialist](#entrepreneur--business-specialist)
   - [Video Editor](#video-editor)
+  - [Korean Bilingual Expert](#korean-bilingual-expert)
   - [Military Operations & IHL Expert](#military-operations--ihl-expert)
   - [Financial Crime & AML Compliance Expert](#financial-crime--aml-compliance-expert)
   - [Tongan Bilingual Expert](#tongan-bilingual-expert)
@@ -160,6 +161,8 @@ Die richtige Rolle zu finden ist schwer. Wir übernehmen die harte Arbeit für d
   - [Logistics & Supply Chain Management Specialist](#logistics--supply-chain-management-specialist)
   - [Business Document Expert (Excel, PowerPoint, Word)](#business-document-expert-excel-powerpoint-word)
 - [Andere Rollen](#andere-rollen)
+  - [English Speaking Generalist](#english-speaking-generalist)
+  - [Fitness Expert](#fitness-expert)
   - [Hindi Audio Engineer Expert](#hindi-audio-engineer-expert)
   - [German Language Expert](#german-language-expert)
   - [Health Care Specialist](#health-care-specialist)
@@ -298,7 +301,7 @@ Die richtige Rolle zu finden ist schwer. Wir übernehmen die harte Arbeit für d
 - **💸 Bezahlung:** $30 - $42/hour
 - **🔗 Jetzt bewerben:** <a href="https://jobs.micro1.ai/post/faff93fa-4e51-4996-b9bf-283cf29f46e8?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Hier klicken um sich zu bewerben</a>
 - **📝 Beschreibung:** 
-  > The Software Engineer - AI Quality & Testing role at micro1 focuses on developing and refining AI systems by ensuring high-quality training data, evaluations, and feedback loops through expertise in TypeScript and quality engineering. This position contributes to advancing AI performance by leveraging cutting-edge tools like video generators to enhance how AI models learn and reason.
+  > Typescript Quality Engineering Video Generator About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people
 
 
 ### <a href="https://jobs.micro1.ai/post/a41ddc8a-432f-4f07-8e90-4b6544316810?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">QA Specialist – AI Product Testing & Support</a>
@@ -340,7 +343,7 @@ Die richtige Rolle zu finden ist schwer. Wir übernehmen die harte Arbeit für d
 - **💸 Bezahlung:** $20 - $20/hour
 - **🔗 Jetzt bewerben:** <a href="https://jobs.micro1.ai/post/e851f658-c8f1-4b48-be02-d77625c53c8f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Hier klicken um sich zu bewerben</a>
 - **📝 Beschreibung:** 
-  > The Data Labeling Associate - Video Content role at micro1 involves meticulously analyzing and annotating video data to enhance AI training, leveraging strong visual discrimination and process adherence. This position contributes to refining AI systems by ensuring high-quality, detailed labeling that improves model learning and performance.
+  > Visual Discrimination Process Adherence Written Clarity Attention to Detail About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We ai
 
 
 ### <a href="https://jobs.micro1.ai/post/9bdb8c16-eaf3-46f2-8d96-b68a71e8985d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Data Analyst (Excel)</a>
@@ -354,7 +357,7 @@ Die richtige Rolle zu finden ist schwer. Wir übernehmen die harte Arbeit für d
 - **💸 Bezahlung:** $20 - $40/hour
 - **🔗 Jetzt bewerben:** <a href="https://jobs.micro1.ai/post/699c82e5-cf44-4e08-8779-35364d62fdc6?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Hier klicken um sich zu bewerben</a>
 - **📝 Beschreibung:** 
-  > Shape the future of AI by leveraging your subject-matter expertise to train and evaluate cutting-edge models across domains like finance, healthcare, and STEM. Deliver high-quality feedback and assessments to refine AI reasoning, performance, and learning through meticulous attention to detail and critical analysis.
+  > Attention to Detail Rubrics Critical Reading AI Training Content Evaluation About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We ai
 
 
 ### <a href="https://jobs.micro1.ai/post/a03b510d-c115-4657-aaa9-c14f6cd42f1c?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Video related professional for AI training</a>
@@ -935,7 +938,7 @@ Die richtige Rolle zu finden ist schwer. Wir übernehmen die harte Arbeit für d
 - **💸 Bezahlung:** $45 - $95/hour
 - **🔗 Jetzt bewerben:** <a href="https://jobs.micro1.ai/post/1f8f0c7f-3aa7-4b5d-a7e2-589277429ffc?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Hier klicken um sich zu bewerben</a>
 - **📝 Beschreibung:** 
-  > The Uzbek Bilingual Expert will leverage their linguistic and cultural expertise to refine AI training data, ensuring accurate and contextually rich outputs for Uzbek-language applications. This role involves collaborating with a cutting-edge AI data lab to enhance model performance through high-quality evaluations and feedback.
+  > About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to do meaningful work by applying their experti
 
 
 ### <a href="https://jobs.micro1.ai/post/6bc959a6-fdd6-4b67-a263-3efd53485aea?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Marketing Expert</a>
@@ -1134,6 +1137,13 @@ Die richtige Rolle zu finden ist schwer. Wir übernehmen die harte Arbeit für d
   > The Video Editor will craft compelling visual narratives using advanced tools like Adobe Premiere Pro, After Effects, and DaVinci Resolve, ensuring high-quality post-production for AI training and educational content. This role demands expertise in storytelling, collaboration, and meeting deadlines while staying ahead of industry trends in a remote, fast-paced environment.
 
 
+### <a href="https://jobs.micro1.ai/post/e4a68f36-6b63-40a3-9bab-84f26d5686a4?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Korean Bilingual Expert</a>
+- **💸 Bezahlung:** $20 - $65/hour
+- **🔗 Jetzt bewerben:** <a href="https://jobs.micro1.ai/post/e4a68f36-6b63-40a3-9bab-84f26d5686a4?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Hier klicken um sich zu bewerben</a>
+- **📝 Beschreibung:** 
+  > Required skills: Required skills communication, communication, communication, $20-65/h. communication About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to do meaningful work by applying
+
+
 ### <a href="https://jobs.micro1.ai/post/6b82a1c1-9c99-4993-9f14-9bcfd0fd9e4a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Military Operations & IHL Expert</a>
 - **💸 Bezahlung:** $50 - $90/hour
 - **🔗 Jetzt bewerben:** <a href="https://jobs.micro1.ai/post/6b82a1c1-9c99-4993-9f14-9bcfd0fd9e4a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Hier klicken um sich zu bewerben</a>
@@ -1201,11 +1211,25 @@ Die richtige Rolle zu finden ist schwer. Wir übernehmen die harte Arbeit für d
 
 ## Andere Rollen
 
+### <a href="https://jobs.micro1.ai/post/b079dac2-1d38-4da3-a65f-fab372884f72?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">English Speaking Generalist</a>
+- **💸 Bezahlung:** $20 - $30/hour
+- **🔗 Jetzt bewerben:** <a href="https://jobs.micro1.ai/post/b079dac2-1d38-4da3-a65f-fab372884f72?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Hier klicken um sich zu bewerben</a>
+- **📝 Beschreibung:** 
+  > Required skills: AI training, AI Response Evaluation, Critical Thinking & Analytical Reasoning, 2+, $20-30/h. AI training AI Response Evaluation Critical Thinking & Analytical Reasoning Attention to Detail Documentation Interpretation About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter,
+
+
+### <a href="https://jobs.micro1.ai/post/79e5ab97-7fe9-4bab-b606-8e62e0fa02ec?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Fitness Expert</a>
+- **💸 Bezahlung:** $50 - $101/hour
+- **🔗 Jetzt bewerben:** <a href="https://jobs.micro1.ai/post/79e5ab97-7fe9-4bab-b606-8e62e0fa02ec?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Hier klicken um sich zu bewerben</a>
+- **📝 Beschreibung:** 
+  > Required skills: fitness expertise, exercise programming, nutrition planning, 2+, $50-101/h. fitness expertise exercise programming nutrition planning written communication verbal communication About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert cont
+
+
 ### <a href="https://jobs.micro1.ai/post/41069675-04a8-40b6-abaa-25b7ddcd9a8b?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Hindi Audio Engineer Expert</a>
 - **💸 Bezahlung:** $20 - $30/hour
 - **🔗 Jetzt bewerben:** <a href="https://jobs.micro1.ai/post/41069675-04a8-40b6-abaa-25b7ddcd9a8b?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Hier klicken um sich zu bewerben</a>
 - **📝 Beschreibung:** 
-  > "As a Hindi Audio Engineer Expert at micro1, you will leverage your expertise in audio editing to refine and enhance high-quality training data for cutting-edge AI models. Your contributions will directly shape how AI systems learn, reason, and perform in Hindi-language applications."
+  > Audio Editing Hindi About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to do meaningful work by ap
 
 
 ### <a href="https://jobs.micro1.ai/post/48db265c-24db-46bd-b21d-8448c6cd5d0e?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">German Language Expert</a>
@@ -1408,7 +1432,7 @@ Die richtige Rolle zu finden ist schwer. Wir übernehmen die harte Arbeit für d
 - **💸 Bezahlung:** $30 - $65/hour
 - **🔗 Jetzt bewerben:** <a href="https://jobs.micro1.ai/post/7e00ba18-973f-48a4-96c1-24e6934b2f54?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Hier klicken um sich zu bewerben</a>
 - **📝 Beschreibung:** 
-  > As a French Voice Coach at micro1, you will leverage your native-level French expertise to refine AI models by delivering high-quality vocal training data and evaluations. Join a cutting-edge platform that transforms expert linguistic skills into impactful contributions, shaping the future of AI communication.
+  > French About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to do meaningful work by applying their
 
 
 ### <a href="https://jobs.micro1.ai/post/31145ddb-e252-4901-ba9d-201a1a68ecf8?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Kazakh Language Expert</a>
@@ -1464,7 +1488,7 @@ Die richtige Rolle zu finden ist schwer. Wir übernehmen die harte Arbeit für d
 - **💸 Bezahlung:** $45 - $95/hour
 - **🔗 Jetzt bewerben:** <a href="https://jobs.micro1.ai/post/3d2a493f-3e7e-4e9d-8f85-e6bb6ca1d253?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Hier klicken um sich zu bewerben</a>
 - **📝 Beschreibung:** 
-  > Leverage your fluency in Swedish to shape the future of AI by contributing high-quality translations and linguistic expertise to train and evaluate cutting-edge models. Join a leading AI data lab where your language mastery directly enhances the reasoning and performance of next-generation AI systems.
+  > swedish language fluency translation About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to do mean
 
 
 ### <a href="https://jobs.micro1.ai/post/da23bd9a-d2d2-4425-ab82-8753c4a0825a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Javanese Language Expert</a>
@@ -1639,7 +1663,7 @@ Die richtige Rolle zu finden ist schwer. Wir übernehmen die harte Arbeit für d
 - **💸 Bezahlung:** $35 - $58/hour
 - **🔗 Jetzt bewerben:** <a href="https://jobs.micro1.ai/post/1ede1ceb-0f90-43da-8d35-314cb1b78692?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Hier klicken um sich zu bewerben</a>
 - **📝 Beschreibung:** 
-  > The Financial Planning and Analysis Expert will leverage deep financial acumen to develop high-quality training data and evaluations that enhance AI reasoning and performance. This role offers the opportunity to contribute cutting-edge expertise while earning $35–58/hour in a dynamic, scalable environment.
+  > About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to do meaningful work by applying their experti
 
 
 ### <a href="https://jobs.micro1.ai/post/da8af334-60b6-44e3-89b2-a846f3cd19c4?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Word and PDF Experts</a>
