@@ -22,6 +22,8 @@ Trovare il ruolo giusto è difficile. Facciamo il lavoro pesante raccogliendo le
 
 ### 📑 Sommario
 - [IA & Machine Learning](#ia--machine-learning)
+  - [LLM Red-Teamer](#llm-red-teamer)
+  - [AI Evaluation Analyst](#ai-evaluation-analyst)
   - [Data-Video Generalist (US-based)](#data-video-generalist-us-based)
   - [Remote Household Data Specialist - Video Capture (PH)](#remote-household-data-specialist---video-capture-ph)
   - [Household Data Specialist - Video Capture (ARG)](#household-data-specialist---video-capture-arg)
@@ -261,6 +263,20 @@ Trovare il ruolo giusto è difficile. Facciamo il lavoro pesante raccogliendo le
 
 
 ## IA & Machine Learning
+
+### <a href="https://jobs.micro1.ai/post/163640bc-5edb-4f78-9b6d-c499d2b40e29?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">LLM Red-Teamer</a>
+- **💸 Retribuzione:** $40 - $65/hour
+- **🔗 Candidati:** <a href="https://jobs.micro1.ai/post/163640bc-5edb-4f78-9b6d-c499d2b40e29?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clicca qui per candidarti</a>
+- **📝 Descrizione:** 
+  > Required skills: Adversarial prompt construction, Precision in written English, Rubric design, 1+, $40-65/h. Adversarial prompt construction Precision in written English Rubric design Iteration stamina About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert con
+
+
+### <a href="https://jobs.micro1.ai/post/b8f1c069-bf84-4204-b24b-facf1923ab29?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">AI Evaluation Analyst</a>
+- **💸 Retribuzione:** $20 - $30/hour
+- **🔗 Candidati:** <a href="https://jobs.micro1.ai/post/b8f1c069-bf84-4204-b24b-facf1923ab29?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clicca qui per candidarti</a>
+- **📝 Descrizione:** 
+  > Required skills: Working knowledge of frontier LLM behavior, Data Annotation, Written English clarity and structure, 2+, $20-30/h. Working knowledge of frontier LLM behavior Data Annotation Written English clarity and structure Spec fidelity at volume Self-direction to a detailed spec About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform iden
+
 
 ### <a href="https://jobs.micro1.ai/post/204600bf-1abe-4ab0-a474-cd2264999149?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Data-Video Generalist (US-based)</a>
 - **💸 Retribuzione:** $13 - $13/hour
