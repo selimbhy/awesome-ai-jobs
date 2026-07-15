@@ -51,6 +51,57 @@ Finding the right role is hard. We do the heavy lifting by scraping the best rem
   - [Node.Js Developer](#nodejs-developer)
   - [Junior Python Game Developer (Panda3D)](#junior-python-game-developer-panda3d)
   - [Python Game Developer (Panda3D)](#python-game-developer-panda3d)
+- [Frontend Development](#frontend-development)
+  - [Angular Developer](#angular-developer)
+  - [Javascript Developer](#javascript-developer)
+  - [Frontend Software Engineer](#frontend-software-engineer)
+- [Full Stack Development](#full-stack-development)
+  - [Senior Full Stack Engineer](#senior-full-stack-engineer)
+- [General Software Engineering](#general-software-engineering)
+  - [Computer Science Expert (PhD)](#computer-science-expert-phd)
+  - [Game Developer](#game-developer)
+  - [Computational Engineering Expert](#computational-engineering-expert)
+  - [Go Developer](#go-developer)
+  - [Competitive Coder](#competitive-coder)
+  - [Engineering & Technical Documentation Specialist](#engineering--technical-documentation-specialist)
+  - [Cocos2d-x Junior Game Developer](#cocos2d-x-junior-game-developer)
+  - [Engineering Expert](#engineering-expert)
+  - [Computer Science Specialist](#computer-science-specialist)
+  - [Senior Software Engineer](#senior-software-engineer)
+  - [Electrical Engineering Professor](#electrical-engineering-professor)
+  - [Mechanical Engineering Professor](#mechanical-engineering-professor)
+  - [Competitive Coder Contest](#competitive-coder-contest)
+  - [Competitive Programmer](#competitive-programmer)
+- [Product & Design](#product--design)
+  - [Product Manager](#product-manager)
+- [Science & Research](#science--research)
+  - [Physics Expert (PhD)](#physics-expert-phd)
+  - [Economics Expert (PhD)](#economics-expert-phd)
+  - [Statistics Expert (PhD)](#statistics-expert-phd)
+  - [Senior Physics Adjudicator](#senior-physics-adjudicator)
+  - [Computational Biology Expert](#computational-biology-expert)
+  - [Computational Chemistry Expert](#computational-chemistry-expert)
+  - [Computational Physics Expert](#computational-physics-expert)
+  - [Math Expert (PhD)](#math-expert-phd)
+  - [Chemistry Expert (PhD)](#chemistry-expert-phd)
+  - [Biology Expert (PhD)](#biology-expert-phd)
+  - [PhD Engineer (Electrical, Mechanical, Chemical)](#phd-engineer-electrical-mechanical-chemical)
+  - [Physics (PhD)](#physics-phd)
+  - [Mathematics Professor/Researcher (PhD)](#mathematics-professorresearcher-phd)
+  - [Physics Expert (PhD / Postdoc)](#physics-expert-phd--postdoc)
+  - [Physics Expert (Postdoc / Junior professor)](#physics-expert-postdoc--junior-professor)
+  - [Physics Expert (Professor / Principal Investigator)](#physics-expert-professor--principal-investigator)
+  - [Biosecurity & Synthetic Biology Expert](#biosecurity--synthetic-biology-expert)
+  - [Physics Professor/Researcher (PhD)](#physics-professorresearcher-phd)
+  - [Medical Specialist](#medical-specialist)
+  - [Biology Expert](#biology-expert)
+  - [Chemistry Expert](#chemistry-expert)
+  - [Physics Expert](#physics-expert)
+  - [Mathematics Expert](#mathematics-expert)
+  - [Chemistry Professor/Researcher (PhD)](#chemistry-professorresearcher-phd)
+  - [Computational Biology Expert (PhD)](#computational-biology-expert-phd)
+  - [Computational Chemistry Expert (PhD)](#computational-chemistry-expert-phd)
+  - [Physics Expert (High Energy/Mathematical Physics)](#physics-expert-high-energymathematical-physics)
 - [Business & Operations](#business--operations)
   - [HR Documents Specialist (French)](#hr-documents-specialist-french)
   - [HR Documents Specialist (Korean)](#hr-documents-specialist-korean)
@@ -108,27 +159,6 @@ Finding the right role is hard. We do the heavy lifting by scraping the best rem
   - [Content Editor](#content-editor)
   - [Logistics & Supply Chain Management Specialist](#logistics--supply-chain-management-specialist)
   - [Business Document Expert (Excel, PowerPoint, Word)](#business-document-expert-excel-powerpoint-word)
-- [Frontend Development](#frontend-development)
-  - [Angular Developer](#angular-developer)
-  - [Javascript Developer](#javascript-developer)
-  - [Frontend Software Engineer](#frontend-software-engineer)
-- [Full Stack Development](#full-stack-development)
-  - [Senior Full Stack Engineer](#senior-full-stack-engineer)
-- [General Software Engineering](#general-software-engineering)
-  - [Computer Science Expert (PhD)](#computer-science-expert-phd)
-  - [Game Developer](#game-developer)
-  - [Computational Engineering Expert](#computational-engineering-expert)
-  - [Go Developer](#go-developer)
-  - [Competitive Coder](#competitive-coder)
-  - [Engineering & Technical Documentation Specialist](#engineering--technical-documentation-specialist)
-  - [Cocos2d-x Junior Game Developer](#cocos2d-x-junior-game-developer)
-  - [Engineering Expert](#engineering-expert)
-  - [Computer Science Specialist](#computer-science-specialist)
-  - [Senior Software Engineer](#senior-software-engineer)
-  - [Electrical Engineering Professor](#electrical-engineering-professor)
-  - [Mechanical Engineering Professor](#mechanical-engineering-professor)
-  - [Competitive Coder Contest](#competitive-coder-contest)
-  - [Competitive Programmer](#competitive-programmer)
 - [Other Roles](#other-roles)
   - [Hindi Audio Engineer Expert](#hindi-audio-engineer-expert)
   - [German Language Expert](#german-language-expert)
@@ -225,36 +255,6 @@ Finding the right role is hard. We do the heavy lifting by scraping the best rem
   - [Mechanical Engineer](#mechanical-engineer)
   - [Electrical Engineer](#electrical-engineer)
   - [Technical Problem Solver / Puzzle Solver](#technical-problem-solver--puzzle-solver)
-- [Product & Design](#product--design)
-  - [Product Manager](#product-manager)
-- [Science & Research](#science--research)
-  - [Physics Expert (PhD)](#physics-expert-phd)
-  - [Economics Expert (PhD)](#economics-expert-phd)
-  - [Statistics Expert (PhD)](#statistics-expert-phd)
-  - [Senior Physics Adjudicator](#senior-physics-adjudicator)
-  - [Computational Biology Expert](#computational-biology-expert)
-  - [Computational Chemistry Expert](#computational-chemistry-expert)
-  - [Computational Physics Expert](#computational-physics-expert)
-  - [Math Expert (PhD)](#math-expert-phd)
-  - [Chemistry Expert (PhD)](#chemistry-expert-phd)
-  - [Biology Expert (PhD)](#biology-expert-phd)
-  - [PhD Engineer (Electrical, Mechanical, Chemical)](#phd-engineer-electrical-mechanical-chemical)
-  - [Physics (PhD)](#physics-phd)
-  - [Mathematics Professor/Researcher (PhD)](#mathematics-professorresearcher-phd)
-  - [Physics Expert (PhD / Postdoc)](#physics-expert-phd--postdoc)
-  - [Physics Expert (Postdoc / Junior professor)](#physics-expert-postdoc--junior-professor)
-  - [Physics Expert (Professor / Principal Investigator)](#physics-expert-professor--principal-investigator)
-  - [Biosecurity & Synthetic Biology Expert](#biosecurity--synthetic-biology-expert)
-  - [Physics Professor/Researcher (PhD)](#physics-professorresearcher-phd)
-  - [Medical Specialist](#medical-specialist)
-  - [Biology Expert](#biology-expert)
-  - [Chemistry Expert](#chemistry-expert)
-  - [Physics Expert](#physics-expert)
-  - [Mathematics Expert](#mathematics-expert)
-  - [Chemistry Professor/Researcher (PhD)](#chemistry-professorresearcher-phd)
-  - [Computational Biology Expert (PhD)](#computational-biology-expert-phd)
-  - [Computational Chemistry Expert (PhD)](#computational-chemistry-expert-phd)
-  - [Physics Expert (High Energy/Mathematical Physics)](#physics-expert-high-energymathematical-physics)
 
 
 ## AI & Machine Learning
@@ -457,6 +457,348 @@ Finding the right role is hard. We do the heavy lifting by scraping the best rem
 - **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/4f8fb39d-d46e-4bda-85cb-0fc5cc45e165?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
 - **📝 Description:** 
   > Develop immersive 3D games using Python and Panda3D while contributing to cutting-edge AI training initiatives at a leading data lab. Leverage your expertise in Python, C++, and version control to craft high-performance gaming solutions that enhance AI reasoning and performance.
+
+
+[⬆️ Back to Top](#-table-of-contents)
+
+## Frontend Development
+
+### <a href="https://jobs.micro1.ai/post/d22bec54-9218-4074-8e64-1e82848a3082?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Angular Developer</a>
+- **💸 Pay Rate:** $30 - $90/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/d22bec54-9218-4074-8e64-1e82848a3082?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > Seeking an Angular Developer to build dynamic, high-performance web applications using Angular, RxJS, and SCSS/SASS. Join micro1, a leading AI data lab, to contribute to cutting-edge AI training and evaluation platforms.
+
+
+### <a href="https://jobs.micro1.ai/post/b8825ab1-28f7-4909-bc53-c0632509bb65?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Javascript Developer</a>
+- **💸 Pay Rate:** $30 - $90/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/b8825ab1-28f7-4909-bc53-c0632509bb65?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > Seeking a skilled JavaScript Developer to contribute to cutting-edge AI training and evaluation platforms, leveraging expertise to enhance AI reasoning and performance. This role offers competitive compensation ($30-90/h) and the opportunity to work with top-tier talent in domains like finance, healthcare, and engineering.
+
+
+### <a href="https://jobs.micro1.ai/post/aa022f40-ca04-4794-8791-5f9378400f4f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Frontend Software Engineer</a>
+- **💸 Pay Rate:** $40 - $50/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/aa022f40-ca04-4794-8791-5f9378400f4f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > As a Frontend Software Engineer at micro1, you’ll craft pixel-perfect, responsive user interfaces using TypeScript and component-driven design principles to elevate the performance and usability of AI training platforms. Join a pioneering team where your expertise in modern frontend development directly shapes the future of AI evaluation and data innovation across finance, healthcare, and STEM fields.
+
+
+[⬆️ Back to Top](#-table-of-contents)
+
+## Full Stack Development
+
+### <a href="https://jobs.micro1.ai/post/9cda2f44-2dcc-4f44-ba79-f5d79b179acc?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Senior Full Stack Engineer</a>
+- **💸 Pay Rate:** $30 - $90/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/9cda2f44-2dcc-4f44-ba79-f5d79b179acc?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > "Lead the development of cutting-edge AI training platforms as a Senior Full Stack Engineer, leveraging expertise in TypeScript, Node.js, and Python to build scalable, high-impact solutions. Join micro1 in transforming real-world expertise into high-quality AI data and evaluations that shape frontier models."
+
+
+[⬆️ Back to Top](#-table-of-contents)
+
+## General Software Engineering
+
+### <a href="https://jobs.micro1.ai/post/47cf4a46-1d8e-4a38-a7f6-1ae51f23ba3a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Computer Science Expert (PhD)</a>
+- **💸 Pay Rate:** $80 - $90/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/47cf4a46-1d8e-4a38-a7f6-1ae51f23ba3a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > A Computer Science Expert (PhD) at micro1 will leverage advanced Python skills and deep domain expertise to develop high-quality AI training data and evaluations, shaping the next generation of frontier models. This role offers the opportunity to contribute cutting-edge research and real-world insights across diverse fields like finance, healthcare, and STEM engineering while earning $80–90/hour.
+
+
+### <a href="https://jobs.micro1.ai/post/55501f0b-8eb4-4079-bef3-fe0dc2621b8b?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Game Developer</a>
+- **💸 Pay Rate:** $20 - $60/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/55501f0b-8eb4-4079-bef3-fe0dc2621b8b?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > Seeking a skilled Unreal Game Developer to create immersive gaming experiences, leveraging expertise in Unreal Engine to drive innovation in AI-enhanced interactive environments. Join a cutting-edge AI data lab where your development talents will shape the future of intelligent systems and next-gen gaming.
+
+
+### <a href="https://jobs.micro1.ai/post/9e1c8d48-0e42-4996-a0ad-40ad7cedf1fc?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Computational Engineering Expert</a>
+- **💸 Pay Rate:** $40 - $60/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/9e1c8d48-0e42-4996-a0ad-40ad7cedf1fc?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > The Computational Engineering Expert will lead advanced simulations and modeling using tools like CFD, FEA, and HPC to solve complex engineering challenges and optimize large-scale systems. This role requires deep technical expertise in scripting, AI/ML applications, and domain-specific tools to drive innovation in scientific workflows and technical benchmarking.
+
+
+### <a href="https://jobs.micro1.ai/post/44152534-cfa1-4ed7-9fa6-8be32f879682?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Go Developer</a>
+- **💸 Pay Rate:** $30 - $90/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/44152534-cfa1-4ed7-9fa6-8be32f879682?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > Seeking a skilled Go Developer to design and implement high-performance REST APIs and backend systems that power micro1’s AI data platform. This role offers the opportunity to contribute to cutting-edge AI training and evaluation infrastructure while working with modern technologies like GoLang and GraphQL.
+
+
+### <a href="https://jobs.micro1.ai/post/a5e3fd9b-ea3d-4a1c-b4ea-42549bb1f777?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Competitive Coder</a>
+- **💸 Pay Rate:** $45 - $65/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/a5e3fd9b-ea3d-4a1c-b4ea-42549bb1f777?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > Solve complex algorithmic challenges with expert-level C++ proficiency to advance AI training and evaluation at micro1. Leverage competitive programming expertise to develop high-performance solutions that enhance AI reasoning and performance.
+
+
+### <a href="https://jobs.micro1.ai/post/eca66856-1444-46e4-aacc-4055023ede8d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Engineering & Technical Documentation Specialist</a>
+- **💸 Pay Rate:** $40 - $50/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/eca66856-1444-46e4-aacc-4055023ede8d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > The Engineering & Technical Documentation Specialist will develop precise technical documentation, interpret engineering drawings, and create instructional materials to support AI model training and evaluation. This role demands expertise in CAD, blueprint analysis, and clear communication to ensure accuracy and quality in remote collaboration.
+
+
+### <a href="https://jobs.micro1.ai/post/e9cd4394-5e60-4fe1-9091-1012e80c0841?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Cocos2d-x Junior Game Developer</a>
+- **💸 Pay Rate:** $50 - $120/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/e9cd4394-5e60-4fe1-9091-1012e80c0841?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > "Develop engaging 2D games using Cocos2d-x as a Junior Game Developer, contributing to innovative projects at the intersection of gaming and AI. Earn $50–120/hour while building expertise in a dynamic, high-impact environment."
+
+
+### <a href="https://jobs.micro1.ai/post/074f30c2-8474-4b5f-9774-a4f058277a4e?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Engineering Expert</a>
+- **💸 Pay Rate:** $20 - $40/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/074f30c2-8474-4b5f-9774-a4f058277a4e?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > The Engineering Expert will leverage deep technical knowledge to analyze engineering documentation, craft precise technical reports, and drive cross-functional solutions for AI training and evaluation. This role offers $20-40/hour to professionals with 2+ years of experience in STEM engineering, ensuring high-impact contributions to cutting-edge AI development.
+
+
+### <a href="https://jobs.micro1.ai/post/75b76df7-6fe1-4759-8c0c-fd552054169b?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Computer Science Specialist</a>
+- **💸 Pay Rate:** $20 - $40/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/75b76df7-6fe1-4759-8c0c-fd552054169b?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > The Computer Science Specialist will drive innovation in AI and distributed systems by designing scalable algorithms, authoring technical documentation, and advancing research in data analysis and machine learning. This role collaborates with cross-functional teams to refine system architectures, evaluate AI models, and deliver high-impact technical solutions at the forefront of AI development.
+
+
+### <a href="https://jobs.micro1.ai/post/f27a054c-92f3-4a26-9aba-af5782c38420?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Senior Software Engineer</a>
+- **💸 Pay Rate:** $50 - $70/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/f27a054c-92f3-4a26-9aba-af5782c38420?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > We are seeking a Senior Software Engineer to design, optimize, and scale high-performance systems using Python, Java, or Rust, driving innovation in AI training and evaluation at micro1. This role involves refining codebases, solving complex technical challenges, and contributing to cutting-edge solutions that power frontier AI models.
+
+
+### <a href="https://jobs.micro1.ai/post/2d8d20b2-089f-44eb-8a34-61ff4c7bbc2b?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Electrical Engineering Professor</a>
+- **💸 Pay Rate:** $40 - $130/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/2d8d20b2-089f-44eb-8a34-61ff4c7bbc2b?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > Seeking a dynamic Electrical Engineering Professor to deliver expert instruction in analog/digital circuits, RF, power electronics, and IC design while developing innovative educational content and assessments. This role offers competitive compensation ($40–130/hour) and the flexibility of remote, independent work with a leading AI-driven data lab.
+
+
+### <a href="https://jobs.micro1.ai/post/b3cd1044-8649-4019-932b-1bd7267e30d9?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Mechanical Engineering Professor</a>
+- **💸 Pay Rate:** $60 - $130/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/b3cd1044-8649-4019-932b-1bd7267e30d9?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > A distinguished Mechanical Engineering Professor is sought to deliver expert instruction in solid and structural mechanics, dynamics, vibration, and control, while developing high-quality educational content and assessments. This role demands exceptional technical accuracy, communication skills, and the ability to thrive in a remote, self-directed environment.
+
+
+### <a href="https://jobs.micro1.ai/post/345dd4f0-e901-4d51-8fa8-5e5a01ddff43?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Competitive Coder Contest</a>
+- **💸 Pay Rate:** $45 - $65/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/345dd4f0-e901-4d51-8fa8-5e5a01ddff43?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > This role invites expert competitive programmers to leverage their C++ proficiency in crafting high-quality training data and evaluations for cutting-edge AI models at micro1. Earn $45–65/hour while contributing to the development of frontier AI systems through your algorithmic and problem-solving expertise.
+
+
+### <a href="https://jobs.micro1.ai/post/0f408791-3d89-4434-ba3c-f6f7cd8c4a55?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Competitive Programmer</a>
+- **💸 Pay Rate:** $45 - $65/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/0f408791-3d89-4434-ba3c-f6f7cd8c4a55?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > Seeking a highly skilled Competitive Programmer with expertise in C++ to develop efficient algorithms and solve complex computational challenges. Join micro1, a leading AI data lab, to contribute cutting-edge solutions that enhance AI learning and performance.
+
+
+[⬆️ Back to Top](#-table-of-contents)
+
+## Product & Design
+
+### <a href="https://jobs.micro1.ai/post/b3511282-fb70-472b-92f3-dc28cc3eef4f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Product Manager</a>
+- **💸 Pay Rate:** $40 - $80/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/b3511282-fb70-472b-92f3-dc28cc3eef4f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > This Product Manager role drives the strategic vision and execution of SaaS products, leveraging Agile methodologies, cross-functional leadership, and deep market insights to deliver innovative solutions that shape the product lifecycle. With a focus on roadmap development, stakeholder collaboration, and data-driven decision-making, you’ll lead remote teams to build competitive, high-impact products in a fast-paced AI-driven environment.
+
+
+[⬆️ Back to Top](#-table-of-contents)
+
+## Science & Research
+
+### <a href="https://jobs.micro1.ai/post/31ab7766-5edf-463a-a490-79290e5dcef6?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Physics Expert (PhD)</a>
+- **💸 Pay Rate:** $80 - $90/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/31ab7766-5edf-463a-a490-79290e5dcef6?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > The Physics Expert (PhD) will leverage advanced scientific knowledge to analyze complex data and produce high-impact technical insights for AI model training and evaluation. This role offers a unique opportunity to shape cutting-edge AI systems by contributing expert physics expertise to micro1’s industry-leading data platform.
+
+
+### <a href="https://jobs.micro1.ai/post/2649478e-fe69-4c2b-ad3f-43a53f0f89d2?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Economics Expert (PhD)</a>
+- **💸 Pay Rate:** $80 - $90/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/2649478e-fe69-4c2b-ad3f-43a53f0f89d2?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > Seeking a PhD-level Economics Expert with deep microeconomic and macroeconomic expertise to contribute high-quality insights that shape AI training and evaluation at micro1. This role offers $80-90/hour to leverage your advanced analytical skills in transforming real-world economic knowledge into cutting-edge AI data solutions.
+
+
+### <a href="https://jobs.micro1.ai/post/78e55232-cb71-4f9c-8d60-b5d52678d7a8?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Statistics Expert (PhD)</a>
+- **💸 Pay Rate:** $80 - $90/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/78e55232-cb71-4f9c-8d60-b5d52678d7a8?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > A Statistics Expert (PhD) at micro1 will leverage advanced statistical methods and domain expertise to enhance AI training data and evaluation frameworks across high-impact fields like finance, healthcare, and STEM. This role offers the opportunity to shape cutting-edge AI systems through rigorous data analysis and high-quality feedback loops, with compensation of $80–90/hour.
+
+
+### <a href="https://jobs.micro1.ai/post/9c5641a2-60eb-4cda-9bcb-747b807dc214?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Senior Physics Adjudicator</a>
+- **💸 Pay Rate:** $80 - $110/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/9c5641a2-60eb-4cda-9bcb-747b807dc214?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > This role demands a distinguished Senior Physics Adjudicator with deep subject-matter expertise and exceptional scientific judgment to evaluate complex research, resolve technical disputes, and provide cross-disciplinary insights that shape the future of AI training and agent evaluation. As a trusted authority, you will lead high-stakes assessments, ensuring rigor and precision in advancing frontier AI models within a cutting-edge, collaborative environment.
+
+
+### <a href="https://jobs.micro1.ai/post/6d5c21e9-6e7e-41a5-8a15-bf273dad7c49?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Computational Biology Expert</a>
+- **💸 Pay Rate:** $40 - $60/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/6d5c21e9-6e7e-41a5-8a15-bf273dad7c49?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > Seeking a Computational Biology Expert to drive cutting-edge genomics and bioinformatics analysis, leveraging advanced tools like Python, R, and NGS pipelines to solve complex biological problems. This role involves interdisciplinary collaboration to advance AI/ML applications in structural biology, transcriptomics, and systems biology within a remote, high-impact research environment.
+
+
+### <a href="https://jobs.micro1.ai/post/be698edc-fbdf-4213-bccd-12fd37678e43?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Computational Chemistry Expert</a>
+- **💸 Pay Rate:** $40 - $60/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/be698edc-fbdf-4213-bccd-12fd37678e43?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > A Computational Chemistry Expert will leverage advanced molecular simulations, quantum chemistry, and AI/ML-assisted workflows to drive innovation in drug discovery and scientific research. This role demands expertise in tools like Gaussian, GROMACS, and RDKit, paired with strong analytical and communication skills to optimize simulations and document findings.
+
+
+### <a href="https://jobs.micro1.ai/post/3fe7f3bc-7a2a-4a7d-8e23-16bcd27a3280?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Computational Physics Expert</a>
+- **💸 Pay Rate:** $40 - $60/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/3fe7f3bc-7a2a-4a7d-8e23-16bcd27a3280?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > A Computational Physics Expert at micro1 will leverage advanced scientific computing, numerical simulations, and HPC workflows to drive cutting-edge AI/ML benchmarking and quantitative modeling. This role demands exceptional analytical reasoning, scientific integrity, and the ability to interpret complex data while collaborating across multidisciplinary teams.
+
+
+### <a href="https://jobs.micro1.ai/post/737b57d1-ffc8-4e2d-82c4-86c3c4943325?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Math Expert (PhD)</a>
+- **💸 Pay Rate:** $80 - $90/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/737b57d1-ffc8-4e2d-82c4-86c3c4943325?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > A Math Expert (PhD) at micro1 applies advanced mathematical expertise and rigorous research methodologies to develop high-quality training data and evaluations for cutting-edge AI systems. This role involves solving complex mathematical problems, producing academic-level content, and collaborating remotely to refine AI models across diverse domains.
+
+
+### <a href="https://jobs.micro1.ai/post/0af69636-770d-447f-9f3c-ea8936565aca?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Chemistry Expert (PhD)</a>
+- **💸 Pay Rate:** $80 - $90/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/0af69636-770d-447f-9f3c-ea8936565aca?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > A Chemistry Expert (PhD) at micro1 will leverage advanced scientific knowledge to develop high-quality training data and evaluations that enhance AI learning and reasoning. This role offers $80–90/hour for experts with strong writing, communication, and attention to detail to shape cutting-edge AI systems.
+
+
+### <a href="https://jobs.micro1.ai/post/5136fd03-6ff0-45c0-8e36-2126cc5b21c7?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Biology Expert (PhD)</a>
+- **💸 Pay Rate:** $80 - $90/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/5136fd03-6ff0-45c0-8e36-2126cc5b21c7?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > As a Biology Expert (PhD) at micro1, you will leverage your deep biological knowledge and analytical rigor to evaluate scientific data, refine AI training models, and enhance the reasoning capabilities of cutting-edge AI systems. This role offers a competitive hourly rate of $80–90 to contribute high-impact expertise in a dynamic, interdisciplinary environment.
+
+
+### <a href="https://jobs.micro1.ai/post/e07e9bd3-34a8-4ae0-bb17-de1604397c82?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">PhD Engineer (Electrical, Mechanical, Chemical)</a>
+- **💸 Pay Rate:** $80 - $90/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/e07e9bd3-34a8-4ae0-bb17-de1604397c82?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > This PhD-level Engineer (Electrical, Mechanical, or Chemical) will leverage advanced expertise in calculus, experimental design, and research methodologies to drive cutting-edge AI training and evaluation at micro1, the premier AI data lab shaping the future of frontier models. By transforming real-world STEM knowledge into high-impact data and feedback loops, the role directly enhances AI reasoning, performance, and innovation across critical domains like engineering, healthcare, and finance.
+
+
+### <a href="https://jobs.micro1.ai/post/c3fbf0f8-75b1-4092-a234-26e8d212c609?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Physics (PhD)</a>
+- **💸 Pay Rate:** $80 - $90/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/c3fbf0f8-75b1-4092-a234-26e8d212c609?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > This PhD-level Physics role leverages deep expertise in theoretical and applied physics to drive cutting-edge AI research, analyzing complex scientific data, developing rigorous technical documentation, and collaborating with cross-functional teams to advance frontier model training and evaluation. As a key contributor at micro1, you’ll apply analytical precision and problem-solving excellence to shape the future of AI agents while ensuring the highest standards of data quality and stakeholder alignment.
+
+
+### <a href="https://jobs.micro1.ai/post/5f18be8b-5fad-424f-bf40-e1fbbe245098?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Mathematics Professor/Researcher (PhD)</a>
+- **💸 Pay Rate:** $60 - $90/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/5f18be8b-5fad-424f-bf40-e1fbbe245098?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > Seeking a PhD-level Mathematics Professor/Researcher to advance cutting-edge mathematical theory and deliver high-impact instruction while contributing expert insights to AI training and evaluation initiatives. This role offers $60–90/hour to leverage deep mathematical and research expertise in shaping next-generation AI systems through rigorous data-driven methodologies.
+
+
+### <a href="https://jobs.micro1.ai/post/f0b4d2f2-e832-42d9-9ee2-94c8acf3467c?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Physics Expert (PhD / Postdoc)</a>
+- **💸 Pay Rate:** $80 - $140/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/f0b4d2f2-e832-42d9-9ee2-94c8acf3467c?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > Seeking a Physics Expert (PhD/Postdoc) with deep technical problem-solving skills and exceptional written communication to contribute high-quality expertise to AI training and evaluation at micro1. This role offers $80–140/hour for leveraging advanced physics mastery and computational fluency to shape frontier AI models.
+
+
+### <a href="https://jobs.micro1.ai/post/24515609-bd74-4846-b7e4-b83e173826dc?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Physics Expert (Postdoc / Junior professor)</a>
+- **💸 Pay Rate:** $80 - $150/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/24515609-bd74-4846-b7e4-b83e173826dc?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > The Physics Expert will leverage advanced subject-matter expertise to evaluate, refine, and verify technical content, ensuring precision and rigor in AI model training and evaluation. This role offers a competitive hourly rate ($80–150) to contribute high-impact insights at the forefront of AI development with micro1, the leading data lab for frontier models.
+
+
+### <a href="https://jobs.micro1.ai/post/717a7998-b625-436f-9979-05332495affd?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Physics Expert (Professor / Principal Investigator)</a>
+- **💸 Pay Rate:** $80 - $160/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/717a7998-b625-436f-9979-05332495affd?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > Seeking a distinguished Physics Expert (Professor/Principal Investigator) to lead cutting-edge research and provide authoritative, nuanced judgment in complex scientific domains, transforming expertise into high-impact AI training data. This role demands masterful physics knowledge, meta-level reasoning, and the ability to articulate defensible insights that shape frontier AI models.
+
+
+### <a href="https://jobs.micro1.ai/post/39ebc9e2-ffef-4d6c-9ed8-61a0034a6847?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Biosecurity & Synthetic Biology Expert</a>
+- **💸 Pay Rate:** $50 - $90/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/39ebc9e2-ffef-4d6c-9ed8-61a0034a6847?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > This role demands a seasoned Biosecurity & Synthetic Biology Expert to mitigate biological risks, ensure lab safety, and model public-health threats while shaping AI-driven solutions that advance biosecurity and synthetic biology innovation. Leveraging deep domain expertise, you will help refine AI systems by translating real-world biosecurity challenges into high-impact training data and evaluations for cutting-edge models.
+
+
+### <a href="https://jobs.micro1.ai/post/d2c1174a-b6a9-479c-aa64-9b8e22cdd5b7?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Physics Professor/Researcher (PhD)</a>
+- **💸 Pay Rate:** $70 - $90/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/d2c1174a-b6a9-479c-aa64-9b8e22cdd5b7?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > Seeking a PhD-level Physics Professor/Researcher to advance cutting-edge research and deliver high-impact teaching, leveraging deep expertise to shape the next generation of scientific thought. This role offers the opportunity to contribute to AI-driven innovation by transforming complex physics knowledge into high-quality training data and evaluations for frontier models.
+
+
+### <a href="https://jobs.micro1.ai/post/5fee5987-61f7-4294-a261-df699ec45a07?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Medical Specialist</a>
+- **💸 Pay Rate:** $20 - $40/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/5fee5987-61f7-4294-a261-df699ec45a07?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > The Medical Specialist will leverage deep medical expertise to produce high-quality documentation and ensure strict confidentiality in de-identifying sensitive data. This role contributes to advancing AI systems by transforming real-world medical knowledge into precise training data and evaluations.
+
+
+### <a href="https://jobs.micro1.ai/post/ba8d074d-3547-43aa-b851-fdc0e135c9ed?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Biology Expert</a>
+- **💸 Pay Rate:** $20 - $40/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/ba8d074d-3547-43aa-b851-fdc0e135c9ed?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > A Biology Expert at micro1 applies deep subject-matter knowledge to analyze biological data, conduct rigorous academic research, and produce high-quality scientific writing that enhances AI training and evaluation. This role leverages precision and communication skills to shape cutting-edge AI models in STEM, contributing to advancements in how systems learn and reason.
+
+
+### <a href="https://jobs.micro1.ai/post/c8a38430-97b1-41c9-b36f-761d2b0e2098?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Chemistry Expert</a>
+- **💸 Pay Rate:** $20 - $40/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/c8a38430-97b1-41c9-b36f-761d2b0e2098?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > A Chemistry Expert at micro1 applies deep domain knowledge to validate chemical data, analyze experimental results, and communicate complex scientific concepts with precision. This role involves remote collaboration to advance AI training and evaluation in cutting-edge STEM research.
+
+
+### <a href="https://jobs.micro1.ai/post/10645acb-cffe-48a0-800c-68e1e142007a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Physics Expert</a>
+- **💸 Pay Rate:** $20 - $40/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/10645acb-cffe-48a0-800c-68e1e142007a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > A Physics Expert at micro1 will leverage deep domain knowledge in physics, computational modeling, and experimental design to develop high-quality research content and simplify complex concepts for AI training. This role involves collaborating with remote teams to produce precise scientific writing, problem sets, and annotated data that advance frontier AI models.
+
+
+### <a href="https://jobs.micro1.ai/post/8b842ebb-cb89-4ed4-b46a-e7ffd2ae122f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Mathematics Expert</a>
+- **💸 Pay Rate:** $20 - $40/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/8b842ebb-cb89-4ed4-b46a-e7ffd2ae122f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > The Mathematics Expert will leverage advanced mathematical expertise to develop rigorous proofs, solve complex problems, and produce precise technical reports while collaborating with remote teams to translate intricate concepts for diverse audiences. This role at micro1, a leading AI data lab, offers $20–40/hour for independent contributors with 7+ years of experience in mathematical reasoning and clear communication.
+
+
+### <a href="https://jobs.micro1.ai/post/7465b232-3add-4ab5-8ea9-65b2db2e7007?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Chemistry Professor/Researcher (PhD)</a>
+- **💸 Pay Rate:** $70 - $90/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/7465b232-3add-4ab5-8ea9-65b2db2e7007?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > Seeking a PhD-level Chemistry Professor/Researcher to lead cutting-edge research and deliver high-impact teaching, leveraging deep expertise in chemistry to advance AI training and evaluation frameworks. This role offers $70–90/hour to contribute specialized knowledge to micro1’s mission of enhancing AI systems through rigorous scientific insight and data-driven innovation.
+
+
+### <a href="https://jobs.micro1.ai/post/a26bf8e6-bdd6-4889-88d7-f474f0f8a458?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Computational Biology Expert (PhD)</a>
+- **💸 Pay Rate:** $40 - $60/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/a26bf8e6-bdd6-4889-88d7-f474f0f8a458?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > Seeking a PhD-level Computational Biology Expert to leverage advanced Python and Bash scripting to develop high-quality AI training data and evaluations for frontier models. Join micro1’s elite team to transform domain expertise into cutting-edge AI reasoning and performance solutions.
+
+
+### <a href="https://jobs.micro1.ai/post/707b29ab-98dc-43ef-a5f2-2452526d654b?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Computational Chemistry Expert (PhD)</a>
+- **💸 Pay Rate:** $40 - $60/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/707b29ab-98dc-43ef-a5f2-2452526d654b?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > A Computational Chemistry Expert (PhD) will leverage advanced molecular simulations, electronic structure methods, and AI/ML-assisted workflows to drive innovation in drug discovery and scientific software development. This role demands expertise in tools like Gaussian, GROMACS, and Python, combined with strong analytical reasoning and communication to solve complex chemical challenges.
+
+
+### <a href="https://jobs.micro1.ai/post/72b56760-80df-457e-b3fc-201f970efc21?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Physics Expert (High Energy/Mathematical Physics)</a>
+- **💸 Pay Rate:** $80 - $160/hour
+- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/72b56760-80df-457e-b3fc-201f970efc21?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
+- **📝 Description:** 
+  > This role seeks a **Physics Expert** specializing in high energy or mathematical physics to provide rigorous, defensible insights through advanced theoretical analysis, meta-level reasoning, and expert judgment in complex, ambiguous scenarios. As a key contributor to micro1’s AI data lab, you will shape the evaluation and training of frontier models by leveraging deep domain expertise to drive precision, innovation, and leadership in STEM-driven AI development.
 
 
 [⬆️ Back to Top](#-table-of-contents)
@@ -853,144 +1195,6 @@ Finding the right role is hard. We do the heavy lifting by scraping the best rem
 - **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/d9a58aa1-746f-4b43-97b7-ac3136104854?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
 - **📝 Description:** 
   > Seeking a seasoned Business Document Expert to craft high-impact financial models, executive presentations, and strategic proposals using advanced Excel, PowerPoint, and Word capabilities for Fortune 500 clients. This role demands precision in data analysis, AI-driven documentation, and stakeholder collaboration to deliver polished, decision-ready business deliverables.
-
-
-[⬆️ Back to Top](#-table-of-contents)
-
-## Frontend Development
-
-### <a href="https://jobs.micro1.ai/post/d22bec54-9218-4074-8e64-1e82848a3082?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Angular Developer</a>
-- **💸 Pay Rate:** $30 - $90/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/d22bec54-9218-4074-8e64-1e82848a3082?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > Seeking an Angular Developer to build dynamic, high-performance web applications using Angular, RxJS, and SCSS/SASS. Join micro1, a leading AI data lab, to contribute to cutting-edge AI training and evaluation platforms.
-
-
-### <a href="https://jobs.micro1.ai/post/b8825ab1-28f7-4909-bc53-c0632509bb65?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Javascript Developer</a>
-- **💸 Pay Rate:** $30 - $90/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/b8825ab1-28f7-4909-bc53-c0632509bb65?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > Seeking a skilled JavaScript Developer to contribute to cutting-edge AI training and evaluation platforms, leveraging expertise to enhance AI reasoning and performance. This role offers competitive compensation ($30-90/h) and the opportunity to work with top-tier talent in domains like finance, healthcare, and engineering.
-
-
-### <a href="https://jobs.micro1.ai/post/aa022f40-ca04-4794-8791-5f9378400f4f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Frontend Software Engineer</a>
-- **💸 Pay Rate:** $40 - $50/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/aa022f40-ca04-4794-8791-5f9378400f4f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > As a Frontend Software Engineer at micro1, you’ll craft pixel-perfect, responsive user interfaces using TypeScript and component-driven design principles to elevate the performance and usability of AI training platforms. Join a pioneering team where your expertise in modern frontend development directly shapes the future of AI evaluation and data innovation across finance, healthcare, and STEM fields.
-
-
-[⬆️ Back to Top](#-table-of-contents)
-
-## Full Stack Development
-
-### <a href="https://jobs.micro1.ai/post/9cda2f44-2dcc-4f44-ba79-f5d79b179acc?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Senior Full Stack Engineer</a>
-- **💸 Pay Rate:** $30 - $90/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/9cda2f44-2dcc-4f44-ba79-f5d79b179acc?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > "Lead the development of cutting-edge AI training platforms as a Senior Full Stack Engineer, leveraging expertise in TypeScript, Node.js, and Python to build scalable, high-impact solutions. Join micro1 in transforming real-world expertise into high-quality AI data and evaluations that shape frontier models."
-
-
-[⬆️ Back to Top](#-table-of-contents)
-
-## General Software Engineering
-
-### <a href="https://jobs.micro1.ai/post/47cf4a46-1d8e-4a38-a7f6-1ae51f23ba3a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Computer Science Expert (PhD)</a>
-- **💸 Pay Rate:** $80 - $90/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/47cf4a46-1d8e-4a38-a7f6-1ae51f23ba3a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > A Computer Science Expert (PhD) at micro1 will leverage advanced Python skills and deep domain expertise to develop high-quality AI training data and evaluations, shaping the next generation of frontier models. This role offers the opportunity to contribute cutting-edge research and real-world insights across diverse fields like finance, healthcare, and STEM engineering while earning $80–90/hour.
-
-
-### <a href="https://jobs.micro1.ai/post/55501f0b-8eb4-4079-bef3-fe0dc2621b8b?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Game Developer</a>
-- **💸 Pay Rate:** $20 - $60/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/55501f0b-8eb4-4079-bef3-fe0dc2621b8b?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > Seeking a skilled Unreal Game Developer to create immersive gaming experiences, leveraging expertise in Unreal Engine to drive innovation in AI-enhanced interactive environments. Join a cutting-edge AI data lab where your development talents will shape the future of intelligent systems and next-gen gaming.
-
-
-### <a href="https://jobs.micro1.ai/post/9e1c8d48-0e42-4996-a0ad-40ad7cedf1fc?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Computational Engineering Expert</a>
-- **💸 Pay Rate:** $40 - $60/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/9e1c8d48-0e42-4996-a0ad-40ad7cedf1fc?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > The Computational Engineering Expert will lead advanced simulations and modeling using tools like CFD, FEA, and HPC to solve complex engineering challenges and optimize large-scale systems. This role requires deep technical expertise in scripting, AI/ML applications, and domain-specific tools to drive innovation in scientific workflows and technical benchmarking.
-
-
-### <a href="https://jobs.micro1.ai/post/44152534-cfa1-4ed7-9fa6-8be32f879682?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Go Developer</a>
-- **💸 Pay Rate:** $30 - $90/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/44152534-cfa1-4ed7-9fa6-8be32f879682?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > Seeking a skilled Go Developer to design and implement high-performance REST APIs and backend systems that power micro1’s AI data platform. This role offers the opportunity to contribute to cutting-edge AI training and evaluation infrastructure while working with modern technologies like GoLang and GraphQL.
-
-
-### <a href="https://jobs.micro1.ai/post/a5e3fd9b-ea3d-4a1c-b4ea-42549bb1f777?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Competitive Coder</a>
-- **💸 Pay Rate:** $45 - $65/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/a5e3fd9b-ea3d-4a1c-b4ea-42549bb1f777?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > Solve complex algorithmic challenges with expert-level C++ proficiency to advance AI training and evaluation at micro1. Leverage competitive programming expertise to develop high-performance solutions that enhance AI reasoning and performance.
-
-
-### <a href="https://jobs.micro1.ai/post/eca66856-1444-46e4-aacc-4055023ede8d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Engineering & Technical Documentation Specialist</a>
-- **💸 Pay Rate:** $40 - $50/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/eca66856-1444-46e4-aacc-4055023ede8d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > The Engineering & Technical Documentation Specialist will develop precise technical documentation, interpret engineering drawings, and create instructional materials to support AI model training and evaluation. This role demands expertise in CAD, blueprint analysis, and clear communication to ensure accuracy and quality in remote collaboration.
-
-
-### <a href="https://jobs.micro1.ai/post/e9cd4394-5e60-4fe1-9091-1012e80c0841?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Cocos2d-x Junior Game Developer</a>
-- **💸 Pay Rate:** $50 - $120/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/e9cd4394-5e60-4fe1-9091-1012e80c0841?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > "Develop engaging 2D games using Cocos2d-x as a Junior Game Developer, contributing to innovative projects at the intersection of gaming and AI. Earn $50–120/hour while building expertise in a dynamic, high-impact environment."
-
-
-### <a href="https://jobs.micro1.ai/post/074f30c2-8474-4b5f-9774-a4f058277a4e?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Engineering Expert</a>
-- **💸 Pay Rate:** $20 - $40/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/074f30c2-8474-4b5f-9774-a4f058277a4e?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > The Engineering Expert will leverage deep technical knowledge to analyze engineering documentation, craft precise technical reports, and drive cross-functional solutions for AI training and evaluation. This role offers $20-40/hour to professionals with 2+ years of experience in STEM engineering, ensuring high-impact contributions to cutting-edge AI development.
-
-
-### <a href="https://jobs.micro1.ai/post/75b76df7-6fe1-4759-8c0c-fd552054169b?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Computer Science Specialist</a>
-- **💸 Pay Rate:** $20 - $40/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/75b76df7-6fe1-4759-8c0c-fd552054169b?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > The Computer Science Specialist will drive innovation in AI and distributed systems by designing scalable algorithms, authoring technical documentation, and advancing research in data analysis and machine learning. This role collaborates with cross-functional teams to refine system architectures, evaluate AI models, and deliver high-impact technical solutions at the forefront of AI development.
-
-
-### <a href="https://jobs.micro1.ai/post/f27a054c-92f3-4a26-9aba-af5782c38420?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Senior Software Engineer</a>
-- **💸 Pay Rate:** $50 - $70/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/f27a054c-92f3-4a26-9aba-af5782c38420?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > We are seeking a Senior Software Engineer to design, optimize, and scale high-performance systems using Python, Java, or Rust, driving innovation in AI training and evaluation at micro1. This role involves refining codebases, solving complex technical challenges, and contributing to cutting-edge solutions that power frontier AI models.
-
-
-### <a href="https://jobs.micro1.ai/post/2d8d20b2-089f-44eb-8a34-61ff4c7bbc2b?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Electrical Engineering Professor</a>
-- **💸 Pay Rate:** $40 - $130/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/2d8d20b2-089f-44eb-8a34-61ff4c7bbc2b?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > Seeking a dynamic Electrical Engineering Professor to deliver expert instruction in analog/digital circuits, RF, power electronics, and IC design while developing innovative educational content and assessments. This role offers competitive compensation ($40–130/hour) and the flexibility of remote, independent work with a leading AI-driven data lab.
-
-
-### <a href="https://jobs.micro1.ai/post/b3cd1044-8649-4019-932b-1bd7267e30d9?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Mechanical Engineering Professor</a>
-- **💸 Pay Rate:** $60 - $130/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/b3cd1044-8649-4019-932b-1bd7267e30d9?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > A distinguished Mechanical Engineering Professor is sought to deliver expert instruction in solid and structural mechanics, dynamics, vibration, and control, while developing high-quality educational content and assessments. This role demands exceptional technical accuracy, communication skills, and the ability to thrive in a remote, self-directed environment.
-
-
-### <a href="https://jobs.micro1.ai/post/345dd4f0-e901-4d51-8fa8-5e5a01ddff43?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Competitive Coder Contest</a>
-- **💸 Pay Rate:** $45 - $65/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/345dd4f0-e901-4d51-8fa8-5e5a01ddff43?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > This role invites expert competitive programmers to leverage their C++ proficiency in crafting high-quality training data and evaluations for cutting-edge AI models at micro1. Earn $45–65/hour while contributing to the development of frontier AI systems through your algorithmic and problem-solving expertise.
-
-
-### <a href="https://jobs.micro1.ai/post/0f408791-3d89-4434-ba3c-f6f7cd8c4a55?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Competitive Programmer</a>
-- **💸 Pay Rate:** $45 - $65/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/0f408791-3d89-4434-ba3c-f6f7cd8c4a55?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > Seeking a highly skilled Competitive Programmer with expertise in C++ to develop efficient algorithms and solve complex computational challenges. Join micro1, a leading AI data lab, to contribute cutting-edge solutions that enhance AI learning and performance.
 
 
 [⬆️ Back to Top](#-table-of-contents)
@@ -1660,210 +1864,6 @@ Finding the right role is hard. We do the heavy lifting by scraping the best rem
 - **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/a3354770-f4be-4a74-9cf7-a272f36d407d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
 - **📝 Description:** 
   > Seeking a Technical Problem Solver to tackle complex challenges through competitive programming and advanced C++ expertise. Join micro1’s AI data lab to transform real-world expertise into high-quality training data and evaluations for cutting-edge AI systems.
-
-
-[⬆️ Back to Top](#-table-of-contents)
-
-## Product & Design
-
-### <a href="https://jobs.micro1.ai/post/b3511282-fb70-472b-92f3-dc28cc3eef4f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Product Manager</a>
-- **💸 Pay Rate:** $40 - $80/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/b3511282-fb70-472b-92f3-dc28cc3eef4f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > This Product Manager role drives the strategic vision and execution of SaaS products, leveraging Agile methodologies, cross-functional leadership, and deep market insights to deliver innovative solutions that shape the product lifecycle. With a focus on roadmap development, stakeholder collaboration, and data-driven decision-making, you’ll lead remote teams to build competitive, high-impact products in a fast-paced AI-driven environment.
-
-
-[⬆️ Back to Top](#-table-of-contents)
-
-## Science & Research
-
-### <a href="https://jobs.micro1.ai/post/31ab7766-5edf-463a-a490-79290e5dcef6?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Physics Expert (PhD)</a>
-- **💸 Pay Rate:** $80 - $90/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/31ab7766-5edf-463a-a490-79290e5dcef6?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > The Physics Expert (PhD) will leverage advanced scientific knowledge to analyze complex data and produce high-impact technical insights for AI model training and evaluation. This role offers a unique opportunity to shape cutting-edge AI systems by contributing expert physics expertise to micro1’s industry-leading data platform.
-
-
-### <a href="https://jobs.micro1.ai/post/2649478e-fe69-4c2b-ad3f-43a53f0f89d2?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Economics Expert (PhD)</a>
-- **💸 Pay Rate:** $80 - $90/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/2649478e-fe69-4c2b-ad3f-43a53f0f89d2?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > Seeking a PhD-level Economics Expert with deep microeconomic and macroeconomic expertise to contribute high-quality insights that shape AI training and evaluation at micro1. This role offers $80-90/hour to leverage your advanced analytical skills in transforming real-world economic knowledge into cutting-edge AI data solutions.
-
-
-### <a href="https://jobs.micro1.ai/post/78e55232-cb71-4f9c-8d60-b5d52678d7a8?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Statistics Expert (PhD)</a>
-- **💸 Pay Rate:** $80 - $90/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/78e55232-cb71-4f9c-8d60-b5d52678d7a8?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > A Statistics Expert (PhD) at micro1 will leverage advanced statistical methods and domain expertise to enhance AI training data and evaluation frameworks across high-impact fields like finance, healthcare, and STEM. This role offers the opportunity to shape cutting-edge AI systems through rigorous data analysis and high-quality feedback loops, with compensation of $80–90/hour.
-
-
-### <a href="https://jobs.micro1.ai/post/9c5641a2-60eb-4cda-9bcb-747b807dc214?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Senior Physics Adjudicator</a>
-- **💸 Pay Rate:** $80 - $110/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/9c5641a2-60eb-4cda-9bcb-747b807dc214?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > This role demands a distinguished Senior Physics Adjudicator with deep subject-matter expertise and exceptional scientific judgment to evaluate complex research, resolve technical disputes, and provide cross-disciplinary insights that shape the future of AI training and agent evaluation. As a trusted authority, you will lead high-stakes assessments, ensuring rigor and precision in advancing frontier AI models within a cutting-edge, collaborative environment.
-
-
-### <a href="https://jobs.micro1.ai/post/6d5c21e9-6e7e-41a5-8a15-bf273dad7c49?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Computational Biology Expert</a>
-- **💸 Pay Rate:** $40 - $60/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/6d5c21e9-6e7e-41a5-8a15-bf273dad7c49?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > Seeking a Computational Biology Expert to drive cutting-edge genomics and bioinformatics analysis, leveraging advanced tools like Python, R, and NGS pipelines to solve complex biological problems. This role involves interdisciplinary collaboration to advance AI/ML applications in structural biology, transcriptomics, and systems biology within a remote, high-impact research environment.
-
-
-### <a href="https://jobs.micro1.ai/post/be698edc-fbdf-4213-bccd-12fd37678e43?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Computational Chemistry Expert</a>
-- **💸 Pay Rate:** $40 - $60/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/be698edc-fbdf-4213-bccd-12fd37678e43?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > A Computational Chemistry Expert will leverage advanced molecular simulations, quantum chemistry, and AI/ML-assisted workflows to drive innovation in drug discovery and scientific research. This role demands expertise in tools like Gaussian, GROMACS, and RDKit, paired with strong analytical and communication skills to optimize simulations and document findings.
-
-
-### <a href="https://jobs.micro1.ai/post/3fe7f3bc-7a2a-4a7d-8e23-16bcd27a3280?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Computational Physics Expert</a>
-- **💸 Pay Rate:** $40 - $60/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/3fe7f3bc-7a2a-4a7d-8e23-16bcd27a3280?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > A Computational Physics Expert at micro1 will leverage advanced scientific computing, numerical simulations, and HPC workflows to drive cutting-edge AI/ML benchmarking and quantitative modeling. This role demands exceptional analytical reasoning, scientific integrity, and the ability to interpret complex data while collaborating across multidisciplinary teams.
-
-
-### <a href="https://jobs.micro1.ai/post/737b57d1-ffc8-4e2d-82c4-86c3c4943325?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Math Expert (PhD)</a>
-- **💸 Pay Rate:** $80 - $90/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/737b57d1-ffc8-4e2d-82c4-86c3c4943325?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > A Math Expert (PhD) at micro1 applies advanced mathematical expertise and rigorous research methodologies to develop high-quality training data and evaluations for cutting-edge AI systems. This role involves solving complex mathematical problems, producing academic-level content, and collaborating remotely to refine AI models across diverse domains.
-
-
-### <a href="https://jobs.micro1.ai/post/0af69636-770d-447f-9f3c-ea8936565aca?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Chemistry Expert (PhD)</a>
-- **💸 Pay Rate:** $80 - $90/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/0af69636-770d-447f-9f3c-ea8936565aca?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > A Chemistry Expert (PhD) at micro1 will leverage advanced scientific knowledge to develop high-quality training data and evaluations that enhance AI learning and reasoning. This role offers $80–90/hour for experts with strong writing, communication, and attention to detail to shape cutting-edge AI systems.
-
-
-### <a href="https://jobs.micro1.ai/post/5136fd03-6ff0-45c0-8e36-2126cc5b21c7?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Biology Expert (PhD)</a>
-- **💸 Pay Rate:** $80 - $90/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/5136fd03-6ff0-45c0-8e36-2126cc5b21c7?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > As a Biology Expert (PhD) at micro1, you will leverage your deep biological knowledge and analytical rigor to evaluate scientific data, refine AI training models, and enhance the reasoning capabilities of cutting-edge AI systems. This role offers a competitive hourly rate of $80–90 to contribute high-impact expertise in a dynamic, interdisciplinary environment.
-
-
-### <a href="https://jobs.micro1.ai/post/e07e9bd3-34a8-4ae0-bb17-de1604397c82?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">PhD Engineer (Electrical, Mechanical, Chemical)</a>
-- **💸 Pay Rate:** $80 - $90/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/e07e9bd3-34a8-4ae0-bb17-de1604397c82?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > This PhD-level Engineer (Electrical, Mechanical, or Chemical) will leverage advanced expertise in calculus, experimental design, and research methodologies to drive cutting-edge AI training and evaluation at micro1, the premier AI data lab shaping the future of frontier models. By transforming real-world STEM knowledge into high-impact data and feedback loops, the role directly enhances AI reasoning, performance, and innovation across critical domains like engineering, healthcare, and finance.
-
-
-### <a href="https://jobs.micro1.ai/post/c3fbf0f8-75b1-4092-a234-26e8d212c609?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Physics (PhD)</a>
-- **💸 Pay Rate:** $80 - $90/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/c3fbf0f8-75b1-4092-a234-26e8d212c609?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > This PhD-level Physics role leverages deep expertise in theoretical and applied physics to drive cutting-edge AI research, analyzing complex scientific data, developing rigorous technical documentation, and collaborating with cross-functional teams to advance frontier model training and evaluation. As a key contributor at micro1, you’ll apply analytical precision and problem-solving excellence to shape the future of AI agents while ensuring the highest standards of data quality and stakeholder alignment.
-
-
-### <a href="https://jobs.micro1.ai/post/5f18be8b-5fad-424f-bf40-e1fbbe245098?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Mathematics Professor/Researcher (PhD)</a>
-- **💸 Pay Rate:** $60 - $90/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/5f18be8b-5fad-424f-bf40-e1fbbe245098?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > Seeking a PhD-level Mathematics Professor/Researcher to advance cutting-edge mathematical theory and deliver high-impact instruction while contributing expert insights to AI training and evaluation initiatives. This role offers $60–90/hour to leverage deep mathematical and research expertise in shaping next-generation AI systems through rigorous data-driven methodologies.
-
-
-### <a href="https://jobs.micro1.ai/post/f0b4d2f2-e832-42d9-9ee2-94c8acf3467c?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Physics Expert (PhD / Postdoc)</a>
-- **💸 Pay Rate:** $80 - $140/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/f0b4d2f2-e832-42d9-9ee2-94c8acf3467c?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > Seeking a Physics Expert (PhD/Postdoc) with deep technical problem-solving skills and exceptional written communication to contribute high-quality expertise to AI training and evaluation at micro1. This role offers $80–140/hour for leveraging advanced physics mastery and computational fluency to shape frontier AI models.
-
-
-### <a href="https://jobs.micro1.ai/post/24515609-bd74-4846-b7e4-b83e173826dc?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Physics Expert (Postdoc / Junior professor)</a>
-- **💸 Pay Rate:** $80 - $150/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/24515609-bd74-4846-b7e4-b83e173826dc?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > The Physics Expert will leverage advanced subject-matter expertise to evaluate, refine, and verify technical content, ensuring precision and rigor in AI model training and evaluation. This role offers a competitive hourly rate ($80–150) to contribute high-impact insights at the forefront of AI development with micro1, the leading data lab for frontier models.
-
-
-### <a href="https://jobs.micro1.ai/post/717a7998-b625-436f-9979-05332495affd?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Physics Expert (Professor / Principal Investigator)</a>
-- **💸 Pay Rate:** $80 - $160/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/717a7998-b625-436f-9979-05332495affd?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > Seeking a distinguished Physics Expert (Professor/Principal Investigator) to lead cutting-edge research and provide authoritative, nuanced judgment in complex scientific domains, transforming expertise into high-impact AI training data. This role demands masterful physics knowledge, meta-level reasoning, and the ability to articulate defensible insights that shape frontier AI models.
-
-
-### <a href="https://jobs.micro1.ai/post/39ebc9e2-ffef-4d6c-9ed8-61a0034a6847?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Biosecurity & Synthetic Biology Expert</a>
-- **💸 Pay Rate:** $50 - $90/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/39ebc9e2-ffef-4d6c-9ed8-61a0034a6847?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > This role demands a seasoned Biosecurity & Synthetic Biology Expert to mitigate biological risks, ensure lab safety, and model public-health threats while shaping AI-driven solutions that advance biosecurity and synthetic biology innovation. Leveraging deep domain expertise, you will help refine AI systems by translating real-world biosecurity challenges into high-impact training data and evaluations for cutting-edge models.
-
-
-### <a href="https://jobs.micro1.ai/post/d2c1174a-b6a9-479c-aa64-9b8e22cdd5b7?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Physics Professor/Researcher (PhD)</a>
-- **💸 Pay Rate:** $70 - $90/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/d2c1174a-b6a9-479c-aa64-9b8e22cdd5b7?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > Seeking a PhD-level Physics Professor/Researcher to advance cutting-edge research and deliver high-impact teaching, leveraging deep expertise to shape the next generation of scientific thought. This role offers the opportunity to contribute to AI-driven innovation by transforming complex physics knowledge into high-quality training data and evaluations for frontier models.
-
-
-### <a href="https://jobs.micro1.ai/post/5fee5987-61f7-4294-a261-df699ec45a07?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Medical Specialist</a>
-- **💸 Pay Rate:** $20 - $40/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/5fee5987-61f7-4294-a261-df699ec45a07?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > The Medical Specialist will leverage deep medical expertise to produce high-quality documentation and ensure strict confidentiality in de-identifying sensitive data. This role contributes to advancing AI systems by transforming real-world medical knowledge into precise training data and evaluations.
-
-
-### <a href="https://jobs.micro1.ai/post/ba8d074d-3547-43aa-b851-fdc0e135c9ed?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Biology Expert</a>
-- **💸 Pay Rate:** $20 - $40/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/ba8d074d-3547-43aa-b851-fdc0e135c9ed?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > A Biology Expert at micro1 applies deep subject-matter knowledge to analyze biological data, conduct rigorous academic research, and produce high-quality scientific writing that enhances AI training and evaluation. This role leverages precision and communication skills to shape cutting-edge AI models in STEM, contributing to advancements in how systems learn and reason.
-
-
-### <a href="https://jobs.micro1.ai/post/c8a38430-97b1-41c9-b36f-761d2b0e2098?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Chemistry Expert</a>
-- **💸 Pay Rate:** $20 - $40/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/c8a38430-97b1-41c9-b36f-761d2b0e2098?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > A Chemistry Expert at micro1 applies deep domain knowledge to validate chemical data, analyze experimental results, and communicate complex scientific concepts with precision. This role involves remote collaboration to advance AI training and evaluation in cutting-edge STEM research.
-
-
-### <a href="https://jobs.micro1.ai/post/10645acb-cffe-48a0-800c-68e1e142007a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Physics Expert</a>
-- **💸 Pay Rate:** $20 - $40/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/10645acb-cffe-48a0-800c-68e1e142007a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > A Physics Expert at micro1 will leverage deep domain knowledge in physics, computational modeling, and experimental design to develop high-quality research content and simplify complex concepts for AI training. This role involves collaborating with remote teams to produce precise scientific writing, problem sets, and annotated data that advance frontier AI models.
-
-
-### <a href="https://jobs.micro1.ai/post/8b842ebb-cb89-4ed4-b46a-e7ffd2ae122f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Mathematics Expert</a>
-- **💸 Pay Rate:** $20 - $40/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/8b842ebb-cb89-4ed4-b46a-e7ffd2ae122f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > The Mathematics Expert will leverage advanced mathematical expertise to develop rigorous proofs, solve complex problems, and produce precise technical reports while collaborating with remote teams to translate intricate concepts for diverse audiences. This role at micro1, a leading AI data lab, offers $20–40/hour for independent contributors with 7+ years of experience in mathematical reasoning and clear communication.
-
-
-### <a href="https://jobs.micro1.ai/post/7465b232-3add-4ab5-8ea9-65b2db2e7007?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Chemistry Professor/Researcher (PhD)</a>
-- **💸 Pay Rate:** $70 - $90/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/7465b232-3add-4ab5-8ea9-65b2db2e7007?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > Seeking a PhD-level Chemistry Professor/Researcher to lead cutting-edge research and deliver high-impact teaching, leveraging deep expertise in chemistry to advance AI training and evaluation frameworks. This role offers $70–90/hour to contribute specialized knowledge to micro1’s mission of enhancing AI systems through rigorous scientific insight and data-driven innovation.
-
-
-### <a href="https://jobs.micro1.ai/post/a26bf8e6-bdd6-4889-88d7-f474f0f8a458?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Computational Biology Expert (PhD)</a>
-- **💸 Pay Rate:** $40 - $60/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/a26bf8e6-bdd6-4889-88d7-f474f0f8a458?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > Seeking a PhD-level Computational Biology Expert to leverage advanced Python and Bash scripting to develop high-quality AI training data and evaluations for frontier models. Join micro1’s elite team to transform domain expertise into cutting-edge AI reasoning and performance solutions.
-
-
-### <a href="https://jobs.micro1.ai/post/707b29ab-98dc-43ef-a5f2-2452526d654b?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Computational Chemistry Expert (PhD)</a>
-- **💸 Pay Rate:** $40 - $60/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/707b29ab-98dc-43ef-a5f2-2452526d654b?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > A Computational Chemistry Expert (PhD) will leverage advanced molecular simulations, electronic structure methods, and AI/ML-assisted workflows to drive innovation in drug discovery and scientific software development. This role demands expertise in tools like Gaussian, GROMACS, and Python, combined with strong analytical reasoning and communication to solve complex chemical challenges.
-
-
-### <a href="https://jobs.micro1.ai/post/72b56760-80df-457e-b3fc-201f970efc21?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Physics Expert (High Energy/Mathematical Physics)</a>
-- **💸 Pay Rate:** $80 - $160/hour
-- **🔗 Apply Now:** <a href="https://jobs.micro1.ai/post/72b56760-80df-457e-b3fc-201f970efc21?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Click here to apply</a>
-- **📝 Description:** 
-  > This role seeks a **Physics Expert** specializing in high energy or mathematical physics to provide rigorous, defensible insights through advanced theoretical analysis, meta-level reasoning, and expert judgment in complex, ambiguous scenarios. As a key contributor to micro1’s AI data lab, you will shape the evaluation and training of frontier models by leveraging deep domain expertise to drive precision, innovation, and leadership in STEM-driven AI development.
 
 
 [⬆️ Back to Top](#-table-of-contents)
