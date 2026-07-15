@@ -25,7 +25,6 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
 - [Desenvolvimento Backend](#desenvolvimento-backend)
 - [Desenvolvimento Frontend](#desenvolvimento-frontend)
 - [Desenvolvimento Full Stack](#desenvolvimento-full-stack)
-- [Desenvolvimento Mobile](#desenvolvimento-mobile)
 - [Outras Engenharias](#outras-engenharias)
 - [Produto e Design](#produto-e-design)
 
@@ -37,13 +36,6 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
 - **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/204600bf-1abe-4ab0-a474-cd2264999149?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
 - **📝 Descrição:** 
   > The Data-Video Generalist will capture high-quality video and IMU data with meticulous attention to detail to support AI model training and evaluation. This role contributes to advancing frontier AI systems by providing precise, real-world data for micro1’s industry-leading platform.
-
-
-### <a href="https://jobs.micro1.ai/post/e3ccd502-1383-42f3-8055-59e7f2debba5?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Thai Language Expert</a>
-- **💸 Pagamento:** $15 - $30/hour
-- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/e3ccd502-1383-42f3-8055-59e7f2debba5?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
-- **📝 Descrição:** 
-  > "As a Thai Language Expert, you will leverage your fluency and voice acting skills to deliver high-quality captioning and transcription for cutting-edge AI training projects. Join a leading AI data lab to shape frontier models with precise linguistic expertise and attention to detail."
 
 
 ### <a href="https://jobs.micro1.ai/post/ff5e419e-f4b7-46e0-bcb0-b5fd190506f3?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Remote Household Data Specialist - Video Capture (PH)</a>
@@ -60,32 +52,11 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
   > The Household Data Specialist - Video Capture (ARG) role at micro1 involves expertly controlling video capturing devices to produce high-quality training data for AI models. This position leverages meticulous attention to detail and specialized tools like the UMI-gripper to contribute to advancing AI reasoning and performance.
 
 
-### <a href="https://jobs.micro1.ai/post/fa6b8d84-b0e9-4c9d-9af1-d47f992a1962?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Spanish Language Expert (Spain)</a>
-- **💸 Pagamento:** $10 - $20/hour
-- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/fa6b8d84-b0e9-4c9d-9af1-d47f992a1962?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
-- **📝 Descrição:** 
-  > Seeking a fluent Spanish Language Expert (Spain) to deliver precise transcription, metadata tagging, and annotation with meticulous attention to detail. Join a leading AI data lab to shape high-quality training data that enhances AI reasoning and performance.
-
-
 ### <a href="https://jobs.micro1.ai/post/25977272-dca9-4b3a-a676-51bdfeae0a3d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Video Data Entry Specialist (LATAM)</a>
 - **💸 Pagamento:** $6 - $6/hour
 - **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/25977272-dca9-4b3a-a676-51bdfeae0a3d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
 - **📝 Descrição:** 
   > The Video Data Entry Specialist (LATAM) will meticulously annotate and record video data to support AI training, ensuring high-quality datasets for cutting-edge models. This role at micro1 leverages expert attention to detail to enhance AI reasoning and performance through precise data contributions.
-
-
-### <a href="https://jobs.micro1.ai/post/546656aa-cb01-49ae-9830-a5afe4627d9d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Marketing Domain Expert</a>
-- **💸 Pagamento:** $10 - $40/hour
-- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/546656aa-cb01-49ae-9830-a5afe4627d9d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
-- **📝 Descrição:** 
-  > The Marketing Domain Expert will leverage deep enterprise marketing expertise and analytical reasoning to develop high-quality training data and evaluations that enhance AI systems' learning and decision-making. This role involves crafting strategic content, refining AI responses, and contributing specialized knowledge to shape cutting-edge AI models.
-
-
-### <a href="https://jobs.micro1.ai/post/1dcb7192-83d0-4926-9ce1-60f0a5f7c966?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Customer Support Email Analyst</a>
-- **💸 Pagamento:** $10 - $20/hour
-- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/1dcb7192-83d0-4926-9ce1-60f0a5f7c966?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
-- **📝 Descrição:** 
-  > This role involves analyzing and responding to customer support emails with precision, ensuring clear, professional, and empathetic communication that enhances customer experience. As part of a cutting-edge AI data lab, you’ll leverage your expertise to refine AI training data while delivering exceptional service that drives customer satisfaction and operational excellence.
 
 
 ### <a href="https://jobs.micro1.ai/post/2418674e-c1a6-4dbb-a43c-85fc8ddfdec4?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Data-Video Generalist (Europe-based)</a>
@@ -109,13 +80,6 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
   > The QA Specialist will ensure the highest standards of AI product performance by rigorously testing, validating, and refining models while providing expert technical support to enhance user experience. This role leverages deep quality engineering expertise to shape cutting-edge AI solutions across domains like finance, healthcare, and STEM.
 
 
-### <a href="https://jobs.micro1.ai/post/720e5ac0-2807-477c-82d5-849d5950a1bd?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Engineer (All Domains)</a>
-- **💸 Pagamento:** $20 - $45/hour
-- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/720e5ac0-2807-477c-82d5-849d5950a1bd?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
-- **📝 Descrição:** 
-  > Engineer highly specialized AI training data by applying deep domain expertise across fields like finance, healthcare, and STEM to develop precise, real-world knowledge frameworks. Drive impactful workflows, process optimization, and confidential decision-making to advance frontier AI models and agent evaluations.
-
-
 ### <a href="https://jobs.micro1.ai/post/66e153bc-1c52-439e-8fcb-38d35c4eae67?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">E-commerce Data & Catalog Specialist</a>
 - **💸 Pagamento:** $40 - $50/hour
 - **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/66e153bc-1c52-439e-8fcb-38d35c4eae67?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
@@ -135,20 +99,6 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
 - **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/c99791a5-fa53-4691-b3ce-de6ac35e0fff?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
 - **📝 Descrição:** 
   > The AI Evaluation Specialist at micro1 will leverage expert subject matter knowledge to conduct precise, rubric-based assessments of AI models, ensuring high-quality evaluations through structured observation and meticulous reporting. This role demands advanced written communication, technical literacy, and a keen eye for detail to support the development of frontier AI systems across diverse domains.
-
-
-### <a href="https://jobs.micro1.ai/post/0b77cea9-1a1e-47d6-846f-a2ae0aabec22?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Retail Operations Manager</a>
-- **💸 Pagamento:** $40 - $65/hour
-- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/0b77cea9-1a1e-47d6-846f-a2ae0aabec22?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
-- **📝 Descrição:** 
-  > The Retail Operations Manager will oversee merchandising, inventory, and omnichannel strategies while leveraging data-driven insights to optimize pricing, demand forecasting, and process efficiency. This role requires strong leadership in team collaboration, trend analysis, and AI-enhanced decision-making to drive retail performance and innovation.
-
-
-### <a href="https://jobs.micro1.ai/post/554c091a-db37-409a-b02d-afa83046eec4?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Supply Chain Manager</a>
-- **💸 Pagamento:** $40 - $65/hour
-- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/554c091a-db37-409a-b02d-afa83046eec4?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
-- **📝 Descrição:** 
-  > The Supply Chain Manager will lead global procurement, logistics optimization, and vendor negotiations to drive efficiency and cost savings for micro1’s AI data operations. This role requires strategic analytical thinking and strong communication to collaborate with remote teams and ensure seamless supply chain execution.
 
 
 ### <a href="https://jobs.micro1.ai/post/ffb3b619-8be1-40a9-b96d-8dc41057b7f1?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">AI Engineer</a>
@@ -214,13 +164,6 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
   > As an AI Data Annotation Expert at micro1, you will meticulously label and annotate video data with precision to train and evaluate cutting-edge AI models. Your analytical mindset, attention to detail, and ability to follow guidelines will directly contribute to advancing AI in domains like finance, healthcare, and STEM engineering.
 
 
-### <a href="https://jobs.micro1.ai/post/45ec3271-a485-446c-965e-edba13f09655?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Logistics & Supply Chain Management Specialist</a>
-- **💸 Pagamento:** $40 - $50/hour
-- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/45ec3271-a485-446c-965e-edba13f09655?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
-- **📝 Descrição:** 
-  > This **Logistics & Supply Chain Management Specialist** role drives operational excellence by optimizing end-to-end supply chain processes, from inventory coordination and packing list accuracy to freight logistics and compliance documentation. Leveraging deep expertise in global trade and efficiency strategies, the position ensures seamless execution while contributing real-world insights to advance AI-driven solutions in logistics innovation.
-
-
 ### <a href="https://jobs.micro1.ai/post/c2b5f528-e8c9-42d4-a354-4f0cb5bfacca?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Agentic AI Expert</a>
 - **💸 Pagamento:** $70 - $126/hour
 - **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/c2b5f528-e8c9-42d4-a354-4f0cb5bfacca?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
@@ -245,13 +188,6 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
 [⬆️ Voltar ao topo](#-ndice)
 
 ## Desenvolvimento Backend
-
-### <a href="https://jobs.micro1.ai/post/da23bd9a-d2d2-4425-ab82-8753c4a0825a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Javanese Language Expert</a>
-- **💸 Pagamento:** $45 - $95/hour
-- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/da23bd9a-d2d2-4425-ab82-8753c4a0825a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
-- **📝 Descrição:** 
-  > Seeking a fluent Javanese language expert to contribute high-quality linguistic data and evaluations for cutting-edge AI training at a leading AI data lab. Earn $45–$95/hour by leveraging your expertise to enhance AI reasoning and performance in Javanese contexts.
-
 
 ### <a href="https://jobs.micro1.ai/post/b4d8b40e-974e-4113-a8f9-534dd4c3739c?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Java Developer</a>
 - **💸 Pagamento:** $30 - $90/hour
@@ -281,13 +217,6 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
   > Seeking a skilled Node.js Developer proficient in JavaScript and TypeScript to build scalable backend systems for micro1, the leading AI data lab transforming real-world expertise into high-quality training data. This role offers competitive hourly rates ($30–$90) and the opportunity to contribute to cutting-edge AI model training and evaluation.
 
 
-### <a href="https://jobs.micro1.ai/post/b8825ab1-28f7-4909-bc53-c0632509bb65?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Javascript Developer</a>
-- **💸 Pagamento:** $30 - $90/hour
-- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/b8825ab1-28f7-4909-bc53-c0632509bb65?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
-- **📝 Descrição:** 
-  > Seeking a skilled JavaScript Developer to contribute to cutting-edge AI training and evaluation platforms, leveraging expertise to enhance AI reasoning and performance. This role offers competitive compensation ($30-90/h) and the opportunity to work with top-tier talent in domains like finance, healthcare, and engineering.
-
-
 ### <a href="https://jobs.micro1.ai/post/67dd7653-263c-47d8-a198-0d3bcfa1316f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Junior Python Game Developer (Panda3D)</a>
 - **💸 Pagamento:** $50 - $120/hour
 - **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/67dd7653-263c-47d8-a198-0d3bcfa1316f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
@@ -313,6 +242,13 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
   > Seeking an Angular Developer to build dynamic, high-performance web applications using Angular, RxJS, and SCSS/SASS. Join micro1, a leading AI data lab, to contribute to cutting-edge AI training and evaluation platforms.
 
 
+### <a href="https://jobs.micro1.ai/post/b8825ab1-28f7-4909-bc53-c0632509bb65?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Javascript Developer</a>
+- **💸 Pagamento:** $30 - $90/hour
+- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/b8825ab1-28f7-4909-bc53-c0632509bb65?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
+- **📝 Descrição:** 
+  > Seeking a skilled JavaScript Developer to contribute to cutting-edge AI training and evaluation platforms, leveraging expertise to enhance AI reasoning and performance. This role offers competitive compensation ($30-90/h) and the opportunity to work with top-tier talent in domains like finance, healthcare, and engineering.
+
+
 ### <a href="https://jobs.micro1.ai/post/aa022f40-ca04-4794-8791-5f9378400f4f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Frontend Software Engineer</a>
 - **💸 Pagamento:** $40 - $50/hour
 - **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/aa022f40-ca04-4794-8791-5f9378400f4f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
@@ -329,17 +265,6 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
 - **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/9cda2f44-2dcc-4f44-ba79-f5d79b179acc?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
 - **📝 Descrição:** 
   > "Lead the development of cutting-edge AI training platforms as a Senior Full Stack Engineer, leveraging expertise in TypeScript, Node.js, and Python to build scalable, high-impact solutions. Join micro1 in transforming real-world expertise into high-quality AI data and evaluations that shape frontier models."
-
-
-[⬆️ Voltar ao topo](#-ndice)
-
-## Desenvolvimento Mobile
-
-### <a href="https://jobs.micro1.ai/post/39ebc9e2-ffef-4d6c-9ed8-61a0034a6847?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Biosecurity & Synthetic Biology Expert</a>
-- **💸 Pagamento:** $50 - $90/hour
-- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/39ebc9e2-ffef-4d6c-9ed8-61a0034a6847?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
-- **📝 Descrição:** 
-  > This role demands a seasoned Biosecurity & Synthetic Biology Expert to mitigate biological risks, ensure lab safety, and model public-health threats while shaping AI-driven solutions that advance biosecurity and synthetic biology innovation. Leveraging deep domain expertise, you will help refine AI systems by translating real-world biosecurity challenges into high-impact training data and evaluations for cutting-edge models.
 
 
 [⬆️ Voltar ao topo](#-ndice)
@@ -423,6 +348,13 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
   > This role seeks a fluent Dutch Language Expert to deliver precise voice acting, captioning, and transcription services with meticulous attention to detail. As part of a pioneering AI data lab, you’ll leverage your linguistic expertise to shape high-quality training data and evaluations for cutting-edge AI models.
 
 
+### <a href="https://jobs.micro1.ai/post/e3ccd502-1383-42f3-8055-59e7f2debba5?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Thai Language Expert</a>
+- **💸 Pagamento:** $15 - $30/hour
+- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/e3ccd502-1383-42f3-8055-59e7f2debba5?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
+- **📝 Descrição:** 
+  > "As a Thai Language Expert, you will leverage your fluency and voice acting skills to deliver high-quality captioning and transcription for cutting-edge AI training projects. Join a leading AI data lab to shape frontier models with precise linguistic expertise and attention to detail."
+
+
 ### <a href="https://jobs.micro1.ai/post/b41bfb9d-f30f-4a49-bf3d-194cec873348?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Norwegian Language Expert</a>
 - **💸 Pagamento:** $10 - $45/hour
 - **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/b41bfb9d-f30f-4a49-bf3d-194cec873348?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
@@ -456,6 +388,13 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
 - **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/4f2eb822-e6a3-4a69-9d0f-e2e68d692131?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
 - **📝 Descrição:** 
   > Seeking a meticulous Spanish Language Expert (Mexico) to deliver high-quality transcription and annotation for AI training data. This role leverages your native-level Spanish proficiency and keen attention to detail to refine frontier AI models.
+
+
+### <a href="https://jobs.micro1.ai/post/fa6b8d84-b0e9-4c9d-9af1-d47f992a1962?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Spanish Language Expert (Spain)</a>
+- **💸 Pagamento:** $10 - $20/hour
+- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/fa6b8d84-b0e9-4c9d-9af1-d47f992a1962?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
+- **📝 Descrição:** 
+  > Seeking a fluent Spanish Language Expert (Spain) to deliver precise transcription, metadata tagging, and annotation with meticulous attention to detail. Join a leading AI data lab to shape high-quality training data that enhances AI reasoning and performance.
 
 
 ### <a href="https://jobs.micro1.ai/post/2996d139-d538-4e42-b8b3-0e89f1ce0b64?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">French Transcription Expert (France)</a>
@@ -605,11 +544,25 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
   > Seeking a meticulous Arabic (MSA) Transcription Expert to accurately transcribe and annotate audio content with precise metadata tagging for AI training. This role demands fluency in Modern Standard Arabic, sharp attention to detail, and a commitment to delivering high-quality linguistic data.
 
 
+### <a href="https://jobs.micro1.ai/post/546656aa-cb01-49ae-9830-a5afe4627d9d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Marketing Domain Expert</a>
+- **💸 Pagamento:** $10 - $40/hour
+- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/546656aa-cb01-49ae-9830-a5afe4627d9d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
+- **📝 Descrição:** 
+  > The Marketing Domain Expert will leverage deep enterprise marketing expertise and analytical reasoning to develop high-quality training data and evaluations that enhance AI systems' learning and decision-making. This role involves crafting strategic content, refining AI responses, and contributing specialized knowledge to shape cutting-edge AI models.
+
+
 ### <a href="https://jobs.micro1.ai/post/f1dd84e9-9083-45fa-92c9-9da89ec283b5?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Romanized Hindi Transcription Expert</a>
 - **💸 Pagamento:** $8 - $16/hour
 - **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/f1dd84e9-9083-45fa-92c9-9da89ec283b5?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
 - **📝 Descrição:** 
   > Seeking a Romanized Hindi Transcription Expert to accurately transcribe, annotate, and tag audio content with precision, supporting AI model training and evaluation. Join a cutting-edge AI data lab to transform real-world linguistic expertise into high-quality datasets that enhance machine learning performance.
+
+
+### <a href="https://jobs.micro1.ai/post/1dcb7192-83d0-4926-9ce1-60f0a5f7c966?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Customer Support Email Analyst</a>
+- **💸 Pagamento:** $10 - $20/hour
+- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/1dcb7192-83d0-4926-9ce1-60f0a5f7c966?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
+- **📝 Descrição:** 
+  > This role involves analyzing and responding to customer support emails with precision, ensuring clear, professional, and empathetic communication that enhances customer experience. As part of a cutting-edge AI data lab, you’ll leverage your expertise to refine AI training data while delivering exceptional service that drives customer satisfaction and operational excellence.
 
 
 ### <a href="https://jobs.micro1.ai/post/e30eca0d-22ab-44d7-be44-f30fe721ced5?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Tatar Language Expert</a>
@@ -710,6 +663,13 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
   > Leverage your fluency in Swedish to shape the future of AI by contributing high-quality translations and linguistic expertise to train and evaluate cutting-edge models. Join a leading AI data lab where your language mastery directly enhances the reasoning and performance of next-generation AI systems.
 
 
+### <a href="https://jobs.micro1.ai/post/da23bd9a-d2d2-4425-ab82-8753c4a0825a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Javanese Language Expert</a>
+- **💸 Pagamento:** $45 - $95/hour
+- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/da23bd9a-d2d2-4425-ab82-8753c4a0825a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
+- **📝 Descrição:** 
+  > Seeking a fluent Javanese language expert to contribute high-quality linguistic data and evaluations for cutting-edge AI training at a leading AI data lab. Earn $45–$95/hour by leveraging your expertise to enhance AI reasoning and performance in Javanese contexts.
+
+
 ### <a href="https://jobs.micro1.ai/post/7aa582e6-1597-48f7-8510-d60f08bd8f9f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Sanskrit Language Expert</a>
 - **💸 Pagamento:** $45 - $95/hour
 - **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/7aa582e6-1597-48f7-8510-d60f08bd8f9f?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
@@ -785,6 +745,13 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
 - **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/02da7b74-16d3-426c-933b-82a7f5058524?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
 - **📝 Descrição:** 
   > Drive revenue growth and operational excellence as a Sales Specialist at micro1, leveraging analytical and problem-solving skills to optimize sales processes and deliver high-quality AI training data solutions. Thrive in a fast-paced startup environment, synthesizing expert insights across domains like finance, healthcare, and STEM to support frontier AI model development.
+
+
+### <a href="https://jobs.micro1.ai/post/720e5ac0-2807-477c-82d5-849d5950a1bd?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Engineer (All Domains)</a>
+- **💸 Pagamento:** $20 - $45/hour
+- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/720e5ac0-2807-477c-82d5-849d5950a1bd?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
+- **📝 Descrição:** 
+  > Engineer highly specialized AI training data by applying deep domain expertise across fields like finance, healthcare, and STEM to develop precise, real-world knowledge frameworks. Drive impactful workflows, process optimization, and confidential decision-making to advance frontier AI models and agent evaluations.
 
 
 ### <a href="https://jobs.micro1.ai/post/a20e5f8d-ddb2-40af-b257-55110600dac1?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Management Specialist</a>
@@ -939,6 +906,20 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
 - **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/e4559d84-181c-434d-9346-77b9bd432cfa?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
 - **📝 Descrição:** 
   > The Commercial Real Estate Manager will leverage deep expertise in property valuation, feasibility studies, and market analysis to optimize portfolio performance and drive strategic decisions. This role demands a detail-oriented professional with strong regulatory knowledge, adaptability to technology-driven projects, and a collaborative approach to remote work.
+
+
+### <a href="https://jobs.micro1.ai/post/0b77cea9-1a1e-47d6-846f-a2ae0aabec22?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Retail Operations Manager</a>
+- **💸 Pagamento:** $40 - $65/hour
+- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/0b77cea9-1a1e-47d6-846f-a2ae0aabec22?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
+- **📝 Descrição:** 
+  > The Retail Operations Manager will oversee merchandising, inventory, and omnichannel strategies while leveraging data-driven insights to optimize pricing, demand forecasting, and process efficiency. This role requires strong leadership in team collaboration, trend analysis, and AI-enhanced decision-making to drive retail performance and innovation.
+
+
+### <a href="https://jobs.micro1.ai/post/554c091a-db37-409a-b02d-afa83046eec4?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Supply Chain Manager</a>
+- **💸 Pagamento:** $40 - $65/hour
+- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/554c091a-db37-409a-b02d-afa83046eec4?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
+- **📝 Descrição:** 
+  > The Supply Chain Manager will lead global procurement, logistics optimization, and vendor negotiations to drive efficiency and cost savings for micro1’s AI data operations. This role requires strategic analytical thinking and strong communication to collaborate with remote teams and ensure seamless supply chain execution.
 
 
 ### <a href="https://jobs.micro1.ai/post/b4746f09-0bbe-45be-a7de-c5280e733d9e?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Marketing Documents Specialist (Japanese)</a>
@@ -1396,6 +1377,13 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
   > This role demands a seasoned Child & Online Safety Expert to design and enforce robust policies addressing CSAM-adjacent risks, teen safety, and crisis intervention while ensuring AI systems uphold the highest ethical and protective standards. Leveraging deep expertise in child welfare and digital safeguarding, you’ll shape AI training data and evaluations to prioritize safety, mental health, and responsible innovation at the forefront of frontier model development.
 
 
+### <a href="https://jobs.micro1.ai/post/39ebc9e2-ffef-4d6c-9ed8-61a0034a6847?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Biosecurity & Synthetic Biology Expert</a>
+- **💸 Pagamento:** $50 - $90/hour
+- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/39ebc9e2-ffef-4d6c-9ed8-61a0034a6847?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
+- **📝 Descrição:** 
+  > This role demands a seasoned Biosecurity & Synthetic Biology Expert to mitigate biological risks, ensure lab safety, and model public-health threats while shaping AI-driven solutions that advance biosecurity and synthetic biology innovation. Leveraging deep domain expertise, you will help refine AI systems by translating real-world biosecurity challenges into high-impact training data and evaluations for cutting-edge models.
+
+
 ### <a href="https://jobs.micro1.ai/post/a6ec1f07-7c58-40c4-9013-e1e72a486bd3?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Financial Services Expert</a>
 - **💸 Pagamento:** $80 - $110/hour
 - **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/a6ec1f07-7c58-40c4-9013-e1e72a486bd3?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
@@ -1597,6 +1585,13 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
 - **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/be1242bf-1a4b-4a1c-b943-cbdaaef37210?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
 - **📝 Descrição:** 
   > This Electrical Engineer role demands deep expertise in analog and digital circuit design, RF systems, power electronics, and IC development, with a proven ability to create high-impact educational content and technical assessments. As part of an innovative AI data lab, you’ll collaborate remotely to shape cutting-edge AI training while leveraging strong technical writing and communication skills to drive precision in engineering solutions.
+
+
+### <a href="https://jobs.micro1.ai/post/45ec3271-a485-446c-965e-edba13f09655?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Logistics & Supply Chain Management Specialist</a>
+- **💸 Pagamento:** $40 - $50/hour
+- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/45ec3271-a485-446c-965e-edba13f09655?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
+- **📝 Descrição:** 
+  > This **Logistics & Supply Chain Management Specialist** role drives operational excellence by optimizing end-to-end supply chain processes, from inventory coordination and packing list accuracy to freight logistics and compliance documentation. Leveraging deep expertise in global trade and efficiency strategies, the position ensures seamless execution while contributing real-world insights to advance AI-driven solutions in logistics innovation.
 
 
 ### <a href="https://jobs.micro1.ai/post/d9a58aa1-746f-4b43-97b7-ac3136104854?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Business Document Expert (Excel, PowerPoint, Word)</a>
