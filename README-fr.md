@@ -159,6 +159,7 @@ Trouver le bon poste est difficile. Nous faisons le tri en récupérant les meil
   - [Logistics & Supply Chain Management Specialist](#logistics--supply-chain-management-specialist)
   - [Business Document Expert (Excel, PowerPoint, Word)](#business-document-expert-excel-powerpoint-word)
 - [Autres Rôles](#autres-rôles)
+  - [Open Source Contributor](#open-source-contributor)
   - [Spanish Language Expert](#spanish-language-expert)
   - [Spanish Voice Actor (Mexico)](#spanish-voice-actor-mexico)
   - [English Voice Coach](#english-voice-coach)
@@ -1189,6 +1190,13 @@ Trouver le bon poste est difficile. Nous faisons le tri en récupérant les meil
 [⬆️ Retour en haut](#-table-des-matières)
 
 ## Autres Rôles
+
+### <a href="https://jobs.micro1.ai/post/dcb37b06-8e05-434d-ac22-372a4c04cefc?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Open Source Contributor</a>
+- **💸 Rémunération:** $50 - $150/hour
+- **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/dcb37b06-8e05-434d-ac22-372a4c04cefc?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Cliquez ici pour postuler</a>
+- **📝 Description:** 
+  > Required skills: Required skills Python3 JAVA Rust 3+, Python3 JAVA Rust 3+, Python3, JAVA, Rust, 3+, $50-150/h. Python3 JAVA Rust Basics C++ Typescript GoLang About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 bi
+
 
 ### <a href="https://jobs.micro1.ai/post/1de4b51f-2fd0-47c6-8d50-73be3aa1c7e0?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Spanish Language Expert</a>
 - **💸 Rémunération:** $100
