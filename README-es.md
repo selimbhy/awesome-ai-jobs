@@ -124,9 +124,6 @@ Encontrar el trabajo adecuado es difícil. Hacemos el trabajo pesado recopilando
   - [Albanian Bilingual Expert](#albanian-bilingual-expert)
   - [Nepali Bilingual Expert](#nepali-bilingual-expert)
   - [Uzbek Bilingual Expert](#uzbek-bilingual-expert)
-  - [Marketing Expert](#marketing-expert)
-  - [Sales Specialist](#sales-specialist)
-  - [Operations Specialist](#operations-specialist)
   - [Legal Expert](#legal-expert)
   - [Finance Expert](#finance-expert)
   - [Commercial Real Estate Manager](#commercial-real-estate-manager)
@@ -163,6 +160,7 @@ Encontrar el trabajo adecuado es difícil. Hacemos el trabajo pesado recopilando
   - [Logistics & Supply Chain Management Specialist](#logistics--supply-chain-management-specialist)
   - [Business Document Expert (Excel, PowerPoint, Word)](#business-document-expert-excel-powerpoint-word)
 - [Otros Roles](#otros-roles)
+  - [Gravador(a) de Vídeos em Casa](#gravadora-de-vídeos-em-casa)
   - [English Speaking Generalist](#english-speaking-generalist)
   - [Fitness Expert](#fitness-expert)
   - [Hindi Audio Engineer Expert](#hindi-audio-engineer-expert)
@@ -207,8 +205,6 @@ Encontrar el trabajo adecuado es difícil. Hacemos el trabajo pesado recopilando
   - [Sanskrit Language Expert](#sanskrit-language-expert)
   - [Mandarin Language Expert](#mandarin-language-expert)
   - [English Specialist](#english-specialist)
-  - [Engineer (All Domains)](#engineer-all-domains)
-  - [Management Specialist](#management-specialist)
   - [Hebrew Language Expert](#hebrew-language-expert)
   - [Scriptwriter](#scriptwriter)
   - [Audio Engineer](#audio-engineer)
@@ -957,27 +953,6 @@ Encontrar el trabajo adecuado es difícil. Hacemos el trabajo pesado recopilando
   > About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to do meaningful work by applying their experti
 
 
-### <a href="https://jobs.micro1.ai/post/6bc959a6-fdd6-4b67-a263-3efd53485aea?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Marketing Expert</a>
-- **💸 Pago:** $20 - $45/hour
-- **🔗 Postularse:** <a href="https://jobs.micro1.ai/post/6bc959a6-fdd6-4b67-a263-3efd53485aea?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Haz clic aquí para postularte</a>
-- **📝 Descripción:** 
-  > Drive strategic marketing initiatives by leveraging expert communication, data-driven insights, and cross-functional collaboration to elevate brand presence and performance. Thrive in a dynamic, remote environment at the forefront of AI innovation, shaping impactful campaigns and operational excellence for a leading data lab.
-
-
-### <a href="https://jobs.micro1.ai/post/02da7b74-16d3-426c-933b-82a7f5058524?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Sales Specialist</a>
-- **💸 Pago:** $20 - $45/hour
-- **🔗 Postularse:** <a href="https://jobs.micro1.ai/post/02da7b74-16d3-426c-933b-82a7f5058524?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Haz clic aquí para postularte</a>
-- **📝 Descripción:** 
-  > Drive revenue growth and operational excellence as a Sales Specialist at micro1, leveraging analytical and problem-solving skills to optimize sales processes and deliver high-quality AI training data solutions. Thrive in a fast-paced startup environment, synthesizing expert insights across domains like finance, healthcare, and STEM to support frontier AI model development.
-
-
-### <a href="https://jobs.micro1.ai/post/f6043f02-4b58-4755-9c27-b7c56f925360?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Operations Specialist</a>
-- **💸 Pago:** $20 - $45/hour
-- **🔗 Postularse:** <a href="https://jobs.micro1.ai/post/f6043f02-4b58-4755-9c27-b7c56f925360?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Haz clic aquí para postularte</a>
-- **📝 Descripción:** 
-  > The Operations Specialist at micro1 will drive efficiency by synthesizing complex information, organizing critical data, and ensuring seamless workflows in a fast-paced AI data lab environment. This role demands exceptional communication, analytical precision, and adaptability to manage ambiguity while upholding confidentiality and operational excellence.
-
-
 ### <a href="https://jobs.micro1.ai/post/26ea747f-ec7c-44d2-b81f-f91a7b82e1e1?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Legal Expert</a>
 - **💸 Pago:** $40 - $110/hour
 - **🔗 Postularse:** <a href="https://jobs.micro1.ai/post/26ea747f-ec7c-44d2-b81f-f91a7b82e1e1?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Haz clic aquí para postularte</a>
@@ -1226,6 +1201,13 @@ Encontrar el trabajo adecuado es difícil. Hacemos el trabajo pesado recopilando
 [⬆️ Volver arriba](#-tabla-de-contenido)
 
 ## Otros Roles
+
+### <a href="https://jobs.micro1.ai/post/6a56a90b-6a8b-4f88-863e-378f334cb06d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Gravador(a) de Vídeos em Casa</a>
+- **💸 Pago:** $6 - $6/hour
+- **🔗 Postularse:** <a href="https://jobs.micro1.ai/post/6a56a90b-6a8b-4f88-863e-378f334cb06d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Haz clic aquí para postularte</a>
+- **📝 Descripción:** 
+  > Required skills: Captura de Video, Atenção a Detalhes, Taréficas Domésticas, $6-6/h. Captura de Video Atenção a Detalhes Taréficas Domésticas About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billi
+
 
 ### <a href="https://jobs.micro1.ai/post/b079dac2-1d38-4da3-a65f-fab372884f72?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">English Speaking Generalist</a>
 - **💸 Pago:** $20 - $30/hour
@@ -1535,20 +1517,6 @@ Encontrar el trabajo adecuado es difícil. Hacemos el trabajo pesado recopilando
   > The English Specialist will leverage advanced linguistics expertise to refine AI training data, ensuring models achieve human-like language comprehension and reasoning. This role drives the development of high-quality evaluations and feedback loops to enhance AI performance across diverse domains.
 
 
-### <a href="https://jobs.micro1.ai/post/720e5ac0-2807-477c-82d5-849d5950a1bd?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Engineer (All Domains)</a>
-- **💸 Pago:** $20 - $45/hour
-- **🔗 Postularse:** <a href="https://jobs.micro1.ai/post/720e5ac0-2807-477c-82d5-849d5950a1bd?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Haz clic aquí para postularte</a>
-- **📝 Descripción:** 
-  > Engineer highly specialized AI training data by applying deep domain expertise across fields like finance, healthcare, and STEM to develop precise, real-world knowledge frameworks. Drive impactful workflows, process optimization, and confidential decision-making to advance frontier AI models and agent evaluations.
-
-
-### <a href="https://jobs.micro1.ai/post/a20e5f8d-ddb2-40af-b257-55110600dac1?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Management Specialist</a>
-- **💸 Pago:** $20 - $45/hour
-- **🔗 Postularse:** <a href="https://jobs.micro1.ai/post/a20e5f8d-ddb2-40af-b257-55110600dac1?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Haz clic aquí para postularte</a>
-- **📝 Descripción:** 
-  > The Management Specialist will leverage business analysis and information synthesis to transform subject-matter expertise into high-quality AI training data and evaluations. This role demands exceptional written and verbal communication, attention to detail, and the ability to work independently to enhance AI learning systems.
-
-
 ### <a href="https://jobs.micro1.ai/post/0b6c0487-1f7d-4481-a731-e690879dabba?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Hebrew Language Expert</a>
 - **💸 Pago:** $20 - $33/hour
 - **🔗 Postularse:** <a href="https://jobs.micro1.ai/post/0b6c0487-1f7d-4481-a731-e690879dabba?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Haz clic aquí para postularte</a>
@@ -1703,9 +1671,9 @@ Encontrar el trabajo adecuado es difícil. Hacemos el trabajo pesado recopilando
   > The Privacy Annotation Specialist will meticulously review and annotate sensitive data to ensure compliance with privacy regulations while maintaining the highest standards of accuracy and confidentiality. This role leverages expertise in contract review, quality assurance, and eDiscovery to support AI training and evaluation initiatives at a leading data lab.
 
 
-### <a href="https://jobs.micro1.ai/post/cb1e3dc4-e94c-4802-bb1a-068869554633?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Transactional Attorney</a>
+### <a href="https://jobs.micro1.ai/post/93acd993-9130-4125-8e88-f115741beb36?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Transactional Attorney</a>
 - **💸 Pago:** $80 - $105/hour
-- **🔗 Postularse:** <a href="https://jobs.micro1.ai/post/cb1e3dc4-e94c-4802-bb1a-068869554633?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Haz clic aquí para postularte</a>
+- **🔗 Postularse:** <a href="https://jobs.micro1.ai/post/93acd993-9130-4125-8e88-f115741beb36?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Haz clic aquí para postularte</a>
 - **📝 Descripción:** 
   > Seeking a detail-oriented Transactional Attorney with in-house counsel experience to draft and negotiate technology contracts, driving high-stakes deals for a leading AI data lab. This role offers $80–105/hour to leverage legal expertise in shaping cutting-edge AI training and evaluation frameworks.
 
@@ -1752,16 +1720,16 @@ Encontrar el trabajo adecuado es difícil. Hacemos el trabajo pesado recopilando
   > This role seeks a Bambara Language Expert with advanced proficiency in linguistic analysis, editing, and translation to refine and elevate written communication for AI training and evaluation. As part of micro1’s elite AI data lab, you will leverage your expertise to shape high-quality datasets that enhance the reasoning and performance of cutting-edge AI systems.
 
 
-### <a href="https://jobs.micro1.ai/post/3d814399-9d2d-4076-b383-b4450b057c02?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Funds Attorney</a>
+### <a href="https://jobs.micro1.ai/post/2b12c28d-c34d-43f5-884f-149e35e601cf?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Funds Attorney</a>
 - **💸 Pago:** $80 - $105/hour
-- **🔗 Postularse:** <a href="https://jobs.micro1.ai/post/3d814399-9d2d-4076-b383-b4450b057c02?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Haz clic aquí para postularte</a>
+- **🔗 Postularse:** <a href="https://jobs.micro1.ai/post/2b12c28d-c34d-43f5-884f-149e35e601cf?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Haz clic aquí para postularte</a>
 - **📝 Descripción:** 
   > This **Funds Attorney** role offers the opportunity to leverage expertise in fund management, formation, and contract negotiations to shape high-stakes financial structures while collaborating with a cutting-edge AI lab. Join a mission-driven team at the forefront of AI innovation, where your legal acumen will directly enhance the precision and performance of next-generation AI systems.
 
 
-### <a href="https://jobs.micro1.ai/post/7ac4bdb4-d1b3-4a9b-8b1f-669142590800?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">M&A Attorney</a>
+### <a href="https://jobs.micro1.ai/post/733b66a8-8c1d-4d63-8fc4-1cf06da06102?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">M&A Attorney</a>
 - **💸 Pago:** $80 - $105/hour
-- **🔗 Postularse:** <a href="https://jobs.micro1.ai/post/7ac4bdb4-d1b3-4a9b-8b1f-669142590800?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Haz clic aquí para postularte</a>
+- **🔗 Postularse:** <a href="https://jobs.micro1.ai/post/733b66a8-8c1d-4d63-8fc4-1cf06da06102?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Haz clic aquí para postularte</a>
 - **📝 Descripción:** 
   > Seeking a seasoned M&A Attorney with 2+ years of experience drafting and negotiating APAs, SPAs, and complex contracts to drive high-stakes transactions. This role offers $80–105/hour to leverage legal expertise in shaping strategic deals within a cutting-edge AI data lab environment.
 
