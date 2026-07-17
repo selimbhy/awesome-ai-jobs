@@ -159,6 +159,12 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
   - [Logistics & Supply Chain Management Specialist](#logistics--supply-chain-management-specialist)
   - [Business Document Expert (Excel, PowerPoint, Word)](#business-document-expert-excel-powerpoint-word)
 - [Outros Cargos](#outros-cargos)
+  - [French language Expert](#french-language-expert)
+  - [Hindi Language Expert](#hindi-language-expert)
+  - [General Counsel](#general-counsel)
+  - [Contract Specialist](#contract-specialist)
+  - [M&A Corporate & Securities Attorney](#ma-corporate--securities-attorney)
+  - [Commercial Contracts Attorney — M&A Diligence](#commercial-contracts-attorney--ma-diligence)
   - [Open Source Contributor](#open-source-contributor)
   - [Spanish Language Expert](#spanish-language-expert)
   - [Spanish Voice Actor (Mexico)](#spanish-voice-actor-mexico)
@@ -169,8 +175,6 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
   - [Hindi Audio Engineer Expert](#hindi-audio-engineer-expert)
   - [German Language Expert](#german-language-expert)
   - [Health Care Specialist](#health-care-specialist)
-  - [Portuguese Language Expert (Portugal)](#portuguese-language-expert-portugal)
-  - [Marathi Audio transcription Expert](#marathi-audio-transcription-expert)
   - [Italian Language Expert](#italian-language-expert)
   - [Dutch Language Expert](#dutch-language-expert)
   - [Thai Language Expert](#thai-language-expert)
@@ -1191,6 +1195,48 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
 
 ## Outros Cargos
 
+### <a href="https://jobs.micro1.ai/post/002212f3-ea6c-4bb7-af83-86432afc6685?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">French language Expert</a>
+- **💸 Pagamento:** $10 - $25/hour
+- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/002212f3-ea6c-4bb7-af83-86432afc6685?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
+- **📝 Descrição:** 
+  > Required skills: Required skills Language proficiency Linguistic, Language proficiency Linguistic, Language proficiency, Linguistic, $10-25/h. Language proficiency Linguistic About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim
+
+
+### <a href="https://jobs.micro1.ai/post/07f8f410-5746-4fd0-8517-eb28333bd111?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Hindi Language Expert</a>
+- **💸 Pagamento:** $10 - $30/hour
+- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/07f8f410-5746-4fd0-8517-eb28333bd111?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
+- **📝 Descrição:** 
+  > Required skills: Language proficiency Linguistic Writing, Language proficiency, Linguistic, Writing, $10-30/h. Language proficiency Linguistic Writing About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion peo
+
+
+### <a href="https://jobs.micro1.ai/post/f70dbf96-7991-4b99-9a26-b5f2148a3d71?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">General Counsel</a>
+- **💸 Pagamento:** $100 - $200/hour
+- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/f70dbf96-7991-4b99-9a26-b5f2148a3d71?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
+- **📝 Descrição:** 
+  > Required skills: Playbook, Contract Negotiation, Contract Drafting, 1+, $100-200/h. Playbook Contract Negotiation Contract Drafting Contract Management About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to ena
+
+
+### <a href="https://jobs.micro1.ai/post/416f4a44-95ff-455f-ab01-fa318a30dda8?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Contract Specialist</a>
+- **💸 Pagamento:** $80 - $100/hour
+- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/416f4a44-95ff-455f-ab01-fa318a30dda8?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
+- **📝 Descrição:** 
+  > Required skills: contract drafting, commercial agreements, legal document review, 7+, $80-100/h. contract drafting commercial agreements legal document review attention to detail written communication verbal communication remote collaboration legal compliance industry best practices legal technology About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform.
+
+
+### <a href="https://jobs.micro1.ai/post/d7759fcc-cf6a-413c-abfe-ac55f83bf74a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">M&A Corporate & Securities Attorney</a>
+- **💸 Pagamento:** $80 - $100/hour
+- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/d7759fcc-cf6a-413c-abfe-ac55f83bf74a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
+- **📝 Descrição:** 
+  > Required skills: m&a transaction analysis, corporate governance, securities law, 9+, $80-100/h. m&a transaction analysis corporate governance securities law legal risk assessment due diligence virtual data rooms contract review legal writing analytical reasoning written communication ai-assisted legal tools professional judgment About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI syst
+
+
+### <a href="https://jobs.micro1.ai/post/a58e34d6-a1c6-4d25-aa24-18b1104f70a3?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Commercial Contracts Attorney — M&A Diligence</a>
+- **💸 Pagamento:** $90 - $100/hour
+- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/a58e34d6-a1c6-4d25-aa24-18b1104f70a3?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
+- **📝 Descrição:** 
+  > Required skills: commercial contract review, m&a diligence, legal risk assessment, 12+, $90-100/h. commercial contract review m&a diligence legal risk assessment contract drafting and negotiation written communication verbal communication contract annotation practical legal judgment familiarity with contractual provisions (change-of-control, assignment, termination, exclusivity, mfn, indemnification, renewal) attention to detail structured feedback delivery experience with virtual data rooms exposure to saas/technology agreements contract analytics tools explanation of complex legal concepts About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents
+
+
 ### <a href="https://jobs.micro1.ai/post/dcb37b06-8e05-434d-ac22-372a4c04cefc?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Open Source Contributor</a>
 - **💸 Pagamento:** $50 - $150/hour
 - **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/dcb37b06-8e05-434d-ac22-372a4c04cefc?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
@@ -1259,20 +1305,6 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
 - **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/3a0781d0-5c49-4a42-bf3f-ae9092382614?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
 - **📝 Descrição:** 
   > The Health Care Specialist role delivers expert patient care with clinical precision and compassionate communication, ensuring accurate documentation and compliance. This position leverages specialized healthcare knowledge to contribute to high-quality training data and evaluations for AI advancement.
-
-
-### <a href="https://jobs.micro1.ai/post/201fb92a-557c-4644-b0af-c683f8cbfedc?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Portuguese Language Expert (Portugal)</a>
-- **💸 Pagamento:** $15 - $29/hour
-- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/201fb92a-557c-4644-b0af-c683f8cbfedc?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
-- **📝 Descrição:** 
-  > This role seeks a native-level Portuguese language expert with exceptional voice acting and meticulous attention to detail to refine AI training data, ensuring accuracy in transcript correction, captioning, and linguistic precision for advanced AI models. As part of a cutting-edge AI data lab, you’ll leverage your expertise to shape the future of AI systems by delivering high-quality, domain-specific evaluations and feedback.
-
-
-### <a href="https://jobs.micro1.ai/post/0a48fc61-2103-4302-893e-dcf0eba3c7f7?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Marathi Audio transcription Expert</a>
-- **💸 Pagamento:** $10 - $30/hour
-- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/0a48fc61-2103-4302-893e-dcf0eba3c7f7?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
-- **📝 Descrição:** 
-  > This role seeks a meticulous **Marathi Audio Transcription Expert** with native-level proficiency and deep familiarity with AI transcription tools to deliver precise, confidential, and domain-specific transcriptions for cutting-edge AI training datasets. As part of a pioneering AI data lab, you’ll collaborate with cross-functional teams to refine speech data processing, ensuring high-quality outputs that advance frontier model development across industries like finance, healthcare, and engineering.
 
 
 ### <a href="https://jobs.micro1.ai/post/e9e41d38-6ad0-4fa5-9bb3-e0c2c0c5b902?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Italian Language Expert</a>
@@ -1534,9 +1566,9 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
   > The English Specialist will leverage advanced linguistics expertise to refine AI training data, ensuring models achieve human-like language comprehension and reasoning. This role drives the development of high-quality evaluations and feedback loops to enhance AI performance across diverse domains.
 
 
-### <a href="https://jobs.micro1.ai/post/0b6c0487-1f7d-4481-a731-e690879dabba?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Hebrew Language Expert</a>
+### <a href="https://jobs.micro1.ai/post/faddd094-856d-4640-919a-2cfd3fbc30e1?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Hebrew Language Expert</a>
 - **💸 Pagamento:** $20 - $33/hour
-- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/0b6c0487-1f7d-4481-a731-e690879dabba?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
+- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/faddd094-856d-4640-919a-2cfd3fbc30e1?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f&utm_source=referral&utm_medium=share&utm_campaign=job_referral" target="_blank">Clique aqui para se candidatar</a>
 - **📝 Descrição:** 
   > Seeking a fluent Hebrew language expert with exceptional voice acting and transcription skills to refine AI training data. This role involves precise captioning and transcript correction to enhance the accuracy and reasoning of cutting-edge AI systems.
 
