@@ -50,6 +50,7 @@ Trouver le bon poste est difficile. Nous faisons le tri en récupérant les meil
   - [AI Image & Video Evaluation Specialist (PT, MT and CT)](#ai-image--video-evaluation-specialist-pt-mt-and-ct)
   - [AI Trainer](#ai-trainer)
 - [Développement Backend](#développement-backend)
+  - [Junior Game Developer (Java / libGDX)](#junior-game-developer-java--libgdx)
   - [Java Developer](#java-developer)
   - [Rust Developer](#rust-developer)
   - [Python Developer](#python-developer)
@@ -62,7 +63,11 @@ Trouver le bon poste est difficile. Nous faisons le tri en récupérant les meil
   - [Frontend Software Engineer](#frontend-software-engineer)
 - [Développement Full Stack](#développement-full-stack)
   - [Senior Full Stack Engineer](#senior-full-stack-engineer)
+- [Infrastructure & Cloud](#infrastructure--cloud)
+  - [Senior Platform Engineer](#senior-platform-engineer)
 - [Ingénierie Logicielle Générale](#ingénierie-logicielle-générale)
+  - [Junior Software Engineer (Open 3D Engine)](#junior-software-engineer-open-3d-engine)
+  - [Junior Solar2D Game Developer](#junior-solar2d-game-developer)
   - [Computer Science Expert (PhD)](#computer-science-expert-phd)
   - [Game Developer](#game-developer)
   - [Computational Engineering Expert](#computational-engineering-expert)
@@ -78,13 +83,14 @@ Trouver le bon poste est difficile. Nous faisons le tri en récupérant les meil
   - [Competitive Coder Contest](#competitive-coder-contest)
   - [Competitive Programmer](#competitive-programmer)
 - [Produit & Design](#produit--design)
+  - [Junior FreeCAD Designer (3D Modeling)](#junior-freecad-designer-3d-modeling)
+  - [Junior PCB Design Engineer (DesignSpark)](#junior-pcb-design-engineer-designspark)
   - [Graphic Designer](#graphic-designer)
   - [UX/UI Designer](#uxui-designer)
 - [Science & Recherche](#science--recherche)
   - [Physics Expert (PhD)](#physics-expert-phd)
   - [Economics Expert (PhD)](#economics-expert-phd)
   - [Statistics Expert (PhD)](#statistics-expert-phd)
-  - [Senior Physics Adjudicator](#senior-physics-adjudicator)
   - [Computational Biology Expert](#computational-biology-expert)
   - [Computational Chemistry Expert](#computational-chemistry-expert)
   - [Computational Physics Expert](#computational-physics-expert)
@@ -127,7 +133,6 @@ Trouver le bon poste est difficile. Nous faisons le tri en récupérant les meil
   - [Albanian Bilingual Expert](#albanian-bilingual-expert)
   - [Nepali Bilingual Expert](#nepali-bilingual-expert)
   - [Uzbek Bilingual Expert](#uzbek-bilingual-expert)
-  - [Legal Expert](#legal-expert)
   - [Finance Expert](#finance-expert)
   - [Marketing Documents Specialist (Japanese)](#marketing-documents-specialist-japanese)
   - [Business Document Expert (Korean Speaker)](#business-document-expert-korean-speaker)
@@ -159,6 +164,22 @@ Trouver le bon poste est difficile. Nous faisons le tri en récupérant les meil
   - [Logistics & Supply Chain Management Specialist](#logistics--supply-chain-management-specialist)
   - [Business Document Expert (Excel, PowerPoint, Word)](#business-document-expert-excel-powerpoint-word)
 - [Autres Rôles](#autres-rôles)
+  - [Audio Production Expert](#audio-production-expert)
+  - [Vectorworks Expert](#vectorworks-expert)
+  - [LMMS Expert](#lmms-expert)
+  - [Geospatial Analysis Specialist (QGIS)](#geospatial-analysis-specialist-qgis)
+  - [FreeCAD Expert (BIM & IFC Focus)](#freecad-expert-bim--ifc-focus)
+  - [Electronic Engineer (Qucs-S expert)](#electronic-engineer-qucs-s-expert)
+  - [Electronic engineer (Ngspice expert)](#electronic-engineer-ngspice-expert)
+  - [Lightworks - Post-Production Specialist](#lightworks---post-production-specialist)
+  - [2D Artist (Krita)](#2d-artist-krita)
+  - [Junior Architect / CAD Engineer (Vectorworks)](#junior-architect--cad-engineer-vectorworks)
+  - [Junior Post-Production Expert (Lightworks)](#junior-post-production-expert-lightworks)
+  - [QGIS Expert](#qgis-expert)
+  - [Junior Electronics Simulation Engineer (NgSpice)](#junior-electronics-simulation-engineer-ngspice)
+  - [Macroeconomic Modeling Specialist (EViews)](#macroeconomic-modeling-specialist-eviews)
+  - [Creative Media Expert – After Effects](#creative-media-expert--after-effects)
+  - [Junior Electronic Engineer (Qucs-S)](#junior-electronic-engineer-qucs-s)
   - [Senior FreeCAD Mechanical Engineer](#senior-freecad-mechanical-engineer)
   - [Senior Front-End Engineer](#senior-front-end-engineer)
   - [French language Expert](#french-language-expert)
@@ -215,7 +236,6 @@ Trouver le bon poste est difficile. Nous faisons le tri en récupérant les meil
   - [Mandarin Language Expert](#mandarin-language-expert)
   - [English Specialist](#english-specialist)
   - [Hebrew Language Expert](#hebrew-language-expert)
-  - [Scriptwriter](#scriptwriter)
   - [CAD Expert](#cad-expert)
   - [Investment Banking Expert](#investment-banking-expert)
   - [Private Equity Expert](#private-equity-expert)
@@ -455,6 +475,13 @@ Trouver le bon poste est difficile. Nous faisons le tri en récupérant les meil
 
 ## Développement Backend
 
+### <a href="https://jobs.micro1.ai/post/03cd460b-81ae-46c1-9453-c92e57ee2c41?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Junior Game Developer (Java / libGDX)</a>
+- **💸 Rémunération:** $20 - $120/hour
+- **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/03cd460b-81ae-46c1-9453-c92e57ee2c41?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Cliquez ici pour postuler</a>
+- **📝 Description:** 
+  > Required skills: Required skills JAVA LibDXG, JAVA LibDXG, JAVA, LibDXG, $20-120/h. JAVA LibDXG About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to do meaningful work by applying t
+
+
 ### <a href="https://jobs.micro1.ai/post/b4d8b40e-974e-4113-a8f9-534dd4c3739c?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Java Developer</a>
 - **💸 Rémunération:** $30 - $90/hour
 - **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/b4d8b40e-974e-4113-a8f9-534dd4c3739c?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Cliquez ici pour postuler</a>
@@ -535,7 +562,32 @@ Trouver le bon poste est difficile. Nous faisons le tri en récupérant les meil
 
 [⬆️ Retour en haut](#-table-des-matières)
 
+## Infrastructure & Cloud
+
+### <a href="https://jobs.micro1.ai/post/b97d952d-98f7-4122-a005-4c89053731a4?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Senior Platform Engineer</a>
+- **💸 Rémunération:** $40 - $100/hour
+- **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/b97d952d-98f7-4122-a005-4c89053731a4?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Cliquez ici pour postuler</a>
+- **📝 Description:** 
+  > Required skills: Cloud Benchmark Task Authoring, Cloud and Distributed Systems Architecture, Production Infrastructure Ownership, $40-100/h. Cloud Benchmark Task Authoring Cloud and Distributed Systems Architecture Production Infrastructure Ownership About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through
+
+
+[⬆️ Retour en haut](#-table-des-matières)
+
 ## Ingénierie Logicielle Générale
+
+### <a href="https://jobs.micro1.ai/post/7f140a96-ab52-4c1b-9d3e-98f1fcbcb4af?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Junior Software Engineer (Open 3D Engine)</a>
+- **💸 Rémunération:** $20 - $120/hour
+- **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/7f140a96-ab52-4c1b-9d3e-98f1fcbcb4af?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Cliquez ici pour postuler</a>
+- **📝 Description:** 
+  > Required skills: Required skills Python O3DE C++ 2+, Python O3DE C++ 2+, Python, O3DE, C++, 2+, $20-120/h. Python O3DE C++ AWS Game Development About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to
+
+
+### <a href="https://jobs.micro1.ai/post/c5258977-1a95-428a-a2b5-870f970892e2?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Junior Solar2D Game Developer</a>
+- **💸 Rémunération:** $20 - $110/hour
+- **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/c5258977-1a95-428a-a2b5-870f970892e2?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Cliquez ici pour postuler</a>
+- **📝 Description:** 
+  > Required skills: Required skills 2d, 2d, 2d, $20-110/h. 2d About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to do meaningful work by applying their expe
+
 
 ### <a href="https://jobs.micro1.ai/post/47cf4a46-1d8e-4a38-a7f6-1ae51f23ba3a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Computer Science Expert (PhD)</a>
 - **💸 Rémunération:** $80 - $90/hour
@@ -639,6 +691,20 @@ Trouver le bon poste est difficile. Nous faisons le tri en récupérant les meil
 
 ## Produit & Design
 
+### <a href="https://jobs.micro1.ai/post/0efd7aae-4840-4f5f-a455-b6ab1d03cb57?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Junior FreeCAD Designer (3D Modeling)</a>
+- **💸 Rémunération:** $20 - $110/hour
+- **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/0efd7aae-4840-4f5f-a455-b6ab1d03cb57?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Cliquez ici pour postuler</a>
+- **📝 Description:** 
+  > Required skills: Required skills freeCad, freeCad, freeCad, $20-110/h. freeCad About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to do meaningful work by applying their
+
+
+### <a href="https://jobs.micro1.ai/post/8dbc5ba2-d0fa-44bb-8529-2183e881e457?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Junior PCB Design Engineer (DesignSpark)</a>
+- **💸 Rémunération:** $20 - $110/hour
+- **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/8dbc5ba2-d0fa-44bb-8529-2183e881e457?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Cliquez ici pour postuler</a>
+- **📝 Description:** 
+  > Required skills: Required skills designSpark, designSpark, designSpark, $20-110/h. designSpark About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to do meaningful work by applying t
+
+
 ### <a href="https://jobs.micro1.ai/post/c86f4664-7964-4077-b850-bb5d710b2eb9?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Graphic Designer</a>
 - **💸 Rémunération:** $15 - $30/hour
 - **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/c86f4664-7964-4077-b850-bb5d710b2eb9?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Cliquez ici pour postuler</a>
@@ -676,13 +742,6 @@ Trouver le bon poste est difficile. Nous faisons le tri en récupérant les meil
 - **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/78e55232-cb71-4f9c-8d60-b5d52678d7a8?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Cliquez ici pour postuler</a>
 - **📝 Description:** 
   > Required skills: statistics PhD statistical approach 2+, statistics, PhD, statistical approach, 2+, $90-120/h. statistics PhD statistical approach advanced data analysis MySQL About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We ai
-
-
-### <a href="https://jobs.micro1.ai/post/9c5641a2-60eb-4cda-9bcb-747b807dc214?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Senior Physics Adjudicator</a>
-- **💸 Rémunération:** $80 - $110/hour
-- **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/9c5641a2-60eb-4cda-9bcb-747b807dc214?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Cliquez ici pour postuler</a>
-- **📝 Description:** 
-  > Required skills: Recognized Subject Matter Authority, High-Level Scientific Judgment, Cross-Disciplinary Perspective, 1+, $80-110/h. Recognized Subject Matter Authority High-Level Scientific Judgment Cross-Disciplinary Perspective Leadership in Research Environments About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top
 
 
 ### <a href="https://jobs.micro1.ai/post/6d5c21e9-6e7e-41a5-8a15-bf273dad7c49?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Computational Biology Expert</a>
@@ -976,13 +1035,6 @@ Trouver le bon poste est difficile. Nous faisons le tri en récupérant les meil
   > About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to do meaningful work by applying their experti
 
 
-### <a href="https://jobs.micro1.ai/post/26ea747f-ec7c-44d2-b81f-f91a7b82e1e1?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Legal Expert</a>
-- **💸 Rémunération:** $40 - $110/hour
-- **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/26ea747f-ec7c-44d2-b81f-f91a7b82e1e1?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Cliquez ici pour postuler</a>
-- **📝 Description:** 
-  > Required skills: Commercial Contracts, Contract Redlining, Employment Law, 6+, $40-110/h. Commercial Contracts Contract Redlining Employment Law Structured Finance Priavte Equity Mergers and Acquisitions SaaS MSA Regulatory Compliance Data Privacy About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent t
-
-
 ### <a href="https://jobs.micro1.ai/post/9f748b5b-a4af-4123-aba0-008b02753283?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Finance Expert</a>
 - **💸 Rémunération:** $40 - $65/hour
 - **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/9f748b5b-a4af-4123-aba0-008b02753283?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Cliquez ici pour postuler</a>
@@ -1196,6 +1248,118 @@ Trouver le bon poste est difficile. Nous faisons le tri en récupérant les meil
 [⬆️ Retour en haut](#-table-des-matières)
 
 ## Autres Rôles
+
+### <a href="https://jobs.micro1.ai/post/aa498be8-7c47-4e03-a990-800cbfd9db1e?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Audio Production Expert</a>
+- **💸 Rémunération:** $19 - $65/hour
+- **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/aa498be8-7c47-4e03-a990-800cbfd9db1e?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Cliquez ici pour postuler</a>
+- **📝 Description:** 
+  > Required skills: Required skills Ardour LMMS Audio Production, Ardour LMMS Audio Production, Ardour, LMMS, Audio Production, $19-65/h. Ardour LMMS Audio Production About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable
+
+
+### <a href="https://jobs.micro1.ai/post/0b0161ea-6f58-4123-b681-e633d8b79386?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Vectorworks Expert</a>
+- **💸 Rémunération:** $19 - $100/hour
+- **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/0b0161ea-6f58-4123-b681-e633d8b79386?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Cliquez ici pour postuler</a>
+- **📝 Description:** 
+  > Required skills: Required skills Vectorworks AutoCAD BIM, Vectorworks AutoCAD BIM, Vectorworks, AutoCAD, BIM, $19-100/h. Vectorworks AutoCAD BIM About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to
+
+
+### <a href="https://jobs.micro1.ai/post/17e205e2-b5bc-4ecf-a7a3-90a0e7c68b52?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">LMMS Expert</a>
+- **💸 Rémunération:** $40 - $100/hour
+- **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/17e205e2-b5bc-4ecf-a7a3-90a0e7c68b52?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Cliquez ici pour postuler</a>
+- **📝 Description:** 
+  > Required skills: Required skills LMMS Sound Design Sound Mixing 2+, LMMS Sound Design Sound Mixing 2+, LMMS, Sound Design, Sound Mixing, 2+, $40-100/h. LMMS Sound Design Sound Mixing Audio Engineer Audio Editing About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality
+
+
+### <a href="https://jobs.micro1.ai/post/c63af432-8df4-4136-b8d6-19e7383d681b?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Geospatial Analysis Specialist (QGIS)</a>
+- **💸 Rémunération:** $30 - $80/hour
+- **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/c63af432-8df4-4136-b8d6-19e7383d681b?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Cliquez ici pour postuler</a>
+- **📝 Description:** 
+  > Required skills: Required skills QGIS, QGIS, QGIS, $30-80/h. QGIS About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to do meaningful work by applying their ex
+
+
+### <a href="https://jobs.micro1.ai/post/3f6c4340-02f4-48d2-af74-374ab1bfddcc?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">FreeCAD Expert (BIM & IFC Focus)</a>
+- **💸 Rémunération:** $30 - $120/hour
+- **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/3f6c4340-02f4-48d2-af74-374ab1bfddcc?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Cliquez ici pour postuler</a>
+- **📝 Description:** 
+  > Required skills: Required skills FreeCAD AutoCAD BIM 3+, FreeCAD AutoCAD BIM 3+, FreeCAD, AutoCAD, BIM, 3+, $30-120/h. FreeCAD AutoCAD BIM IFC 3D CAD CAM About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion
+
+
+### <a href="https://jobs.micro1.ai/post/3fc491d1-2881-4105-834f-8796c1f0738d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Electronic Engineer (Qucs-S expert)</a>
+- **💸 Rémunération:** $50 - $120/hour
+- **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/3fc491d1-2881-4105-834f-8796c1f0738d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Cliquez ici pour postuler</a>
+- **📝 Description:** 
+  > Required skills: Required skills Qucs-S, Qucs-S, Qucs-S, $50-120/h. Qucs-S About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to do meaningful work by applying their
+
+
+### <a href="https://jobs.micro1.ai/post/88cd3ad8-5961-4c9a-9666-2742f345fde4?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Electronic engineer (Ngspice expert)</a>
+- **💸 Rémunération:** $50 - $120/hour
+- **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/88cd3ad8-5961-4c9a-9666-2742f345fde4?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Cliquez ici pour postuler</a>
+- **📝 Description:** 
+  > Required skills: Required skills Ngspice, Ngspice, Ngspice, $50-120/h. Ngspice About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to do meaningful work by applying their
+
+
+### <a href="https://jobs.micro1.ai/post/4b8ae034-6921-40d5-a8e0-8c3b74d91f32?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Lightworks - Post-Production Specialist</a>
+- **💸 Rémunération:** $50 - $100/hour
+- **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/4b8ae034-6921-40d5-a8e0-8c3b74d91f32?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Cliquez ici pour postuler</a>
+- **📝 Description:** 
+  > Required skills: Lightworks Video Production Video Edition, Lightworks, Video Production, Video Edition, $50-100/h. Lightworks Video Production Video Edition About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 bill
+
+
+### <a href="https://jobs.micro1.ai/post/118febb1-1e20-4ba1-8629-31374745c065?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">2D Artist (Krita)</a>
+- **💸 Rémunération:** $20 - $70/hour
+- **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/118febb1-1e20-4ba1-8629-31374745c065?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Cliquez ici pour postuler</a>
+- **📝 Description:** 
+  > Required skills: Required skills Krita Illustration Graphic Design, Krita Illustration Graphic Design, Krita, Illustration, Graphic Design, $20-70/h. Krita Illustration Graphic Design About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scal
+
+
+### <a href="https://jobs.micro1.ai/post/a2cb8365-6eed-4fa1-9e30-f01c8cab7d50?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Junior Architect / CAD Engineer (Vectorworks)</a>
+- **💸 Rémunération:** $20 - $100/hour
+- **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/a2cb8365-6eed-4fa1-9e30-f01c8cab7d50?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Cliquez ici pour postuler</a>
+- **📝 Description:** 
+  > Required skills: Required skills Vectorworks CAD Architecture 2+, Vectorworks CAD Architecture 2+, Vectorworks, CAD, Architecture, 2+, $20-100/h. Vectorworks CAD Architecture Design BIM About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at sc
+
+
+### <a href="https://jobs.micro1.ai/post/71ef9bd1-53e5-457f-9e8e-aab9280d40af?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Junior Post-Production Expert (Lightworks)</a>
+- **💸 Rémunération:** $50 - $100/hour
+- **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/71ef9bd1-53e5-457f-9e8e-aab9280d40af?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Cliquez ici pour postuler</a>
+- **📝 Description:** 
+  > Required skills: Lightworks Video Production Video Edition 1+, Lightworks, Video Production, Video Edition, 1+, $50-100/h. Lightworks Video Production Video Edition composition About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We a
+
+
+### <a href="https://jobs.micro1.ai/post/5f4c4837-3d6c-4fb9-be37-7701002ed75d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">QGIS Expert</a>
+- **💸 Rémunération:** $20 - $70/hour
+- **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/5f4c4837-3d6c-4fb9-be37-7701002ed75d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Cliquez ici pour postuler</a>
+- **📝 Description:** 
+  > Required skills: Required skills QGIS Geography Mapping, QGIS Geography Mapping, QGIS, Geography, Mapping, $20-70/h. QGIS Geography Mapping About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to do m
+
+
+### <a href="https://jobs.micro1.ai/post/e2ef9eca-d9f9-4080-8e4c-63d8fca6689a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Junior Electronics Simulation Engineer (NgSpice)</a>
+- **💸 Rémunération:** $20 - $110/hour
+- **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/e2ef9eca-d9f9-4080-8e4c-63d8fca6689a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Cliquez ici pour postuler</a>
+- **📝 Description:** 
+  > Required skills: Required skills NgSpice, NgSpice, NgSpice, $20-110/h. NgSpice About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to do meaningful work by applying their
+
+
+### <a href="https://jobs.micro1.ai/post/645af44d-8428-4676-ac93-92ed0cc7c576?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Macroeconomic Modeling Specialist (EViews)</a>
+- **💸 Rémunération:** $35 - $100/hour
+- **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/645af44d-8428-4676-ac93-92ed0cc7c576?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Cliquez ici pour postuler</a>
+- **📝 Description:** 
+  > Required skills: Required skills EViews Macroeconomics, EViews Macroeconomics, EViews, Macroeconomics, $35-100/h. EViews Macroeconomics About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to do meani
+
+
+### <a href="https://jobs.micro1.ai/post/d95f0641-56c4-4aa2-b742-dd156c065e2e?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Creative Media Expert – After Effects</a>
+- **💸 Rémunération:** $20 - $70/hour
+- **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/d95f0641-56c4-4aa2-b742-dd156c065e2e?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Cliquez ici pour postuler</a>
+- **📝 Description:** 
+  > Required skills: adobe after affects, motion graphics, visual effects & composing, 10+, $20-70/h. adobe after affects motion graphics visual effects & composing creative quality review motion design critique technical documentation witten communication attention to detail analytical thinking remote collaboration workflow automation AI content evaluation creative QA & review processes About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, ev
+
+
+### <a href="https://jobs.micro1.ai/post/b8d8158a-848a-442f-bacb-7db41c60075a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Junior Electronic Engineer (Qucs-S)</a>
+- **💸 Rémunération:** $50 - $120/hour
+- **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/b8d8158a-848a-442f-bacb-7db41c60075a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Cliquez ici pour postuler</a>
+- **📝 Description:** 
+  > Required skills: Required skills Qucs-S, Qucs-S, Qucs-S, $50-120/h. Qucs-S About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to do meaningful work by applying their
+
 
 ### <a href="https://jobs.micro1.ai/post/df0e457b-d6d5-4e99-8736-da2adb825700?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Senior FreeCAD Mechanical Engineer</a>
 - **💸 Rémunération:** $30 - $100/hour
@@ -1587,13 +1751,6 @@ Trouver le bon poste est difficile. Nous faisons le tri en récupérant les meil
 - **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/faddd094-856d-4640-919a-2cfd3fbc30e1?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Cliquez ici pour postuler</a>
 - **📝 Description:** 
   > Required skills: Hebrew Voice Acting Attention to Detail 2+, Hebrew, Voice Acting, Attention to Detail, 2+, $20-33/h. Hebrew Voice Acting Attention to Detail Transcript Correction Captioning About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions
-
-
-### <a href="https://jobs.micro1.ai/post/8d6e3d41-fa39-49fd-bb5c-e503e12faa34?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Scriptwriter</a>
-- **💸 Rémunération:** $20 - $70/hour
-- **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/8d6e3d41-fa39-49fd-bb5c-e503e12faa34?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Cliquez ici pour postuler</a>
-- **📝 Description:** 
-  > Required skills: scriptwriting storytelling research 2+, scriptwriting, storytelling, research, 2+, $20-70/h. scriptwriting storytelling research written-communication adaptability About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale.
 
 
 ### <a href="https://jobs.micro1.ai/post/de7f6fee-787d-485c-9d59-20393d1fcf66?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">CAD Expert</a>
