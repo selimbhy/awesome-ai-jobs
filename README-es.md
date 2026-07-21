@@ -22,6 +22,8 @@ Encontrar el trabajo adecuado es difícil. Hacemos el trabajo pesado recopilando
 
 ### 📑 Tabla de Contenido
 - [IA y Machine Learning](#ia-y-machine-learning)
+  - [Human Data Manager](#human-data-manager)
+  - [Human Data Manager, New Grad](#human-data-manager-new-grad)
   - [Computer Vision Data Annotation Specialist](#computer-vision-data-annotation-specialist)
   - [CAD Data Generation & Validation Specialist (FreeCAD)](#cad-data-generation--validation-specialist-freecad)
   - [Data Annotator - Video Content](#data-annotator---video-content)
@@ -87,9 +89,9 @@ Encontrar el trabajo adecuado es difícil. Hacemos el trabajo pesado recopilando
   - [Manufacturing Design Engineer](#manufacturing-design-engineer)
   - [Junior FreeCAD Designer (3D Modeling)](#junior-freecad-designer-3d-modeling)
   - [Junior PCB Design Engineer (DesignSpark)](#junior-pcb-design-engineer-designspark)
-  - [Graphic Designer](#graphic-designer)
-  - [UX/UI Designer](#uxui-designer)
 - [Ciencia e Investigación](#ciencia-e-investigación)
+  - [Molecular Biology Expert](#molecular-biology-expert)
+  - [Medicinal Chemistry Expert](#medicinal-chemistry-expert)
   - [Physics Expert (PhD)](#physics-expert-phd)
   - [Economics Expert (PhD)](#economics-expert-phd)
   - [Statistics Expert (PhD)](#statistics-expert-phd)
@@ -166,6 +168,15 @@ Encontrar el trabajo adecuado es difícil. Hacemos el trabajo pesado recopilando
   - [Logistics & Supply Chain Management Specialist](#logistics--supply-chain-management-specialist)
   - [Business Document Expert (Excel, PowerPoint, Word)](#business-document-expert-excel-powerpoint-word)
 - [Otros Roles](#otros-roles)
+  - [Swedish Language Expert (US/Canada Based)](#swedish-language-expert-uscanada-based)
+  - [Hebrew Language Expert (US/ Canada Based)](#hebrew-language-expert-us-canada-based)
+  - [Hindi Language Expert (US/Canada Based)](#hindi-language-expert-uscanada-based)
+  - [Biochemistry Expert](#biochemistry-expert)
+  - [Neuroscience Expert](#neuroscience-expert)
+  - [Inmunology Expert](#inmunology-expert)
+  - [Pharmacology Expert](#pharmacology-expert)
+  - [Corporate Lawyer](#corporate-lawyer)
+  - [Senior Technical Architect](#senior-technical-architect)
   - [Audio Production Expert](#audio-production-expert)
   - [Vectorworks Expert](#vectorworks-expert)
   - [LMMS Expert](#lmms-expert)
@@ -183,7 +194,6 @@ Encontrar el trabajo adecuado es difícil. Hacemos el trabajo pesado recopilando
   - [Creative Media Expert – After Effects](#creative-media-expert--after-effects)
   - [Junior Electronic Engineer (Qucs-S)](#junior-electronic-engineer-qucs-s)
   - [Senior FreeCAD Mechanical Engineer](#senior-freecad-mechanical-engineer)
-  - [Senior Front-End Engineer](#senior-front-end-engineer)
   - [French language Expert](#french-language-expert)
   - [Hindi Language Expert](#hindi-language-expert)
   - [Gravador(a) de Vídeos em Casa](#gravadora-de-vídeos-em-casa)
@@ -281,6 +291,20 @@ Encontrar el trabajo adecuado es difícil. Hacemos el trabajo pesado recopilando
 
 
 ## IA y Machine Learning
+
+### <a href="https://jobs.micro1.ai/post/6d465d20-6e27-4fca-9566-b0f15940003a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Human Data Manager</a>
+- **💸 Pago:** $40 - $60/hour
+- **🔗 Postularse:** <a href="https://jobs.micro1.ai/post/6d465d20-6e27-4fca-9566-b0f15940003a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Haz clic aquí para postularte</a>
+- **📝 Descripción:** 
+  > Required skills: Project Management, Data Operations, Quality Analysis, 1+, $40-60/h. Project Management Data Operations Quality Analysis Human Data About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1
+
+
+### <a href="https://jobs.micro1.ai/post/a69b982c-badd-4d71-aafd-0a31ff7efbda?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Human Data Manager, New Grad</a>
+- **💸 Pago:** $500
+- **🔗 Postularse:** <a href="https://jobs.micro1.ai/post/a69b982c-badd-4d71-aafd-0a31ff7efbda?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Haz clic aquí para postularte</a>
+- **📝 Descripción:** 
+  > Required skills: Project Management, Data Operations, Quality Analyst, 1+. Project Management Data Operations Quality Analyst Human Data About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1
+
 
 ### <a href="https://jobs.micro1.ai/post/9b9ff061-8997-4c86-87df-c8c49caed5f2?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Computer Vision Data Annotation Specialist</a>
 - **💸 Pago:** $21 - $70/hour
@@ -719,23 +743,23 @@ Encontrar el trabajo adecuado es difícil. Hacemos el trabajo pesado recopilando
   > Required skills: Required skills designSpark, designSpark, designSpark, $20-110/h. designSpark About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to do meaningful work by applying t
 
 
-### <a href="https://jobs.micro1.ai/post/c86f4664-7964-4077-b850-bb5d710b2eb9?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Graphic Designer</a>
-- **💸 Pago:** $15 - $30/hour
-- **🔗 Postularse:** <a href="https://jobs.micro1.ai/post/c86f4664-7964-4077-b850-bb5d710b2eb9?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Haz clic aquí para postularte</a>
-- **📝 Descripción:** 
-  > Required skills: Required skills Figma UX/UI, Figma UX/UI, Figma, UX/UI, $15-30/h. Figma UX/UI About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to do meaningful work by applying t
-
-
-### <a href="https://jobs.micro1.ai/post/e878f562-71d9-4e8d-b7b2-ce7ff5c091f3?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">UX/UI Designer</a>
-- **💸 Pago:** $25 - $50/hour
-- **🔗 Postularse:** <a href="https://jobs.micro1.ai/post/e878f562-71d9-4e8d-b7b2-ce7ff5c091f3?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Haz clic aquí para postularte</a>
-- **📝 Descripción:** 
-  > Required skills: UX/UI Design Figma Adobe Analytics, UX/UI Design, Figma, Adobe Analytics, $25-50/h. UX/UI Design Figma Adobe Analytics About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to do meani
-
-
 [⬆️ Volver arriba](#-tabla-de-contenido)
 
 ## Ciencia e Investigación
+
+### <a href="https://jobs.micro1.ai/post/3814ff86-439e-4956-bfa4-dfe4c7353450?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Molecular Biology Expert</a>
+- **💸 Pago:** $60 - $80/hour
+- **🔗 Postularse:** <a href="https://jobs.micro1.ai/post/3814ff86-439e-4956-bfa4-dfe4c7353450?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Haz clic aquí para postularte</a>
+- **📝 Descripción:** 
+  > Required skills: Required skills molecular biology, molecular biology, molecular biology, $60-80/h. molecular biology About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to do meaningful work by appl
+
+
+### <a href="https://jobs.micro1.ai/post/cd9e9f19-34e0-44d1-af8f-084909ef23d4?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Medicinal Chemistry Expert</a>
+- **💸 Pago:** $60 - $80/hour
+- **🔗 Postularse:** <a href="https://jobs.micro1.ai/post/cd9e9f19-34e0-44d1-af8f-084909ef23d4?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Haz clic aquí para postularte</a>
+- **📝 Descripción:** 
+  > Required skills: Required skills medicinal chemistry, medicinal chemistry, medicinal chemistry, $60-80/h. medicinal chemistry About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to do meaningful work
+
 
 ### <a href="https://jobs.micro1.ai/post/31ab7766-5edf-463a-a490-79290e5dcef6?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Physics Expert (PhD)</a>
 - **💸 Pago:** $80 - $90/hour
@@ -1263,6 +1287,69 @@ Encontrar el trabajo adecuado es difícil. Hacemos el trabajo pesado recopilando
 
 ## Otros Roles
 
+### <a href="https://jobs.micro1.ai/post/5a73bd51-adab-4902-b4ad-26299cd6d13d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Swedish Language Expert (US/Canada Based)</a>
+- **💸 Pago:** $10 - $30/hour
+- **🔗 Postularse:** <a href="https://jobs.micro1.ai/post/5a73bd51-adab-4902-b4ad-26299cd6d13d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Haz clic aquí para postularte</a>
+- **📝 Descripción:** 
+  > Required skills: Required skills Language proficiency Linguistic, Language proficiency Linguistic, Language proficiency, Linguistic, $10-30/h. Language proficiency Linguistic About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim
+
+
+### <a href="https://jobs.micro1.ai/post/2e43bf54-1af7-4eea-a72f-ac7f4568be93?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Hebrew Language Expert (US/ Canada Based)</a>
+- **💸 Pago:** $10 - $30/hour
+- **🔗 Postularse:** <a href="https://jobs.micro1.ai/post/2e43bf54-1af7-4eea-a72f-ac7f4568be93?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Haz clic aquí para postularte</a>
+- **📝 Descripción:** 
+  > Required skills: Language proficiency Linguistic Writing, Language proficiency, Linguistic, Writing, $10-30/h. Language proficiency Linguistic Writing About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion peo
+
+
+### <a href="https://jobs.micro1.ai/post/4fda49ed-5443-4b3b-b614-a7864f1afd07?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Hindi Language Expert (US/Canada Based)</a>
+- **💸 Pago:** $10 - $30/hour
+- **🔗 Postularse:** <a href="https://jobs.micro1.ai/post/4fda49ed-5443-4b3b-b614-a7864f1afd07?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Haz clic aquí para postularte</a>
+- **📝 Descripción:** 
+  > Required skills: Language proficiency Linguistic Writing, Language proficiency, Linguistic, Writing, $10-30/h. Language proficiency Linguistic Writing About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion peo
+
+
+### <a href="https://jobs.micro1.ai/post/9de2ca9e-8bbf-4ddf-adaa-927991d46396?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Biochemistry Expert</a>
+- **💸 Pago:** $60 - $80/hour
+- **🔗 Postularse:** <a href="https://jobs.micro1.ai/post/9de2ca9e-8bbf-4ddf-adaa-927991d46396?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Haz clic aquí para postularte</a>
+- **📝 Descripción:** 
+  > Required skills: Required skills biochemistry, biochemistry, biochemistry, $60-80/h. biochemistry About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to do meaningful work by applying
+
+
+### <a href="https://jobs.micro1.ai/post/8563b928-b4ad-44a5-b3a8-6166cbd45bcd?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Neuroscience Expert</a>
+- **💸 Pago:** $60 - $80/hour
+- **🔗 Postularse:** <a href="https://jobs.micro1.ai/post/8563b928-b4ad-44a5-b3a8-6166cbd45bcd?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Haz clic aquí para postularte</a>
+- **📝 Descripción:** 
+  > Required skills: Required skills neuroscience, neuroscience, neuroscience, $60-80/h. neuroscience About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to do meaningful work by applying
+
+
+### <a href="https://jobs.micro1.ai/post/cf1c0f4e-903a-4600-82b7-e5f49c891396?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Inmunology Expert</a>
+- **💸 Pago:** $60 - $80/hour
+- **🔗 Postularse:** <a href="https://jobs.micro1.ai/post/cf1c0f4e-903a-4600-82b7-e5f49c891396?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Haz clic aquí para postularte</a>
+- **📝 Descripción:** 
+  > Required skills: Required skills inmunology, inmunology, inmunology, $60-80/h. inmunology About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to do meaningful work by applying th
+
+
+### <a href="https://jobs.micro1.ai/post/8ee5ab2e-ec03-4259-b82f-1005e7006df3?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Pharmacology Expert</a>
+- **💸 Pago:** $60 - $80/hour
+- **🔗 Postularse:** <a href="https://jobs.micro1.ai/post/8ee5ab2e-ec03-4259-b82f-1005e7006df3?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Haz clic aquí para postularte</a>
+- **📝 Descripción:** 
+  > Required skills: Required skills pharmacology, pharmacology, pharmacology, $60-80/h. pharmacology About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to do meaningful work by applying
+
+
+### <a href="https://jobs.micro1.ai/post/d7f5df79-5f17-4b25-8b17-4ffa23a73b6c?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Corporate Lawyer</a>
+- **💸 Pago:** $90 - $150/hour
+- **🔗 Postularse:** <a href="https://jobs.micro1.ai/post/d7f5df79-5f17-4b25-8b17-4ffa23a73b6c?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Haz clic aquí para postularte</a>
+- **📝 Descripción:** 
+  > Required skills: corporate law, m&a (mergers and acquisitions), contract drafting and review, 7+, $90-150/h. corporate law m&a (mergers and acquisitions) contract drafting and review us regulatory compliance legal risk management legal research and analysis written and verbal communication translating complex legal concepts collaborative remote work legal document analysis About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, an
+
+
+### <a href="https://jobs.micro1.ai/post/cf633740-7783-442e-881b-bbad6912770b?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Senior Technical Architect</a>
+- **💸 Pago:** $40 - $100/hour
+- **🔗 Postularse:** <a href="https://jobs.micro1.ai/post/cf633740-7783-442e-881b-bbad6912770b?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Haz clic aquí para postularte</a>
+- **📝 Descripción:** 
+  > Required skills: Cloud Benchmark Task Authoring, Cloud and Distributed Systems Architecture, Production Infrastructure Ownership, $40-100/h. Cloud Benchmark Task Authoring Cloud and Distributed Systems Architecture Production Infrastructure Ownership About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through
+
+
 ### <a href="https://jobs.micro1.ai/post/aa498be8-7c47-4e03-a990-800cbfd9db1e?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Audio Production Expert</a>
 - **💸 Pago:** $19 - $65/hour
 - **🔗 Postularse:** <a href="https://jobs.micro1.ai/post/aa498be8-7c47-4e03-a990-800cbfd9db1e?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Haz clic aquí para postularte</a>
@@ -1380,13 +1467,6 @@ Encontrar el trabajo adecuado es difícil. Hacemos el trabajo pesado recopilando
 - **🔗 Postularse:** <a href="https://jobs.micro1.ai/post/df0e457b-d6d5-4e99-8736-da2adb825700?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Haz clic aquí para postularte</a>
 - **📝 Descripción:** 
   > Required skills: FreeCAD, Parametric CAD Modeling, Python Scripting, 7+, $30-100/h. FreeCAD Parametric CAD Modeling Python Scripting Mechanical Engineering GD&T Design for Manyfacturing (DFM) CAD Automation Assembly Design Technical Drawings Engineering QA About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and ve
-
-
-### <a href="https://jobs.micro1.ai/post/266ecb82-c7ca-48ad-970a-e450405733eb?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Senior Front-End Engineer</a>
-- **💸 Pago:** $70 - $100/hour
-- **🔗 Postularse:** <a href="https://jobs.micro1.ai/post/266ecb82-c7ca-48ad-970a-e450405733eb?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Haz clic aquí para postularte</a>
-- **📝 Descripción:** 
-  > Required skills: Front-End Engineering UX/UI Design React 4+, Front-End Engineering, UX/UI Design, React, 4+, $70-100/h. Front-End Engineering UX/UI Design React React Native HTML CSS Shopify About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions
 
 
 ### <a href="https://jobs.micro1.ai/post/002212f3-ea6c-4bb7-af83-86432afc6685?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">French language Expert</a>
