@@ -22,6 +22,7 @@ Trouver le bon poste est difficile. Nous faisons le tri en récupérant les meil
 
 ### 📑 Table des Matières
 - [IA & Machine Learning](#ia--machine-learning)
+  - [Computer Vision Data Annotation Specialist](#computer-vision-data-annotation-specialist)
   - [CAD Data Generation & Validation Specialist (FreeCAD)](#cad-data-generation--validation-specialist-freecad)
   - [Data Annotator - Video Content](#data-annotator---video-content)
   - [LLM Red-Teamer](#llm-red-teamer)
@@ -83,6 +84,7 @@ Trouver le bon poste est difficile. Nous faisons le tri en récupérant les meil
   - [Competitive Coder Contest](#competitive-coder-contest)
   - [Competitive Programmer](#competitive-programmer)
 - [Produit & Design](#produit--design)
+  - [Manufacturing Design Engineer](#manufacturing-design-engineer)
   - [Junior FreeCAD Designer (3D Modeling)](#junior-freecad-designer-3d-modeling)
   - [Junior PCB Design Engineer (DesignSpark)](#junior-pcb-design-engineer-designspark)
   - [Graphic Designer](#graphic-designer)
@@ -198,8 +200,6 @@ Trouver le bon poste est difficile. Nous faisons le tri en récupérant les meil
   - [M&A Corporate & Securities Attorney](#ma-corporate--securities-attorney)
   - [Commercial Contracts Attorney — M&A Diligence](#commercial-contracts-attorney--ma-diligence)
   - [Health Care Specialist](#health-care-specialist)
-  - [Italian Language Expert](#italian-language-expert)
-  - [Dutch Language Expert](#dutch-language-expert)
   - [Thai Language Expert](#thai-language-expert)
   - [Norwegian Language Expert](#norwegian-language-expert)
   - [Turkish Language Expert](#turkish-language-expert)
@@ -281,6 +281,13 @@ Trouver le bon poste est difficile. Nous faisons le tri en récupérant les meil
 
 
 ## IA & Machine Learning
+
+### <a href="https://jobs.micro1.ai/post/9b9ff061-8997-4c86-87df-c8c49caed5f2?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Computer Vision Data Annotation Specialist</a>
+- **💸 Rémunération:** $21 - $70/hour
+- **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/9b9ff061-8997-4c86-87df-c8c49caed5f2?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Cliquez ici pour postuler</a>
+- **📝 Description:** 
+  > Required skills: image annotation, video annotation, annotation platforms, 6+, $21-70/h. image annotation video annotation annotation platforms computer vision hand pose estimation quality assurance spatial reasoning attention to detail english communication About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets
+
 
 ### <a href="https://jobs.micro1.ai/post/c73dff97-799e-4c68-b90b-7f6597a8b063?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">CAD Data Generation & Validation Specialist (FreeCAD)</a>
 - **💸 Rémunération:** $30 - $100/hour
@@ -690,6 +697,13 @@ Trouver le bon poste est difficile. Nous faisons le tri en récupérant les meil
 [⬆️ Retour en haut](#-table-des-matières)
 
 ## Produit & Design
+
+### <a href="https://jobs.micro1.ai/post/d5468ae6-b55c-4567-9982-159e16aae792?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Manufacturing Design Engineer</a>
+- **💸 Rémunération:** $30 - $100/hour
+- **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/d5468ae6-b55c-4567-9982-159e16aae792?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Cliquez ici pour postuler</a>
+- **📝 Description:** 
+  > Required skills: FreeCAD, Parametric CAD modeling, Mechanical Design, 6+, $30-100/h. FreeCAD Parametric CAD modeling Mechanical Design 3D CAD Modeling Assembly Design Engineering Drawings CAD Validation & Quality Assurance Technical Documentation Design for Manufacturing About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform ide
+
 
 ### <a href="https://jobs.micro1.ai/post/0efd7aae-4840-4f5f-a455-b6ab1d03cb57?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Junior FreeCAD Designer (3D Modeling)</a>
 - **💸 Rémunération:** $20 - $110/hour
@@ -1485,20 +1499,6 @@ Trouver le bon poste est difficile. Nous faisons le tri en récupérant les meil
 - **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/3a0781d0-5c49-4a42-bf3f-ae9092382614?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Cliquez ici pour postuler</a>
 - **📝 Description:** 
   > Required skills: Clinical Knowledge & Patient Care, Attention to Detail & Accuracy, Communication & Empathy, 1+, $15-25/h. Clinical Knowledge & Patient Care Attention to Detail & Accuracy Communication & Empathy Compliance & Documentation About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recrui
-
-
-### <a href="https://jobs.micro1.ai/post/e9e41d38-6ad0-4fa5-9bb3-e0c2c0c5b902?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Italian Language Expert</a>
-- **💸 Rémunération:** $15 - $30/hour
-- **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/e9e41d38-6ad0-4fa5-9bb3-e0c2c0c5b902?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Cliquez ici pour postuler</a>
-- **📝 Description:** 
-  > Required skills: Italian Voice Acting Transcription 2+, Italian, Voice Acting, Transcription, 2+, $15-30/h. Italian Voice Acting Transcription Captioning Attention to Detail About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim
-
-
-### <a href="https://jobs.micro1.ai/post/417682cd-ff2e-4ed6-99a2-1267d766677d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Dutch Language Expert</a>
-- **💸 Rémunération:** $15 - $30/hour
-- **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/417682cd-ff2e-4ed6-99a2-1267d766677d?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Cliquez ici pour postuler</a>
-- **📝 Description:** 
-  > Required skills: Required skills Dutch Voice Acting Captioning 2+, Dutch Voice Acting Captioning 2+, Dutch, Voice Acting, Captioning, 2+, $15-30/h. Dutch Voice Acting Captioning Transcription Attention to Detail About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality
 
 
 ### <a href="https://jobs.micro1.ai/post/e3ccd502-1383-42f3-8055-59e7f2debba5?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Thai Language Expert</a>
