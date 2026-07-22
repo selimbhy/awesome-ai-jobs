@@ -22,6 +22,7 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
 
 ### 📑 Índice
 - [IA e Machine Learning](#ia-e-machine-learning)
+  - [AI Agent Productivity Specialist](#ai-agent-productivity-specialist)
   - [Human Data Manager](#human-data-manager)
   - [Human Data Manager, New Grad](#human-data-manager-new-grad)
   - [Computer Vision Data Annotation Specialist](#computer-vision-data-annotation-specialist)
@@ -29,7 +30,7 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
   - [Data Annotator - Video Content](#data-annotator---video-content)
   - [LLM Red-Teamer](#llm-red-teamer)
   - [AI Evaluation Analyst](#ai-evaluation-analyst)
-  - [AI Productivity Specialist](#ai-productivity-specialist)
+  - [AI Workflow Specialist](#ai-workflow-specialist)
   - [Data-Video Generalist (US-based)](#data-video-generalist-us-based)
   - [Remote Household Data Specialist - Video Capture (PH)](#remote-household-data-specialist---video-capture-ph)
   - [Household Data Specialist - Video Capture (ARG)](#household-data-specialist---video-capture-arg)
@@ -293,6 +294,13 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
 
 ## IA e Machine Learning
 
+### <a href="https://jobs.micro1.ai/post/f72cd3c0-d218-4b5d-bfa1-0b135cc171dd?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">AI Agent Productivity Specialist</a>
+- **💸 Pagamento:** $30 - $90/hour
+- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/f72cd3c0-d218-4b5d-bfa1-0b135cc171dd?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Clique aqui para se candidatar</a>
+- **📝 Descrição:** 
+  > Required skills: Artificial Intelligence automation workflows 2+, Artificial Intelligence, automation, workflows, 2+, $30-90/h. Artificial Intelligence automation workflows analysis productivity About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributi
+
+
 ### <a href="https://jobs.micro1.ai/post/6d465d20-6e27-4fca-9566-b0f15940003a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Human Data Manager</a>
 - **💸 Pagamento:** $40 - $60/hour
 - **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/6d465d20-6e27-4fca-9566-b0f15940003a?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Clique aqui para se candidatar</a>
@@ -342,11 +350,11 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
   > Required skills: Working knowledge of frontier LLM behavior, Data Annotation, Written English clarity and structure, 2+, $20-30/h. Working knowledge of frontier LLM behavior Data Annotation Written English clarity and structure Spec fidelity at volume Self-direction to a detailed spec About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform iden
 
 
-### <a href="https://jobs.micro1.ai/post/f72cd3c0-d218-4b5d-bfa1-0b135cc171dd?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">AI Productivity Specialist</a>
+### <a href="https://jobs.micro1.ai/post/f54b62d3-7499-46ba-b14f-49d7cafe567b?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">AI Workflow Specialist</a>
 - **💸 Pagamento:** $30 - $90/hour
-- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/f72cd3c0-d218-4b5d-bfa1-0b135cc171dd?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Clique aqui para se candidatar</a>
+- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/f54b62d3-7499-46ba-b14f-49d7cafe567b?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Clique aqui para se candidatar</a>
 - **📝 Descrição:** 
-  > Required skills: Artificial Intelligence automation workflows 2+, Artificial Intelligence, automation, workflows, 2+, $30-90/h. Artificial Intelligence automation workflows analysis productivity About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributi
+  > Required skills: Artificial Intelligence Automation Workflows 6+, Artificial Intelligence, Automation, Workflows, 6+, $30-90/h. Artificial Intelligence Automation Workflows Integration Research Productivity Analysis Reasoning Optimization About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recrui
 
 
 ### <a href="https://jobs.micro1.ai/post/204600bf-1abe-4ab0-a474-cd2264999149?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Data-Video Generalist (US-based)</a>
@@ -677,9 +685,9 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
   > Required skills: technical writing system design algorithms 11+, technical writing, system design, algorithms, 11+, $20-40/h. technical writing system design algorithms distributed systems databases artificial intelligence data analysis problem-solving technical communication collaborative research editing and reviewing technical documents critical thinking providing feedback adaptability About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data,
 
 
-### <a href="https://jobs.micro1.ai/post/0505e8ef-fd14-495a-87fd-ecc38fcd7e6c?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Senior Software Engineer</a>
+### <a href="https://jobs.micro1.ai/post/bbdd6a50-7b4c-4217-8b61-55c57a613f05?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Senior Software Engineer</a>
 - **💸 Pagamento:** $50 - $70/hour
-- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/0505e8ef-fd14-495a-87fd-ecc38fcd7e6c?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Clique aqui para se candidatar</a>
+- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/bbdd6a50-7b4c-4217-8b61-55c57a613f05?referralCode=7af9281b-9e44-4bed-80b8-dffcb900dc6f" target="_blank">Clique aqui para se candidatar</a>
 - **📝 Descrição:** 
   > Required skills: Required skills Python3 JAVA Rust 7+, Python3 JAVA Rust 7+, Python3, JAVA, Rust, 7+, $50-70/h. Python3 JAVA Rust Algorithms Basics C++ Typescript bug fixing feature implementation codebase refactoring performance optimization About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI re
 
