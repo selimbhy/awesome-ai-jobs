@@ -72,7 +72,6 @@ Trouver le bon poste est difficile. Nous faisons le tri en récupérant les meil
   - [Junior Software Engineer (Open 3D Engine)](#junior-software-engineer-open-3d-engine)
   - [Junior Solar2D Game Developer](#junior-solar2d-game-developer)
   - [Computer Science Expert (PhD)](#computer-science-expert-phd)
-  - [Game Developer](#game-developer)
   - [Computational Engineering Expert](#computational-engineering-expert)
   - [Go Developer](#go-developer)
   - [Competitive Coder](#competitive-coder)
@@ -621,13 +620,6 @@ Trouver le bon poste est difficile. Nous faisons le tri en récupérant les meil
 - **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/47cf4a46-1d8e-4a38-a7f6-1ae51f23ba3a" target="_blank">Cliquez ici pour postuler</a>
 - **📝 Description:** 
   > Required skills: Required skills Computer Science PhD Python 1+, Computer Science PhD Python 1+, Computer Science, PhD, Python, 1+, $80-90/h. Computer Science PhD Python Data Science About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale
-
-
-### <a href="https://jobs.micro1.ai/post/55501f0b-8eb4-4079-bef3-fe0dc2621b8b" target="_blank">Game Developer</a>
-- **💸 Rémunération:** $20 - $60/hour
-- **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/55501f0b-8eb4-4079-bef3-fe0dc2621b8b" target="_blank">Cliquez ici pour postuler</a>
-- **📝 Description:** 
-  > Required skills: Required skills unreal Game Developer, unreal Game Developer, unreal Game Developer, $20-60/h. unreal Game Developer About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to do meaning
 
 
 ### <a href="https://jobs.micro1.ai/post/9e1c8d48-0e42-4996-a0ad-40ad7cedf1fc" target="_blank">Computational Engineering Expert</a>
@@ -1294,7 +1286,7 @@ Trouver le bon poste est difficile. Nous faisons le tri en récupérant les meil
 - **💸 Rémunération:** Competitive / DOE
 - **🔗 Postuler:** <a href="https://jobs.micro1.ai/post/19ddddef-9772-4e73-ac80-4bee2c71fb9d" target="_blank">Cliquez ici pour postuler</a>
 - **📝 Description:** 
-  > Required skills: BIM Coordination, Clash Detection, Blueprint & Construction Drawing Review, 6+. BIM Coordination Clash Detection Blueprint & Construction Drawing Review Construction Coordination Problem Solving Autodesk Revit Navisworks Technical Documentation Analytical Reasoning About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform iden
+  > BIM Coordination Clash Detection Blueprint & Construction Drawing Review Construction Coordination Problem Solving Autodesk Revit Navisworks Technical Documentation Analytical Reasoning About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform iden
 
 
 ### <a href="https://jobs.micro1.ai/post/9046c7aa-fa4a-48bc-b6f7-3109c8693533" target="_blank">Chinese Voice Coach</a>
