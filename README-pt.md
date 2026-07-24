@@ -22,6 +22,10 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
 
 ### 📑 Índice
 - [IA e Machine Learning](#ia-e-machine-learning)
+  - [Business Owner – Video Data Collection Partner](#business-owner--video-data-collection-partner)
+  - [Workflow Annotator — Finance & Data Analysis](#workflow-annotator--finance--data-analysis)
+  - [Remote Household Data Specialist - Video Capture (Vietnam)](#remote-household-data-specialist---video-capture-vietnam)
+  - [Remote Household Data Specialist - Video Capture (Japan)](#remote-household-data-specialist---video-capture-japan)
   - [Gameplay Data Capture Specialist](#gameplay-data-capture-specialist)
   - [AI Agent Productivity Specialist](#ai-agent-productivity-specialist)
   - [Human Data Manager](#human-data-manager)
@@ -69,6 +73,7 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
 - [Infraestrutura e Nuvem](#infraestrutura-e-nuvem)
   - [Senior Platform Engineer](#senior-platform-engineer)
 - [Engenharia de Software Geral](#engenharia-de-software-geral)
+  - [Workflow Annotator — Software Engineering](#workflow-annotator--software-engineering)
   - [Junior Software Engineer (Open 3D Engine)](#junior-software-engineer-open-3d-engine)
   - [Junior Solar2D Game Developer](#junior-solar2d-game-developer)
   - [Computer Science Expert (PhD)](#computer-science-expert-phd)
@@ -85,6 +90,7 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
   - [Competitive Coder Contest](#competitive-coder-contest)
   - [Competitive Programmer](#competitive-programmer)
 - [Produto e Design](#produto-e-design)
+  - [Workflow Annotator — Product Management & Marketing](#workflow-annotator--product-management--marketing)
   - [Manufacturing Design Engineer (FreeCAD)](#manufacturing-design-engineer-freecad)
   - [Junior PCB Design Engineer (DesignSpark)](#junior-pcb-design-engineer-designspark)
 - [Ciência e Pesquisa](#ciência-e-pesquisa)
@@ -166,6 +172,7 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
   - [Logistics & Supply Chain Management Specialist](#logistics--supply-chain-management-specialist)
   - [Business Document Expert (Excel, PowerPoint, Word)](#business-document-expert-excel-powerpoint-word)
 - [Outros Cargos](#outros-cargos)
+  - [InfoSec Expert](#infosec-expert)
   - [Corporate Attorney](#corporate-attorney)
   - [Private Equity & Investment Funds Attorney](#private-equity--investment-funds-attorney)
   - [At-Home Video Recorder](#at-home-video-recorder)
@@ -279,6 +286,34 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
 
 
 ## IA e Machine Learning
+
+### <a href="https://jobs.micro1.ai/post/9568fb36-57ab-4161-aff1-30dcb0669040" target="_blank">Business Owner – Video Data Collection Partner</a>
+- **💸 Pagamento:** $11 - $11/hour
+- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/9568fb36-57ab-4161-aff1-30dcb0669040" target="_blank">Clique aqui para se candidatar</a>
+- **📝 Descrição:** 
+  > Required skills: team-management, workplace-permission-compliance, employee-consent-management, 2+, $11-11/h. team-management workplace-permission-compliance employee-consent-management mobile-device-operation attention-to-detail About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enab
+
+
+### <a href="https://jobs.micro1.ai/post/f43bfa0c-b76d-409d-90e2-d6ef0a4af935" target="_blank">Workflow Annotator — Finance & Data Analysis</a>
+- **💸 Pagamento:** $14 - $36/hour
+- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/f43bfa0c-b76d-409d-90e2-d6ef0a4af935" target="_blank">Clique aqui para se candidatar</a>
+- **📝 Descrição:** 
+  > Required skills: Required skills finance annotation security, finance annotation security, finance, annotation, security, $14-36/h. finance annotation security About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 bi
+
+
+### <a href="https://jobs.micro1.ai/post/106a45e0-94c9-4dc3-8a60-a64adfd3c68f" target="_blank">Remote Household Data Specialist - Video Capture (Vietnam)</a>
+- **💸 Pagamento:** $15 - $30/hour
+- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/106a45e0-94c9-4dc3-8a60-a64adfd3c68f" target="_blank">Clique aqui para se candidatar</a>
+- **📝 Descrição:** 
+  > Required skills: UMI-grippers Video Capturing Attention to detail, UMI-grippers, Video Capturing, Attention to detail. UMI-grippers Video Capturing Attention to detail About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to ena
+
+
+### <a href="https://jobs.micro1.ai/post/faa2ffcb-d232-46b7-94c1-1f47c98e6c98" target="_blank">Remote Household Data Specialist - Video Capture (Japan)</a>
+- **💸 Pagamento:** $15 - $30/hour
+- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/faa2ffcb-d232-46b7-94c1-1f47c98e6c98" target="_blank">Clique aqui para se candidatar</a>
+- **📝 Descrição:** 
+  > Required skills: Attention to detail UMI Grippers Video Capturing, Attention to detail, UMI Grippers, Video Capturing. Attention to detail UMI Grippers Video Capturing About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to ena
+
 
 ### <a href="https://jobs.micro1.ai/post/3461d671-c918-45ab-94cf-d52ee9e2e4b5" target="_blank">Gameplay Data Capture Specialist</a>
 - **💸 Pagamento:** $10 - $18/hour
@@ -594,6 +629,13 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
 
 ## Engenharia de Software Geral
 
+### <a href="https://jobs.micro1.ai/post/b1eb2747-5af3-473a-8167-fe7052d314f7" target="_blank">Workflow Annotator — Software Engineering</a>
+- **💸 Pagamento:** $14 - $36/hour
+- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/b1eb2747-5af3-473a-8167-fe7052d314f7" target="_blank">Clique aqui para se candidatar</a>
+- **📝 Descrição:** 
+  > Required skills: Required skills engineering GitHub annotation, engineering GitHub annotation, engineering, GitHub, annotation, $14-36/h. engineering GitHub annotation About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to ena
+
+
 ### <a href="https://jobs.micro1.ai/post/7f140a96-ab52-4c1b-9d3e-98f1fcbcb4af" target="_blank">Junior Software Engineer (Open 3D Engine)</a>
 - **💸 Pagamento:** $20 - $120/hour
 - **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/7f140a96-ab52-4c1b-9d3e-98f1fcbcb4af" target="_blank">Clique aqui para se candidatar</a>
@@ -702,6 +744,13 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
 [⬆️ Voltar ao topo](#-ndice)
 
 ## Produto e Design
+
+### <a href="https://jobs.micro1.ai/post/26abb23a-cfa8-49dc-9d51-cdd55e0c5104" target="_blank">Workflow Annotator — Product Management & Marketing</a>
+- **💸 Pagamento:** $13 - $36/hour
+- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/26abb23a-cfa8-49dc-9d51-cdd55e0c5104" target="_blank">Clique aqui para se candidatar</a>
+- **📝 Descrição:** 
+  > Required skills: product management marketing annotation, product management, marketing, annotation, $13-36/h. product management marketing annotation About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion peo
+
 
 ### <a href="https://jobs.micro1.ai/post/d5468ae6-b55c-4567-9982-159e16aae792" target="_blank">Manufacturing Design Engineer (FreeCAD)</a>
 - **💸 Pagamento:** $40 - $100/hour
@@ -1260,6 +1309,13 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
 [⬆️ Voltar ao topo](#-ndice)
 
 ## Outros Cargos
+
+### <a href="https://jobs.micro1.ai/post/53eacc63-ab37-46ef-9758-1c1db8c0768a" target="_blank">InfoSec Expert</a>
+- **💸 Pagamento:** $60 - $100/hour
+- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/53eacc63-ab37-46ef-9758-1c1db8c0768a" target="_blank">Clique aqui para se candidatar</a>
+- **📝 Descrição:** 
+  > Required skills: cybersecurity pentesting red-teaming, cybersecurity, pentesting, red-teaming, $60-100/h. cybersecurity pentesting red-teaming About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to d
+
 
 ### <a href="https://jobs.micro1.ai/post/d7f5df79-5f17-4b25-8b17-4ffa23a73b6c" target="_blank">Corporate Attorney</a>
 - **💸 Pagamento:** $90 - $150/hour
