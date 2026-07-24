@@ -291,7 +291,7 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
 - **💸 Pagamento:** $11 - $11/hour
 - **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/9568fb36-57ab-4161-aff1-30dcb0669040" target="_blank">Clique aqui para se candidatar</a>
 - **📝 Descrição:** 
-  > Required skills: team-management, workplace-permission-compliance, employee-consent-management, 2+, $11-11/h. team-management workplace-permission-compliance employee-consent-management mobile-device-operation attention-to-detail About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enab
+  > team-management workplace-permission-compliance employee-consent-management mobile-device-operation attention-to-detail About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-
 
 
 ### <a href="https://jobs.micro1.ai/post/f43bfa0c-b76d-409d-90e2-d6ef0a4af935" target="_blank">Workflow Annotator — Finance & Data Analysis</a>
