@@ -22,6 +22,7 @@ Die richtige Rolle zu finden ist schwer. Wir übernehmen die harte Arbeit für d
 
 ### 📑 Inhaltsverzeichnis
 - [KI & Machine Learning](#ki--machine-learning)
+  - [Gameplay Data Capture Specialist](#gameplay-data-capture-specialist)
   - [AI Agent Productivity Specialist](#ai-agent-productivity-specialist)
   - [Human Data Manager](#human-data-manager)
   - [Human Data Manager, New Grad](#human-data-manager-new-grad)
@@ -53,7 +54,6 @@ Die richtige Rolle zu finden ist schwer. Wir übernehmen die harte Arbeit für d
   - [AI Image & Video Evaluation Specialist (PT, MT and CT)](#ai-image--video-evaluation-specialist-pt-mt-and-ct)
   - [AI Trainer](#ai-trainer)
 - [Backend-Entwicklung](#backend-entwicklung)
-  - [Junior Game Developer (Java / libGDX)](#junior-game-developer-java--libgdx)
   - [Java Developer](#java-developer)
   - [Rust Developer](#rust-developer)
   - [Python Developer](#python-developer)
@@ -166,6 +166,8 @@ Die richtige Rolle zu finden ist schwer. Wir übernehmen die harte Arbeit für d
   - [Logistics & Supply Chain Management Specialist](#logistics--supply-chain-management-specialist)
   - [Business Document Expert (Excel, PowerPoint, Word)](#business-document-expert-excel-powerpoint-word)
 - [Andere Rollen](#andere-rollen)
+  - [Corporate Attorney](#corporate-attorney)
+  - [Private Equity & Investment Funds Attorney](#private-equity--investment-funds-attorney)
   - [At-Home Video Recorder](#at-home-video-recorder)
   - [Senior FreeCAD Engineer](#senior-freecad-engineer)
   - [BIM & Construction Coordination Expert](#bim--construction-coordination-expert)
@@ -178,12 +180,8 @@ Die richtige Rolle zu finden ist schwer. Wir übernehmen die harte Arbeit für d
   - [Neuroscience Expert](#neuroscience-expert)
   - [Inmunology Expert](#inmunology-expert)
   - [Pharmacology Expert](#pharmacology-expert)
-  - [Corporate Lawyer](#corporate-lawyer)
   - [Senior Technical Architect](#senior-technical-architect)
-  - [Audio Production Expert](#audio-production-expert)
   - [Electronic Engineer (Qucs-S expert)](#electronic-engineer-qucs-s-expert)
-  - [2D Artist (Krita)](#2d-artist-krita)
-  - [Junior Architect / CAD Engineer (Vectorworks)](#junior-architect--cad-engineer-vectorworks)
   - [Junior Post-Production Expert (Lightworks)](#junior-post-production-expert-lightworks)
   - [QGIS Expert](#qgis-expert)
   - [Junior Electronics Simulation Engineer (NgSpice)](#junior-electronics-simulation-engineer-ngspice)
@@ -224,7 +222,6 @@ Die richtige Rolle zu finden ist schwer. Wir übernehmen die harte Arbeit für d
   - [Hindi Transcription Expert](#hindi-transcription-expert)
   - [Arabic (MSA) Transcription Expert](#arabic-msa-transcription-expert)
   - [Romanized Hindi Transcription Expert](#romanized-hindi-transcription-expert)
-  - [Customer Support Email Analyst](#customer-support-email-analyst)
   - [Tatar Language Expert](#tatar-language-expert)
   - [Portuguese Language Expert (Brazil)](#portuguese-language-expert-brazil)
   - [Hindi Voice Coach](#hindi-voice-coach)
@@ -252,8 +249,6 @@ Die richtige Rolle zu finden ist schwer. Wir übernehmen die harte Arbeit für d
   - [Academic Researchers](#academic-researchers)
   - [Financial Planning and Analysis Expert](#financial-planning-and-analysis-expert)
   - [Word and PDF Experts](#word-and-pdf-experts)
-  - [Document Reviewer](#document-reviewer)
-  - [Privacy Annotation Specialist](#privacy-annotation-specialist)
   - [Transactional Attorney](#transactional-attorney)
   - [.NET Engineer](#net-engineer)
   - [Excel Expert](#excel-expert)
@@ -263,8 +258,6 @@ Die richtige Rolle zu finden ist schwer. Wir übernehmen die harte Arbeit für d
   - [Bambara Language Expert](#bambara-language-expert)
   - [Funds Attorney](#funds-attorney)
   - [M&A Attorney](#ma-attorney)
-  - [Web Browsing Evaluator](#web-browsing-evaluator)
-  - [Rubric Expert](#rubric-expert)
   - [Voice Actor/Actress](#voice-actoractress)
   - [Tibetan Language Expert](#tibetan-language-expert)
   - [Sherpa Language Expert](#sherpa-language-expert)
@@ -286,6 +279,13 @@ Die richtige Rolle zu finden ist schwer. Wir übernehmen die harte Arbeit für d
 
 
 ## KI & Machine Learning
+
+### <a href="https://jobs.micro1.ai/post/3461d671-c918-45ab-94cf-d52ee9e2e4b5" target="_blank">Gameplay Data Capture Specialist</a>
+- **💸 Bezahlung:** $10 - $18/hour
+- **🔗 Jetzt bewerben:** <a href="https://jobs.micro1.ai/post/3461d671-c918-45ab-94cf-d52ee9e2e4b5" target="_blank">Hier klicken um sich zu bewerben</a>
+- **📝 Beschreibung:** 
+  > Required skills: Required skills gameplay, gameplay, gameplay, $10-18/h. gameplay About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to do meaningful work by applying thei
+
 
 ### <a href="https://jobs.micro1.ai/post/f72cd3c0-d218-4b5d-bfa1-0b135cc171dd" target="_blank">AI Agent Productivity Specialist</a>
 - **💸 Bezahlung:** $30 - $90/hour
@@ -500,13 +500,6 @@ Die richtige Rolle zu finden ist schwer. Wir übernehmen die harte Arbeit für d
 [⬆️ Zurück nach oben](#-inhaltsverzeichnis)
 
 ## Backend-Entwicklung
-
-### <a href="https://jobs.micro1.ai/post/03cd460b-81ae-46c1-9453-c92e57ee2c41" target="_blank">Junior Game Developer (Java / libGDX)</a>
-- **💸 Bezahlung:** $20 - $120/hour
-- **🔗 Jetzt bewerben:** <a href="https://jobs.micro1.ai/post/03cd460b-81ae-46c1-9453-c92e57ee2c41" target="_blank">Hier klicken um sich zu bewerben</a>
-- **📝 Beschreibung:** 
-  > Required skills: Required skills JAVA LibDXG, JAVA LibDXG, JAVA, LibDXG, $20-120/h. JAVA LibDXG About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to do meaningful work by applying t
-
 
 ### <a href="https://jobs.micro1.ai/post/b4d8b40e-974e-4113-a8f9-534dd4c3739c" target="_blank">Java Developer</a>
 - **💸 Bezahlung:** $30 - $90/hour
@@ -1268,6 +1261,20 @@ Die richtige Rolle zu finden ist schwer. Wir übernehmen die harte Arbeit für d
 
 ## Andere Rollen
 
+### <a href="https://jobs.micro1.ai/post/d7f5df79-5f17-4b25-8b17-4ffa23a73b6c" target="_blank">Corporate Attorney</a>
+- **💸 Bezahlung:** $90 - $150/hour
+- **🔗 Jetzt bewerben:** <a href="https://jobs.micro1.ai/post/d7f5df79-5f17-4b25-8b17-4ffa23a73b6c" target="_blank">Hier klicken um sich zu bewerben</a>
+- **📝 Beschreibung:** 
+  > Required skills: corporate law, m&a (mergers and acquisitions), contract drafting and review, 7+, $90-150/h. corporate law m&a (mergers and acquisitions) contract drafting and review us regulatory compliance legal risk management legal research and analysis written and verbal communication translating complex legal concepts collaborative remote work legal document analysis About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, an
+
+
+### <a href="https://jobs.micro1.ai/post/490d4ba9-eeca-4d63-b373-cb1b4d28799d" target="_blank">Private Equity & Investment Funds Attorney</a>
+- **💸 Bezahlung:** $90 - $130/hour
+- **🔗 Jetzt bewerben:** <a href="https://jobs.micro1.ai/post/490d4ba9-eeca-4d63-b373-cb1b4d28799d" target="_blank">Hier klicken um sich zu bewerben</a>
+- **📝 Beschreibung:** 
+  > Required skills: contract drafting and negotiation, private equity legal expertise, investment funds legal expertise, 10+, $90-130/h. contract drafting and negotiation private equity legal expertise investment funds legal expertise m&a legal expertise transactional document analysis (e.g., msa, spa/apa, lpa, dpa, nda, side letters) data privacy and cybersecurity law knowledge technology transactions (including saas/cloud agreements) legal risk assessment legal writing and annotation attention to detail complex legal concept synthesis written and verbal communication collaboration with legal professionals About micro1 micro1 is the leading AI data lab for training frontier models and evaluati
+
+
 ### <a href="https://jobs.micro1.ai/post/0f435bd2-e7f0-4d24-9e32-de34b71c2a97" target="_blank">At-Home Video Recorder</a>
 - **💸 Bezahlung:** $13 - $13/hour
 - **🔗 Jetzt bewerben:** <a href="https://jobs.micro1.ai/post/0f435bd2-e7f0-4d24-9e32-de34b71c2a97" target="_blank">Hier klicken um sich zu bewerben</a>
@@ -1352,13 +1359,6 @@ Die richtige Rolle zu finden ist schwer. Wir übernehmen die harte Arbeit für d
   > Required skills: Required skills pharmacology, pharmacology, pharmacology, $60-80/h. pharmacology About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to do meaningful work by applying
 
 
-### <a href="https://jobs.micro1.ai/post/d7f5df79-5f17-4b25-8b17-4ffa23a73b6c" target="_blank">Corporate Lawyer</a>
-- **💸 Bezahlung:** $90 - $150/hour
-- **🔗 Jetzt bewerben:** <a href="https://jobs.micro1.ai/post/d7f5df79-5f17-4b25-8b17-4ffa23a73b6c" target="_blank">Hier klicken um sich zu bewerben</a>
-- **📝 Beschreibung:** 
-  > Required skills: corporate law, m&a (mergers and acquisitions), contract drafting and review, 7+, $90-150/h. corporate law m&a (mergers and acquisitions) contract drafting and review us regulatory compliance legal risk management legal research and analysis written and verbal communication translating complex legal concepts collaborative remote work legal document analysis About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, an
-
-
 ### <a href="https://jobs.micro1.ai/post/cf633740-7783-442e-881b-bbad6912770b" target="_blank">Senior Technical Architect</a>
 - **💸 Bezahlung:** $40 - $100/hour
 - **🔗 Jetzt bewerben:** <a href="https://jobs.micro1.ai/post/cf633740-7783-442e-881b-bbad6912770b" target="_blank">Hier klicken um sich zu bewerben</a>
@@ -1366,32 +1366,11 @@ Die richtige Rolle zu finden ist schwer. Wir übernehmen die harte Arbeit für d
   > Required skills: Cloud Benchmark Task Authoring, Cloud and Distributed Systems Architecture, Production Infrastructure Ownership, $40-100/h. Cloud Benchmark Task Authoring Cloud and Distributed Systems Architecture Production Infrastructure Ownership About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through
 
 
-### <a href="https://jobs.micro1.ai/post/aa498be8-7c47-4e03-a990-800cbfd9db1e" target="_blank">Audio Production Expert</a>
-- **💸 Bezahlung:** $19 - $65/hour
-- **🔗 Jetzt bewerben:** <a href="https://jobs.micro1.ai/post/aa498be8-7c47-4e03-a990-800cbfd9db1e" target="_blank">Hier klicken um sich zu bewerben</a>
-- **📝 Beschreibung:** 
-  > Required skills: Required skills Ardour LMMS Audio Production, Ardour LMMS Audio Production, Ardour, LMMS, Audio Production, $19-65/h. Ardour LMMS Audio Production About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable
-
-
 ### <a href="https://jobs.micro1.ai/post/3fc491d1-2881-4105-834f-8796c1f0738d" target="_blank">Electronic Engineer (Qucs-S expert)</a>
 - **💸 Bezahlung:** $50 - $120/hour
 - **🔗 Jetzt bewerben:** <a href="https://jobs.micro1.ai/post/3fc491d1-2881-4105-834f-8796c1f0738d" target="_blank">Hier klicken um sich zu bewerben</a>
 - **📝 Beschreibung:** 
   > Required skills: Required skills Qucs-S, Qucs-S, Qucs-S, $50-120/h. Qucs-S About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people to do meaningful work by applying their
-
-
-### <a href="https://jobs.micro1.ai/post/118febb1-1e20-4ba1-8629-31374745c065" target="_blank">2D Artist (Krita)</a>
-- **💸 Bezahlung:** $20 - $70/hour
-- **🔗 Jetzt bewerben:** <a href="https://jobs.micro1.ai/post/118febb1-1e20-4ba1-8629-31374745c065" target="_blank">Hier klicken um sich zu bewerben</a>
-- **📝 Beschreibung:** 
-  > Required skills: Required skills Krita Illustration Graphic Design, Krita Illustration Graphic Design, Krita, Illustration, Graphic Design, $20-70/h. Krita Illustration Graphic Design About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scal
-
-
-### <a href="https://jobs.micro1.ai/post/a2cb8365-6eed-4fa1-9e30-f01c8cab7d50" target="_blank">Junior Architect / CAD Engineer (Vectorworks)</a>
-- **💸 Bezahlung:** $20 - $100/hour
-- **🔗 Jetzt bewerben:** <a href="https://jobs.micro1.ai/post/a2cb8365-6eed-4fa1-9e30-f01c8cab7d50" target="_blank">Hier klicken um sich zu bewerben</a>
-- **📝 Beschreibung:** 
-  > Required skills: Required skills Vectorworks CAD Architecture 2+, Vectorworks CAD Architecture 2+, Vectorworks, CAD, Architecture, 2+, $20-100/h. Vectorworks CAD Architecture Design BIM About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at sc
 
 
 ### <a href="https://jobs.micro1.ai/post/71ef9bd1-53e5-457f-9e8e-aab9280d40af" target="_blank">Junior Post-Production Expert (Lightworks)</a>
@@ -1674,13 +1653,6 @@ Die richtige Rolle zu finden ist schwer. Wir übernehmen die harte Arbeit für d
   > Required skills: Transcription Metadata Tags Annotation 1+, Transcription, Metadata Tags, Annotation, 1+, $8-16/h. Transcription Metadata Tags Annotation Romanized Hindi About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to e
 
 
-### <a href="https://jobs.micro1.ai/post/1dcb7192-83d0-4926-9ce1-60f0a5f7c966" target="_blank">Customer Support Email Analyst</a>
-- **💸 Bezahlung:** $10 - $20/hour
-- **🔗 Jetzt bewerben:** <a href="https://jobs.micro1.ai/post/1dcb7192-83d0-4926-9ce1-60f0a5f7c966" target="_blank">Hier klicken um sich zu bewerben</a>
-- **📝 Beschreibung:** 
-  > Required skills: Customer Support, Email Communication, Written Communication, 1+, $10-20/h. Customer Support Email Communication Written Communication Customer Experience About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We
-
-
 ### <a href="https://jobs.micro1.ai/post/e30eca0d-22ab-44d7-be44-f30fe721ced5" target="_blank">Tatar Language Expert</a>
 - **💸 Bezahlung:** $15 - $95/hour
 - **🔗 Jetzt bewerben:** <a href="https://jobs.micro1.ai/post/e30eca0d-22ab-44d7-be44-f30fe721ced5" target="_blank">Hier klicken um sich zu bewerben</a>
@@ -1870,20 +1842,6 @@ Die richtige Rolle zu finden ist schwer. Wir übernehmen die harte Arbeit für d
   > Required skills: microsoft word, pdf editing tools, document formatting, 13+, $20-55/h. microsoft word pdf editing tools document formatting tracked changes management version control data extraction (documents) form creation (word/pdf) digital signatures (pdf) secure document handling compliance (legal/regulatory) confidentiality management cross-functional collaboration written and verbal communication attention to detail remote work training and stakeholder support About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engine
 
 
-### <a href="https://jobs.micro1.ai/post/090e6761-3c60-4a37-a816-883caccb2f90" target="_blank">Document Reviewer</a>
-- **💸 Bezahlung:** $63 - $119/hour
-- **🔗 Jetzt bewerben:** <a href="https://jobs.micro1.ai/post/090e6761-3c60-4a37-a816-883caccb2f90" target="_blank">Hier klicken um sich zu bewerben</a>
-- **📝 Beschreibung:** 
-  > Required skills: Review Data Identify Issues Validate Outputs 2+, Review Data, Identify Issues, Validate Outputs, 2+, $63-119/h. Review Data Identify Issues Validate Outputs Maintain Consistency Personal Identifiable Information About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabl
-
-
-### <a href="https://jobs.micro1.ai/post/99c4ab3f-ef1f-4a7d-90f0-bc3e1b243968" target="_blank">Privacy Annotation Specialist</a>
-- **💸 Bezahlung:** $105 - $140/hour
-- **🔗 Jetzt bewerben:** <a href="https://jobs.micro1.ai/post/99c4ab3f-ef1f-4a7d-90f0-bc3e1b243968" target="_blank">Hier klicken um sich zu bewerben</a>
-- **📝 Beschreibung:** 
-  > Required skills: Contract Review Quality Assurance eDiscovery 3+, Contract Review, Quality Assurance, eDiscovery, 3+, $105-140/h. Contract Review Quality Assurance eDiscovery Compliance Personal Identifiable Information Data Privacy About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, e
-
-
 ### <a href="https://jobs.micro1.ai/post/93acd993-9130-4125-8e88-f115741beb36" target="_blank">Transactional Attorney</a>
 - **💸 Bezahlung:** $80 - $105/hour
 - **🔗 Jetzt bewerben:** <a href="https://jobs.micro1.ai/post/93acd993-9130-4125-8e88-f115741beb36" target="_blank">Hier klicken um sich zu bewerben</a>
@@ -1945,20 +1903,6 @@ Die richtige Rolle zu finden ist schwer. Wir übernehmen die harte Arbeit für d
 - **🔗 Jetzt bewerben:** <a href="https://jobs.micro1.ai/post/733b66a8-8c1d-4d63-8fc4-1cf06da06102" target="_blank">Hier klicken um sich zu bewerben</a>
 - **📝 Beschreibung:** 
   > Required skills: Required skills M&A APAs SPAs 2+, M&A APAs SPAs 2+, M&A, APAs, SPAs, 2+, $80-105/h. M&A APAs SPAs Contract Negotiations Redlining About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim to enable 1 billion people
-
-
-### <a href="https://jobs.micro1.ai/post/f2d9a2cc-e261-4414-a486-a34cb1b066a7" target="_blank">Web Browsing Evaluator</a>
-- **💸 Bezahlung:** $30 - $45/hour
-- **🔗 Jetzt bewerben:** <a href="https://jobs.micro1.ai/post/f2d9a2cc-e261-4414-a486-a34cb1b066a7" target="_blank">Hier klicken um sich zu bewerben</a>
-- **📝 Beschreibung:** 
-  > Required skills: Attention to Detail, Data Annotation, Web Browsing, 3+, $30-45/h. Attention to Detail Data Annotation Web Browsing Screen Grabbing Following Instrcutions Documentation About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert con
-
-
-### <a href="https://jobs.micro1.ai/post/960c7379-8a3b-4142-86df-1c0c0bc19fcb" target="_blank">Rubric Expert</a>
-- **💸 Bezahlung:** $30 - $45/hour
-- **🔗 Jetzt bewerben:** <a href="https://jobs.micro1.ai/post/960c7379-8a3b-4142-86df-1c0c0bc19fcb" target="_blank">Hier klicken um sich zu bewerben</a>
-- **📝 Beschreibung:** 
-  > Required skills: Data Annotation, Attention to Detail, Screen Grabbing, 4+, $30-45/h. Data Annotation Attention to Detail Screen Grabbing Web Browsing Documentation Prompt Engineering Rubric About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert
 
 
 ### <a href="https://jobs.micro1.ai/post/21caf82a-b545-41b3-b6b8-00534ef30f65" target="_blank">Voice Actor/Actress</a>
