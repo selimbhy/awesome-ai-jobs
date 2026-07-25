@@ -77,7 +77,6 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
   - [Junior Software Engineer (Open 3D Engine)](#junior-software-engineer-open-3d-engine)
   - [Junior Solar2D Game Developer](#junior-solar2d-game-developer)
   - [Computer Science Expert (PhD)](#computer-science-expert-phd)
-  - [Computational Engineering Expert](#computational-engineering-expert)
   - [Go Developer](#go-developer)
   - [Competitive Coder](#competitive-coder)
   - [Engineering & Technical Documentation Specialist](#engineering--technical-documentation-specialist)
@@ -99,9 +98,6 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
   - [Physics Expert (PhD)](#physics-expert-phd)
   - [Economics Expert (PhD)](#economics-expert-phd)
   - [Statistics Expert (PhD)](#statistics-expert-phd)
-  - [Computational Biology Expert](#computational-biology-expert)
-  - [Computational Chemistry Expert](#computational-chemistry-expert)
-  - [Computational Physics Expert](#computational-physics-expert)
   - [Math Expert (PhD)](#math-expert-phd)
   - [Chemistry Expert (PhD)](#chemistry-expert-phd)
   - [Biology Expert (PhD)](#biology-expert-phd)
@@ -172,6 +168,7 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
   - [Logistics & Supply Chain Management Specialist](#logistics--supply-chain-management-specialist)
   - [Business Document Expert (Excel, PowerPoint, Word)](#business-document-expert-excel-powerpoint-word)
 - [Outros Cargos](#outros-cargos)
+  - [Bengali language expert](#bengali-language-expert)
   - [InfoSec Expert](#infosec-expert)
   - [Corporate Attorney](#corporate-attorney)
   - [Private Equity & Investment Funds Attorney](#private-equity--investment-funds-attorney)
@@ -211,11 +208,6 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
   - [M&A Corporate & Securities Attorney](#ma-corporate--securities-attorney)
   - [Commercial Contracts Attorney — M&A Diligence](#commercial-contracts-attorney--ma-diligence)
   - [Health Care Specialist](#health-care-specialist)
-  - [Thai Language Expert](#thai-language-expert)
-  - [Norwegian Language Expert](#norwegian-language-expert)
-  - [Turkish Language Expert](#turkish-language-expert)
-  - [Singaporean English Language Expert](#singaporean-english-language-expert)
-  - [Bengali Language Expert](#bengali-language-expert)
   - [Spanish Language Expert (Mexico)](#spanish-language-expert-mexico)
   - [Spanish Language Expert (Spain)](#spanish-language-expert-spain)
   - [French Transcription Expert (France)](#french-transcription-expert-france)
@@ -657,13 +649,6 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
   > Required skills: Required skills Computer Science PhD Python 1+, Computer Science PhD Python 1+, Computer Science, PhD, Python, 1+, $80-90/h. Computer Science PhD Python Data Science About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale
 
 
-### <a href="https://jobs.micro1.ai/post/9e1c8d48-0e42-4996-a0ad-40ad7cedf1fc" target="_blank">Computational Engineering Expert</a>
-- **💸 Pagamento:** $40 - $60/hour
-- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/9e1c8d48-0e42-4996-a0ad-40ad7cedf1fc" target="_blank">Clique aqui para se candidatar</a>
-- **📝 Descrição:** 
-  > Required skills: computational fluid dynamics (cfd), finite element analysis (fea), matlab, 22+, $40-60/h. computational fluid dynamics (cfd) finite element analysis (fea) matlab python ansys abaqus openfoam comsol simulation modeling systems engineering technical dataset review domain-specific tool expertise problem-solving systems thinking written communication verbal communication collaboration ai model evaluation technical benchmarking scripting scientific workflows ai/ml application in engineering high performance computing (hpc) optimization large-scale simulation environments About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts
-
-
 ### <a href="https://jobs.micro1.ai/post/44152534-cfa1-4ed7-9fa6-8be32f879682" target="_blank">Go Developer</a>
 - **💸 Pagamento:** $30 - $90/hour
 - **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/44152534-cfa1-4ed7-9fa6-8be32f879682" target="_blank">Clique aqui para se candidatar</a>
@@ -803,27 +788,6 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
 - **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/78e55232-cb71-4f9c-8d60-b5d52678d7a8" target="_blank">Clique aqui para se candidatar</a>
 - **📝 Descrição:** 
   > Required skills: statistics PhD statistical approach 2+, statistics, PhD, statistical approach, 2+, $90-120/h. statistics PhD statistical approach advanced data analysis MySQL About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We ai
-
-
-### <a href="https://jobs.micro1.ai/post/6d5c21e9-6e7e-41a5-8a15-bf273dad7c49" target="_blank">Computational Biology Expert</a>
-- **💸 Pagamento:** $40 - $60/hour
-- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/6d5c21e9-6e7e-41a5-8a15-bf273dad7c49" target="_blank">Clique aqui para se candidatar</a>
-- **📝 Descrição:** 
-  > Required skills: Required skills python r bash 22+, python r bash 22+, python, r, bash, 22+, $40-60/h. python r bash bwa gatk star salmon seurat scanpy ngs pipelines alphafold pymol genomics transcriptomics systems biology structural biology ai/ml evaluation bioinformatics analysis scientific reasoning analytical skills problem-solving written communication verbal communication interdisciplinary collaboration remote work About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise
-
-
-### <a href="https://jobs.micro1.ai/post/be698edc-fbdf-4213-bccd-12fd37678e43" target="_blank">Computational Chemistry Expert</a>
-- **💸 Pagamento:** $40 - $60/hour
-- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/be698edc-fbdf-4213-bccd-12fd37678e43" target="_blank">Clique aqui para se candidatar</a>
-- **📝 Descrição:** 
-  > Required skills: computational chemistry, molecular simulations, python, 23+, $40-60/h. computational chemistry molecular simulations python quantum chemistry cheminformatics molecular dynamics scientific programming gaussian orca psi4 nwchem gromacs lammps amber rdkit openbabel simulation parameter optimization scientific data analysis ai/ml-assisted chemistry workflows drug discovery scientific reasoning analytical skills written communication verbal communication documentation problem-solving About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as fina
-
-
-### <a href="https://jobs.micro1.ai/post/3fe7f3bc-7a2a-4a7d-8e23-16bcd27a3280" target="_blank">Computational Physics Expert</a>
-- **💸 Pagamento:** $40 - $60/hour
-- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/3fe7f3bc-7a2a-4a7d-8e23-16bcd27a3280" target="_blank">Clique aqui para se candidatar</a>
-- **📝 Descrição:** 
-  > Required skills: computational physics, scientific computing, python, 18+, $40-60/h. computational physics scientific computing python c++ matlab root numerical simulations monte carlo methods hpc workflows data analysis quantitative modeling scientific data interpretation analytical reasoning mathematical reasoning scientific communication written communication verbal communication team collaboration scientific integrity ai/ml workflows scientific benchmarking About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineerin
 
 
 ### <a href="https://jobs.micro1.ai/post/737b57d1-ffc8-4e2d-82c4-86c3c4943325" target="_blank">Math Expert (PhD)</a>
@@ -1310,6 +1274,13 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
 
 ## Outros Cargos
 
+### <a href="https://jobs.micro1.ai/post/7ba608ea-a745-457b-8582-047093714090" target="_blank">Bengali language expert</a>
+- **💸 Pagamento:** $10 - $30/hour
+- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/7ba608ea-a745-457b-8582-047093714090" target="_blank">Clique aqui para se candidatar</a>
+- **📝 Descrição:** 
+  > Required skills: Required skills Language proficiency Linguistic, Language proficiency Linguistic, Language proficiency, Linguistic, $10-30/h. Language proficiency Linguistic About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim
+
+
 ### <a href="https://jobs.micro1.ai/post/53eacc63-ab37-46ef-9758-1c1db8c0768a" target="_blank">InfoSec Expert</a>
 - **💸 Pagamento:** $60 - $100/hour
 - **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/53eacc63-ab37-46ef-9758-1c1db8c0768a" target="_blank">Clique aqui para se candidatar</a>
@@ -1581,41 +1552,6 @@ Encontrar a vaga certa é difícil. Fazemos o trabalho pesado selecionando as me
 - **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/3a0781d0-5c49-4a42-bf3f-ae9092382614" target="_blank">Clique aqui para se candidatar</a>
 - **📝 Descrição:** 
   > Required skills: Clinical Knowledge & Patient Care, Attention to Detail & Accuracy, Communication & Empathy, 1+, $15-25/h. Clinical Knowledge & Patient Care Attention to Detail & Accuracy Communication & Empathy Compliance & Documentation About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recrui
-
-
-### <a href="https://jobs.micro1.ai/post/e3ccd502-1383-42f3-8055-59e7f2debba5" target="_blank">Thai Language Expert</a>
-- **💸 Pagamento:** $15 - $30/hour
-- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/e3ccd502-1383-42f3-8055-59e7f2debba5" target="_blank">Clique aqui para se candidatar</a>
-- **📝 Descrição:** 
-  > Required skills: Required skills Thai Voice Acting Captioning 2+, Thai Voice Acting Captioning 2+, Thai, Voice Acting, Captioning, 2+, $15-30/h. Thai Voice Acting Captioning Transcription Attention to Detail About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expe
-
-
-### <a href="https://jobs.micro1.ai/post/b41bfb9d-f30f-4a49-bf3d-194cec873348" target="_blank">Norwegian Language Expert</a>
-- **💸 Pagamento:** $10 - $45/hour
-- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/b41bfb9d-f30f-4a49-bf3d-194cec873348" target="_blank">Clique aqui para se candidatar</a>
-- **📝 Descrição:** 
-  > Required skills: Attention to Detail in Quality Evaluation, Audio Transcription & Annotation Skills, 2+, $10-45/h. Familiarity with Speech Data Collection & AI Workflows Attention to Detail in Quality Evaluation Audio Transcription & Annotation Skills Phonetics & Pronunciation Awareness Native or Near-Native Proficiency in Norwegian About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI syst
-
-
-### <a href="https://jobs.micro1.ai/post/27dd2975-d6d9-44a6-a87d-6561923d6829" target="_blank">Turkish Language Expert</a>
-- **💸 Pagamento:** $10 - $40/hour
-- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/27dd2975-d6d9-44a6-a87d-6561923d6829" target="_blank">Clique aqui para se candidatar</a>
-- **📝 Descrição:** 
-  > Required skills: Native or Near-Native Proficiency in Turkish, Phonetics, Pronunciation, 4+, $10-40/h. Native or Near-Native Proficiency in Turkish Phonetics Pronunciation Audio Transcription Annotation Speech Data Collection AI Workflows About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recrui
-
-
-### <a href="https://jobs.micro1.ai/post/3b51f552-4a85-49a1-8332-484787b3eeef" target="_blank">Singaporean English Language Expert</a>
-- **💸 Pagamento:** $10 - $41/hour
-- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/3b51f552-4a85-49a1-8332-484787b3eeef" target="_blank">Clique aqui para se candidatar</a>
-- **📝 Descrição:** 
-  > Required skills: Singaporean English Language Proficiency, AI workflows, Data Collection, 3+, $10-41/h. Singaporean English Language Proficiency AI workflows Data Collection Audio Transcription Annotation Phonetics About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quali
-
-
-### <a href="https://jobs.micro1.ai/post/eb53f428-5c3c-495a-bf71-ef0204951ece" target="_blank">Bengali Language Expert</a>
-- **💸 Pagamento:** $14 - $24/hour
-- **🔗 Candidatar-se:** <a href="https://jobs.micro1.ai/post/eb53f428-5c3c-495a-bf71-ef0204951ece" target="_blank">Clique aqui para se candidatar</a>
-- **📝 Descrição:** 
-  > Required skills: Bengali Voice Acting Transcription 2+, Bengali, Voice Acting, Transcription, 2+, $14-24/h. Bengali Voice Acting Transcription Captioning Attention to Detail About micro1 micro1 is the leading AI data lab for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more. micro1 transforms that real-world expertise into high-quality training data, evaluations, and feedback loops that improve how AI systems learn, reason, and perform. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality expert contributions at scale. We aim
 
 
 ### <a href="https://jobs.micro1.ai/post/4f2eb822-e6a3-4a69-9d0f-e2e68d692131" target="_blank">Spanish Language Expert (Mexico)</a>
