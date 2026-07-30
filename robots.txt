@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://selimbhy.github.io/awesome-ai-jobs/sitemap.xml
